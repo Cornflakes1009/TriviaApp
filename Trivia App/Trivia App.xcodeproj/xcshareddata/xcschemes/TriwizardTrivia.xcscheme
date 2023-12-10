@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D95277B22B25C03D0089B91D"
-               BuildableName = "sparkle-trivia copy.app"
-               BlueprintName = "sparkle-trivia copy"
+               BuildableName = "TriwizardTrivia.app"
+               BlueprintName = "TriwizardTrivia"
                ReferencedContainer = "container:Trivia App.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -44,8 +44,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D95277B22B25C03D0089B91D"
-            BuildableName = "sparkle-trivia copy.app"
-            BlueprintName = "sparkle-trivia copy"
+            BuildableName = "TriwizardTrivia.app"
+            BlueprintName = "TriwizardTrivia"
             ReferencedContainer = "container:Trivia App.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -61,8 +61,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D95277B22B25C03D0089B91D"
-            BuildableName = "sparkle-trivia copy.app"
-            BlueprintName = "sparkle-trivia copy"
+            BuildableName = "TriwizardTrivia.app"
+            BlueprintName = "TriwizardTrivia"
             ReferencedContainer = "container:Trivia App.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

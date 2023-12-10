@@ -53,7 +53,7 @@
 		D95277C72B25C1160089B91D /* AppConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95277C62B25C1160089B91D /* AppConstants.swift */; };
 		D95277C82B25C2870089B91D /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D952774D2B25AE4C0089B91D /* HomeVC.swift */; };
 		D95277C92B25C2880089B91D /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D952774D2B25AE4C0089B91D /* HomeVC.swift */; };
-		D95277CB2B25C3920089B91D /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D95277CA2B25C3920089B91D /* Media.xcassets */; };
+		D95277CB2B25C3920089B91D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D95277CA2B25C3920089B91D /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -87,17 +87,17 @@
 		D952776A2B25AE4F0089B91D /* Trivia_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trivia_AppUITests.swift; sourceTree = "<group>"; };
 		D952776C2B25AE4F0089B91D /* Trivia_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trivia_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		D95277862B25AE580089B91D /* po-tay-toes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "po-tay-toes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D95277872B25AE580089B91D /* po-tay-toes.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "po-tay-toes.plist"; path = "/Users/HaroldDavidson/Trivia App/po-tay-toes.plist"; sourceTree = "<absolute>"; };
+		D95277872B25AE580089B91D /* po-tay-toes.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "po-tay-toes.plist"; path = "/Users/HaroldDavidson/TriviaApp/Trivia App/po-tay-toes.plist"; sourceTree = "<absolute>"; };
 		D952778B2B25AFFE0089B91D /* AppConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConstants.swift; sourceTree = "<group>"; };
 		D952778F2B25B02E0089B91D /* AppConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConstants.swift; sourceTree = "<group>"; };
 		D95277922B25B2410089B91D /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		D95277A72B25B3CE0089B91D /* sparkle-trivia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "sparkle-trivia.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D95277A82B25B3CE0089B91D /* sparkle-trivia.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "sparkle-trivia.plist"; path = "/Users/HaroldDavidson/Trivia App/sparkle-trivia.plist"; sourceTree = "<absolute>"; };
+		D95277A82B25B3CE0089B91D /* sparkle-trivia.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "sparkle-trivia.plist"; path = "/Users/HaroldDavidson/TriviaApp/Trivia App/sparkle-trivia.plist"; sourceTree = "<absolute>"; };
 		D95277AC2B25BE4F0089B91D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		D95277C22B25C03D0089B91D /* TriwizardTrivia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TriwizardTrivia.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D95277C32B25C03D0089B91D /* TriwizardTrivia.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = TriwizardTrivia.plist; path = "/Users/HaroldDavidson/Trivia App/TriwizardTrivia.plist"; sourceTree = "<absolute>"; };
+		D95277C32B25C03D0089B91D /* TriwizardTrivia.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = TriwizardTrivia.plist; path = "/Users/HaroldDavidson/TriviaApp/Trivia App/TriwizardTrivia.plist"; sourceTree = "<absolute>"; };
 		D95277C62B25C1160089B91D /* AppConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConstants.swift; sourceTree = "<group>"; };
-		D95277CA2B25C3920089B91D /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
+		D95277CA2B25C3920089B91D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -235,7 +235,7 @@
 			children = (
 				D95277C62B25C1160089B91D /* AppConstants.swift */,
 				D95277C32B25C03D0089B91D /* TriwizardTrivia.plist */,
-				D95277CA2B25C3920089B91D /* Media.xcassets */,
+				D95277CA2B25C3920089B91D /* Assets.xcassets */,
 			);
 			path = TriwizardTrivia;
 			sourceTree = "<group>";
@@ -450,7 +450,7 @@
 				D95277C52B25C0EB0089B91D /* TriwizardTrivia.plist in Resources */,
 				D95277BC2B25C03D0089B91D /* sparkle-trivia.plist in Resources */,
 				D95277BD2B25C03D0089B91D /* README.md in Resources */,
-				D95277CB2B25C3920089B91D /* Media.xcassets in Resources */,
+				D95277CB2B25C3920089B91D /* Assets.xcassets in Resources */,
 				D95277BE2B25C03D0089B91D /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -678,7 +678,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 464PVQ34ND;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Trivia App/Info.plist";
+				INFOPLIST_FILE = "Trivia App/TriwizardTrivia/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -705,7 +705,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 464PVQ34ND;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Trivia App/Info.plist";
+				INFOPLIST_FILE = "Trivia App/TriwizardTrivia/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -818,7 +818,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				OTHER_SWIFT_FLAGS = "po-tay-toes";
+				OTHER_SWIFT_FLAGS = "";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.harolddavidson.Trivia-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -846,7 +846,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				OTHER_SWIFT_FLAGS = "po-tay-toes";
+				OTHER_SWIFT_FLAGS = "";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.harolddavidson.Trivia-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
