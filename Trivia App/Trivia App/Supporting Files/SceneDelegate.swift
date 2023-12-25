@@ -13,12 +13,32 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
 
     func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
-        guard let windowScene = (scene as? UIWindowScene) else { return }
+//        guard let windowScene = (scene as? UIWindowScene) else { return }
+//
+//        let window = UIWindow(windowScene: windowScene)
+//        window.rootViewController = HomeVC()
+//        self.window = window
+//        window.makeKeyAndVisible()
         
-        let window = UIWindow(windowScene: windowScene)
-        window.rootViewController = HomeVC()
-        self.window = window
-        window.makeKeyAndVisible()
+        if let windowScene = scene as? UIWindowScene {
+            let window = UIWindow(windowScene: windowScene)
+            // Instantiate home VC
+            let homeVC = HomeVC()
+            
+            // Instatntiate navigation controller
+            let baseNavigationController = SwipeNavigationController(rootViewController: homeVC)
+            baseNavigationController.navigationBar.barStyle = .black
+            
+            // Update font titles for navigation bar
+//            let attributes = [NSAttributedString.Key.font: UIFont(name: "HoeflerText-Regular", size: 20)!]
+//            baseNavigationController.navigationBar.titleTextAttributes = attributes
+//            UIBarButtonItem.appearance().setTitleTextAttributes(attributes, for: .normal)
+//            UIBarButtonItem.appearance().setTitleTextAttributes(attributes, for: .highlighted)
+            
+            window.rootViewController = baseNavigationController
+            self.window = window
+            window.makeKeyAndVisible()
+        }
     }
 
     func sceneDidDisconnect(_ scene: UIScene) {

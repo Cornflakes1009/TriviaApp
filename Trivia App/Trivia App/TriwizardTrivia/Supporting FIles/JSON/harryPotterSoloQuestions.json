@@ -1,0 +1,6329 @@
+[
+ {
+   "category": "Harry Potter",
+   "question": "What is Harry's middle name?",
+   "answer": 0,
+   "0": "James",
+   "1": "Levy",
+   "2": "Isaac",
+   "3": "John"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What color are Dobby's eyes?",
+   "answer": 2,
+   "0": "Brown",
+   "1": "Gold",
+   "2": "Green",
+   "3": "Blue"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who was the headmaster of Hogwarts immediately before Dumbledore?",
+   "answer": 2,
+   "0": "Merlin",
+   "1": "Godric Gryffindor",
+   "2": "Armando Dippet",
+   "3": "Bathilda Bagshot"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What are the initials inscribed in the fake horcrux locket?",
+   "answer": 3,
+   "0": "T.M.R.",
+   "1": "B.A.R.",
+   "2": "R.B.A.",
+   "3": "R.A.B."
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell does Lockhart use to wipe memories?",
+   "answer": 1,
+   "0": "Confundus",
+   "1": "Obliviate",
+   "2": "Lumos",
+   "3": "Crucio"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What color is the dragon that Fleur faces in the Triwizard Tournament?",
+   "answer": 0,
+   "0": "Green",
+   "1": "Gold",
+   "2": "Red",
+   "3": "Blue"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of the company that Vernon Dursley works for and what do they sell?",
+   "answer": 3,
+   "0": "Smeltings. Canes.",
+   "1": "Smeltings. Drills.",
+   "2": "Bertie Botts. Beans.",
+   "3": "Grunnings. Drills."
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What amphibian comes in chocolate form and has about one good jump in it?",
+   "answer": 1,
+   "0": "Toad",
+   "1": "Frog",
+   "2": "Salamander",
+   "3": "Newt"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many real prophecies has Trelawney made in her lifetime?",
+   "answer": 1,
+   "0": "One",
+   "1": "Two",
+   "2": "Three",
+   "3": "Four"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Dumbledore find in the Room of Requirement?",
+   "answer": 2,
+   "0": "Brooms",
+   "1": "Lemon drops",
+   "2": "Chamber pots",
+   "3": "An angry troll"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the Hogwarts poltergeist?",
+   "answer": 0,
+   "0": "Peeves",
+   "1": "The Fat Friar",
+   "2": "The Grey Lady",
+   "3": "Nearly Headless Nick"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Voldemort's mother's maiden name?",
+   "answer": 2,
+   "0": "Marvolo",
+   "1": "Albus",
+   "2": "Gaunt",
+   "3": "Rubeus"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of Dumbledore's phoenix?",
+   "answer": 3,
+   "0": "Fluffy",
+   "1": "Aragog",
+   "2": "Hedwig",
+   "3": "Fawkes"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How much money do the Weasleys win in the Daily Prophet Galleon Giveaway?",
+   "answer": 1,
+   "0": "500 Galleons",
+   "1": "700 Galleons",
+   "2": "1,000 Galleons",
+   "3": "10,000 Galleons"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does O.W.L stand for?",
+   "answer": 0,
+   "0": "Ordinary Wizarding Level",
+   "1": "Outstanding Wizarding Level",
+   "2": "Ordinary Witching Level",
+   "3": "Outstanding Witching Level"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What famous dark wizard did Dumbledore defeat?",
+   "answer": 3,
+   "0": "Mad-Eye Moody",
+   "1": "Merlin",
+   "2": "Nicolas Flamel",
+   "3": "Grindelwald"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the symbol of the Slytherin house?",
+   "answer": 0,
+   "0": "A snake",
+   "1": "A badger",
+   "2": "A lion",
+   "3": "An eagle"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "At which famous location does the Night Bus drop off Harry?",
+   "answer": 2,
+   "0": "The Three Broomsticks",
+   "1": "Hogsmeade",
+   "2": "The Leaky Cauldron",
+   "3": "The Shrieking Shack"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which of the Weasleys is a prefect when Harry first goes to Hogwarts?",
+   "answer": 1,
+   "0": "Bill",
+   "1": "Percy",
+   "2": "Fred",
+   "3": "Charlie"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the symbol of the Gryffindor house?",
+   "answer": 3,
+   "0": "A badger",
+   "1": "An eagle",
+   "2": "A snake",
+   "3": "A lion"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the symbol of the Hufflepuff house?",
+   "answer": 2,
+   "0": "A snake",
+   "1": "An eagle",
+   "2": "A badger",
+   "3": "A lion"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the symbol of the Ravenclaw house?",
+   "answer": 0,
+   "0": "An eagle",
+   "1": "A badger",
+   "2": "A lion",
+   "3": "A snake"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many sickles are in a galleon?",
+   "answer": 1,
+   "0": "13 sickles",
+   "1": "17 sickles",
+   "2": "20 sickles",
+   "3": "29 sickles"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many knuts are in a sickle?",
+   "answer": 3,
+   "0": "13 knuts",
+   "1": "17 knuts",
+   "2": "20 knuts",
+   "3": "29 knuts"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who received a special award at Hogwarts 50 years before Harry attended?",
+   "answer": 2,
+   "0": "Bathilda Bagshot",
+   "1": "Hagrid",
+   "2": "Tom Riddle",
+   "3": "Severus Snape"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many times was Nearly Headless Nick hit in the neck with a blunt axe?",
+   "answer": 3,
+   "0": "32 times",
+   "1": "35 times",
+   "2": "42 times",
+   "3": "45 times"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the make and model of Mr. Weasley's flying car?",
+   "answer": 0,
+   "0": "Ford Anglia",
+   "1": "Mini Cooper",
+   "2": "Toyota Corolla",
+   "3": "VW Beetle"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many brothers does Ron have?",
+   "answer": 1,
+   "0": "Four",
+   "1": "Five",
+   "2": "Six",
+   "3": "Seven"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In which vault is the Sorcerors Stone kept?",
+   "answer": 2,
+   "0": "Vault 703",
+   "1": "Vault 711",
+   "2": "Vault 713",
+   "3": "Vault 723"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who invented the headless hat?",
+   "answer": 3,
+   "0": "Zonkos",
+   "1": "Dean Tomas",
+   "2": "Nearly Headless Nick",
+   "3": "Fred & George Weasley"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Voldemort's father's name?",
+   "answer": 0,
+   "0": "Tom Riddle",
+   "1": "Tom Marvolo",
+   "2": "Tom Gaunt",
+   "3": "Tom Voldemort"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is Ginny Weasley's first boyfriend?",
+   "answer": 1,
+   "0": "Dean Thomas",
+   "1": "Michael Corner",
+   "2": "Harry Potter",
+   "3": "Viktor Krum"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many galleons do Fred and George bet on the World Cup?",
+   "answer": 2,
+   "0": "17 galleons",
+   "1": "27 galleons",
+   "2": "37 galleons",
+   "3": "57 galleons"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many chocolate frog cards does Ron estimate he has?",
+   "answer": 2,
+   "0": "About 100",
+   "1": "About 200",
+   "2": "About 500",
+   "3": "About a million"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Ron use to destroy Helga Hufflepuff's cup?",
+   "answer": 0,
+   "0": "A basalisk fang",
+   "1": "A spell",
+   "2": "Sword of Gryffindor",
+   "3": "A rock"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many total goal posts are there on both side in Quidditch?",
+   "answer": 1,
+   "0": "Four",
+   "1": "Six",
+   "2": "Eight",
+   "3": "Ten"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What day and month is Harry's birthday?",
+   "answer": 2,
+   "0": "June 30th",
+   "1": "July 30th",
+   "2": "July 31st",
+   "3": "August 1st"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the next name in this sequence: Wormtail, Moony, Padfoot, and ____?",
+   "answer": 3,
+   "0": "Severus",
+   "1": "Diggle",
+   "2": "Raptor",
+   "3": "Prongs"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How did Harry's parents die according to the Dursleys?",
+   "answer": 0,
+   "0": "Car crash",
+   "1": "Potion explosion",
+   "2": "Freak Accident",
+   "3": "Gunman"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the Durley's address?",
+   "answer": 3,
+   "0": "Number 1 Privet Drive",
+   "1": "Number 2 Privet Drive",
+   "2": "Number 3 Privet Drive",
+   "3": "Number 4 Privet Drive"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many points is catching the snitch worth?",
+   "answer": 1,
+   "0": "100 points",
+   "1": "150 points",
+   "2": "200 points",
+   "3": "250 points"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many points is scoring the quaffle worth?",
+   "answer": 1,
+   "0": "Five",
+   "1": "Ten",
+   "2": "Twenty",
+   "3": "Thirty"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In which town do the Dursley's live?",
+   "answer": 0,
+   "0": "Little Whinging",
+   "1": "Sheffield",
+   "2": "London",
+   "3": "Berkshire"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of Hermione's cat?",
+   "answer": 2,
+   "0": "Pigwidgeon",
+   "1": "Trevor",
+   "2": "Crookshanks",
+   "3": "Scabbers"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the eldest Weasley sibling?",
+   "answer": 3,
+   "0": "Percy",
+   "1": "Charlie",
+   "2": "John",
+   "3": "Bill"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the youngest Weasley sibling?",
+   "answer": 0,
+   "0": "Ginny",
+   "1": "Ron",
+   "2": "Charlie",
+   "3": "Percy"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the leader of Dumbledore's Army?",
+   "answer": 1,
+   "0": "Hermione",
+   "1": "Harry",
+   "2": "Ron",
+   "3": "Dumbledore"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of the headquarters of the Order of the Phoenix?",
+   "answer": 2,
+   "0": "Privet Drive",
+   "1": "The Burrow",
+   "2": "Grimmauld Place",
+   "3": "Hogwarts"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How much does a 12 week course on apparition cost?",
+   "answer": 0,
+   "0": "12 galleons",
+   "1": "15 galleons",
+   "2": "17 galleons",
+   "3": "29 galleons"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who replaces Fudge as Minister of Magic?",
+   "answer": 1,
+   "0": "Kingsley Shacklebolt",
+   "1": "Rufus Scrimgeour",
+   "2": "Albus Dumbledore",
+   "3": "Barty Crouch"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the headmaster or headmistress of Durmstrang?",
+   "answer": 2,
+   "0": "Madame Maxime",
+   "1": "Ludo Bagman",
+   "2": "Igor Karkaroff",
+   "3": "Gellert Grindelwald"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the headmaster or headmistress of Beauxbatons Academy?",
+   "answer": 3,
+   "0": "Bathilda Bagshot",
+   "1": "Ludo Bagman",
+   "2": "Igor Karkaroff",
+   "3": "Madame Maxime"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the incantation for the killing curse?",
+   "answer": 0,
+   "0": "Avada Kedavra",
+   "1": "Stupefy",
+   "2": "Crucio",
+   "3": "Imperius"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the incantation for the levitating charm?",
+   "answer": 1,
+   "0": "Crucio",
+   "1": "Wingardium Leviosa",
+   "2": "Liftus",
+   "3": "Ascendio"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name given to Voldemort's followers?",
+   "answer": 2,
+   "0": "Dementors",
+   "1": "Soul Eaters",
+   "2": "Death Eaters",
+   "3": "Inferius"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How do the students of Durmstrang arrive at Hogwarts?",
+   "answer": 3,
+   "0": "Carriage",
+   "1": "Broomstick",
+   "2": "Teleportation",
+   "3": "Ship"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell opens the secret passage to Hogmeade behind the status of the one-eyed witch?",
+   "answer": 0,
+   "0": "Dissendium",
+   "1": "Accio",
+   "2": "Aguamenti",
+   "3": "Alohomora"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which subject is taught by Professor Binns?",
+   "answer": 1,
+   "0": "Arithmancy",
+   "1": "History of Magic",
+   "2": "Astronomy",
+   "3": "Ancient Runes"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In the books, who was the first student to be sorted by the Sorting Hat during Harry's first year?",
+   "answer": 2,
+   "0": "Hermione Granger",
+   "1": "Draco Malfoy",
+   "2": "Hannah Abbott",
+   "3": "Ronald Weasley"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many staircases does Hogwarts have?",
+   "answer": 3,
+   "0": "Fifty-nine",
+   "1": "Seventy-two",
+   "2": "One hundred and nine",
+   "3": "One hundred and forty-two"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which animals sit on the pillars of the gates at Hogwarts?",
+   "answer": 0,
+   "0": "Winged boars",
+   "1": "Unicorns",
+   "2": "Hippogriffs",
+   "3": "Thestrals"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which was mentioned that Professor Flitwick used to decorate his classroom for Christmas?",
+   "answer": 1,
+   "0": "Holly",
+   "1": "Fairies",
+   "2": "Mistletoe",
+   "3": "Pixies"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell turns boggarts into something humorous?",
+   "answer": 2,
+   "0": "Expecto Patronum",
+   "1": "Alohomora",
+   "2": "Riddikulus",
+   "3": "Humorosis"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the incantation for the summoning charm?",
+   "answer": 3,
+   "0": "Alohomora",
+   "1": "Aguamenti",
+   "2": "Dissendium",
+   "3": "Accio"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell does Harry use to try to fill the basin when Dumbledore needs a drink?",
+   "answer": 0,
+   "0": "Aguamenti",
+   "1": "Alohomora",
+   "2": "Dissendium",
+   "3": "Accio"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell is used to open locked doors?",
+   "answer": 1,
+   "0": "Aguamenti",
+   "1": "Alohomora",
+   "2": "Dissendium",
+   "3": "Accio"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the act of disappearing from one place and reappearing in another called?",
+   "answer": 2,
+   "0": "Arithmancy",
+   "1": "Dissendium",
+   "2": "Apparition",
+   "3": "Ascendio"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What number in the series is Harry Potter and the Sorceror's Stone?",
+   "answer": 0,
+   "0": "One",
+   "1": "Two",
+   "2": "Three",
+   "3": "Four"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What number in the series is Harry Potter and the Chamber of Secrets?",
+   "answer": 1,
+   "0": "One",
+   "1": "Two",
+   "2": "Three",
+   "3": "Four"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What number in the series is Harry Potter and the Prisoner of Azkaban?",
+   "answer": 2,
+   "0": "One",
+   "1": "Two",
+   "2": "Three",
+   "3": "Four"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What number in the series is Harry Potter and the Goblet of Fire?",
+   "answer": 3,
+   "0": "One",
+   "1": "Two",
+   "2": "Three",
+   "3": "Four"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What number in the series is Harry Potter and the Order of the Phoenix?",
+   "answer": 1,
+   "0": "Four",
+   "1": "Five",
+   "2": "Six",
+   "3": "Seven"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What number in the series is Harry Potter and the Half-Blood Prince?",
+   "answer": 2,
+   "0": "Four",
+   "1": "Five",
+   "2": "Six",
+   "3": "Seven"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What number in the series is Harry Potter and the Deathly Hallows?",
+   "answer": 3,
+   "0": "Four",
+   "1": "Five",
+   "2": "Six",
+   "3": "Seven"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does the J and K stand for in J.K. Rowling?",
+   "answer": 0,
+   "0": "Joanne Kathleen",
+   "1": "Jane Kaitlin",
+   "2": "Joanne Kaitlin",
+   "3": "Jane Kathleen"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who killed Cedric Diggory?",
+   "answer": 1,
+   "0": "Voldemort",
+   "1": "Wormtail",
+   "2": "Lucius Malfoy",
+   "3": "Bellatrix Lestrange"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In which town was the graveyard where Voldemort was brought back to power?",
+   "answer": 2,
+   "0": "Godric's Hollow",
+   "1": "Little Whinging",
+   "2": "Little Hangleton",
+   "3": "Hogsmeade"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Where did Harry's parents live when Voldemort killed them?",
+   "answer": 3,
+   "0": "Little Whinging",
+   "1": "Little Hangleton",
+   "2": "Hogsmeade",
+   "3": "Godric's Hollow"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of the hippogriff that attacked Malfoy?",
+   "answer": 0,
+   "0": "Buckbeak",
+   "1": "Witherwings",
+   "2": "Fleetwing",
+   "3": "Stormswift"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the top speed of the Firebolt?",
+   "answer": 1,
+   "0": "100 mph",
+   "1": "150 mph",
+   "2": "200 mph",
+   "3": "250 mph"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who sent Harry the Firebolt?",
+   "answer": 2,
+   "0": "Oliver Wood",
+   "1": "Professor McGonagall",
+   "2": "Sirius Black",
+   "3": "Albus Dumbledore"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of Barty Crouch's former house elf?",
+   "answer": 3,
+   "0": "Blinky",
+   "1": "Dobby",
+   "2": "Wobby",
+   "3": "Winky"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who gave Harry the Cloak of Invisibility?",
+   "answer": 0,
+   "0": "Dumbledore",
+   "1": "Sirius",
+   "2": "Lupin",
+   "3": "Hagrid"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "From which wood is Harry's wand made?",
+   "answer": 1,
+   "0": "Yew",
+   "1": "Holly",
+   "2": "Elder",
+   "3": "Hawthorne"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "From which wood is Voldemort's wand made?",
+   "answer": 2,
+   "0": "Holly",
+   "1": "Elder",
+   "2": "Yew",
+   "3": "Hawthorne"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "From which wood is the Elder Wand made?",
+   "answer": 3,
+   "0": "Holly",
+   "1": "Yew",
+   "2": "Hawthorne",
+   "3": "Elder"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What pulls the Hogwarts carriages?",
+   "answer": 0,
+   "0": "Thestrals",
+   "1": "Horses",
+   "2": "Unicorns",
+   "3": "Centaurs"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the core of the Elder Wand?",
+   "answer": 1,
+   "0": "Dragon heart string",
+   "1": "Thestral hair",
+   "2": "Unicorn hair",
+   "3": "Phoenix feather"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which family did Dobby formerly serve?",
+   "answer": 2,
+   "0": "The Blacks",
+   "1": "The Weasleys",
+   "2": "The Malfoys",
+   "3": "The Potters"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which family did Kreacher originally serve?",
+   "answer": 3,
+   "0": "The Weasleys",
+   "1": "The Malfoys",
+   "2": "The Potters",
+   "3": "The Blacks"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is Dudley's childhood best friend?",
+   "answer": 0,
+   "0": "Piers",
+   "1": "Dennis",
+   "2": "Gordon",
+   "3": "Malcom"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of Dudley's school?",
+   "answer": 0,
+   "0": "Smeltings",
+   "1": "St. Brutis's",
+   "2": "Hogwarts",
+   "3": "St. Mary's"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What frozen treat do the Dursley's buy Harry at the zoo?",
+   "answer": 1,
+   "0": "Knickerbocker Glory",
+   "1": "Cheap lemon ice pop",
+   "2": "Parfait",
+   "3": "Vanilla ice cream cone"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In the movie, what kind of snake does Harry release at the zoo?",
+   "answer": 3,
+   "0": "Basilisk",
+   "1": "Cobra",
+   "2": "Boa constrictor",
+   "3": "Burmese python"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Where does the snake that Harry released at the zoo say it's going?",
+   "answer": 3,
+   "0": "Peru",
+   "1": "Burma",
+   "2": "Argentina",
+   "3": "Brazil"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of the Weasley's old owl?",
+   "answer": 0,
+   "0": "Errol",
+   "1": "Hedwig",
+   "2": "Pigwidgeon",
+   "3": "Hermes"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of Percy Weasley's owl?",
+   "answer": 3,
+   "0": "Errol",
+   "1": "Hedwig",
+   "2": "Pigwidgeon",
+   "3": "Hermes"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In which department does Arthur Weasley work?",
+   "answer": 0,
+   "0": "The Misuse of Muggle Artifacts",
+   "1": "Magical Mail Room",
+   "2": "Auror's Office",
+   "3": "Accidental Magic Reversal Squad"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of the Weasley's home?",
+   "answer": 1,
+   "0": "Grimmauld Place",
+   "1": "The Burrow",
+   "2": "Shell Cottage",
+   "3": "Spinner's End"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Ron's mother's name?",
+   "answer": 2,
+   "0": "Martha Weasley",
+   "1": "Marge Weasley",
+   "2": "Molly Weasley",
+   "3": "Mary Weasley"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who won Witch Weekly's Most Charming Smile Award five times?",
+   "answer": 3,
+   "0": "Albus Dumbledore",
+   "1": "Rita Skeeter",
+   "2": "Harry Potter",
+   "3": "Gilderoy Lockhart"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which Order of Merlin rank is Lockhart?",
+   "answer": 2,
+   "0": "First",
+   "1": "Second",
+   "2": "Third",
+   "3": "Fourth"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell backfires on Lockhart in the Chamber of Secrets?",
+   "answer": 3,
+   "0": "Stupefy",
+   "1": "Imperio",
+   "2": "Avada Kedavra",
+   "3": "Obliviate"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Gilderoy Lockhart's favorite color?",
+   "answer": 0,
+   "0": "Lilac",
+   "1": "Periwinkle",
+   "2": "Baby blue",
+   "3": "Pink lace"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which creature did Lockhart unleash on his class?",
+   "answer": 1,
+   "0": "Dementors",
+   "1": "Cornish Pixies",
+   "2": "Boggarts",
+   "3": "Grindylows"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "At which store did Harry first meet Lockhart?",
+   "answer": 2,
+   "0": "The Leaky Cauldron",
+   "1": "Madam Malkins",
+   "2": "Flourish and Blotts",
+   "3": "Quality Quidditch Supplies"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Where did Lucius Malfoy slip Tom Riddle's Diary into Ginny Weasley's cauldron?",
+   "answer": 3,
+   "0": "The Leaky Cauldron",
+   "1": "Madam Malkins",
+   "2": "Quality Quidditch Supplies",
+   "3": "Flourish and Blotts"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of Lockhart's autobiography?",
+   "answer": 0,
+   "0": "Magical Me",
+   "1": "The Brightest Smile",
+   "2": "Lockhart",
+   "3": "The Magic in Me"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of the institution where Lockhart resides after the Chamber of Secrets incident?",
+   "answer": 1,
+   "0": "St. Brutis's",
+   "1": "St. Mungo's",
+   "2": "St. Mary's",
+   "3": "St. Michael's"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Hermione say is her favorite subject in Harry Potter and the Prisoner of Azkaban?",
+   "answer": 2,
+   "0": "Divination",
+   "1": "Potions",
+   "2": "Arithmancy",
+   "3": "Charms"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which magical word extinguishes wandlight from the Lumos charm?",
+   "answer": 3,
+   "0": "Mox",
+   "1": "Alohomora",
+   "2": "Ferula",
+   "3": "Nox"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the shape of Snape's patronous?",
+   "answer": 0,
+   "0": "A doe",
+   "1": "A snake",
+   "2": "A dragon",
+   "3": "A dementor"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What do both of Hermione's parents do for a living?",
+   "answer": 1,
+   "0": "They're lawyers",
+   "1": "They're dentists",
+   "2": "They're accountants",
+   "3": "They're pediatricians"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What foul name does Draco Malfoy call Hermione?",
+   "answer": 2,
+   "0": "Big teeth",
+   "1": "Dirtblood",
+   "2": "Mudblood",
+   "3": "Rabbit teeth"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of Hagrid's pet dragon?",
+   "answer": 3,
+   "0": "Aragog",
+   "1": "Fang",
+   "2": "Fluffy",
+   "3": "Norbert"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell does Ron Weasley use to defeat the mountain troll in the girl's bathroom?",
+   "answer": 0,
+   "0": "Wingardium Leviosa",
+   "1": "Stupefy",
+   "2": "Accio",
+   "3": "Finite Incantatem"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "When falling down the trap door under Fluffy, on what did Harry, Ron, and Hermione land?",
+   "answer": 1,
+   "0": "A pile of cushions",
+   "1": "Devil's Snare",
+   "2": "A spider web",
+   "3": "A pool of water"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In the movie, who punched Draco Malfoy in the face in Harry Potter and the Prisoner of Azkaban?",
+   "answer": 2,
+   "0": "Ginny Weasley",
+   "1": "Ron Weasley",
+   "2": "Hermione Granger",
+   "3": "Harry Potter"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of the hippogriff that attacked Draco Malfoy after he insulted it?",
+   "answer": 3,
+   "0": "Fleetwing",
+   "1": "Hothoof",
+   "2": "Witherwings",
+   "3": "Buckbeak"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who was the only student to realize that Lupin was a werewolf when Snape assigned the essay on werewolves?",
+   "answer": 0,
+   "0": "Hermione Granger",
+   "1": "Harry Potter",
+   "2": "Ron Weasley",
+   "3": "Draco Malfoy"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who was the first house elf that Hermione met?",
+   "answer": 1,
+   "0": "Dobby",
+   "1": "Winky",
+   "2": "Kreacher",
+   "3": "Hokey"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who founded S.P.E.W.?",
+   "answer": 2,
+   "0": "Harry Potter",
+   "1": "Ron Weasley",
+   "2": "Hermione Granger",
+   "3": "Draco Malfoy"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How much did it cost to join S.P.E.W.?",
+   "answer": 3,
+   "0": "15 knuts",
+   "1": "25 knuts",
+   "2": "One sickle",
+   "3": "Two sickles"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the Bulgarian seeker?",
+   "answer": 0,
+   "0": "Viktor Krum",
+   "1": "Clara Ivanova",
+   "2": "Alexei Levski",
+   "3": "Lev Zograf"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who was the Durmstrang champion in the Triwizard Tournament?",
+   "answer": 1,
+   "0": "Cedric Diggory",
+   "1": "Viktor Krum",
+   "2": "Fleur Delacour",
+   "3": "Harry Potter"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who was the Beauxbatons champion in the Triwizard Tournament?",
+   "answer": 2,
+   "0": "Cedric Diggory",
+   "1": "Viktor Krum",
+   "2": "Fleur Delacour",
+   "3": "Harry Potter"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What spell did Hermione help Harry learn to defeat the dragon in the first task of the Triwizard Tournament?",
+   "answer": 3,
+   "0": "Wingardium Leviosa",
+   "1": "Vera Verto",
+   "2": "Nebulus",
+   "3": "The Summoning Charm"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What item did the Triwizard Tournament champions have to retrieve from the dragons?",
+   "answer": 0,
+   "0": "A golden egg",
+   "1": "A golden cup",
+   "2": "A golden snitch",
+   "3": "A golden troll skull"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who was first the Hogwarts Triwizard Tournament champion?",
+   "answer": 1,
+   "0": "Harry Potter",
+   "1": "Cedric Diggory",
+   "2": "Fleur Delacour",
+   "3": "Viktor Krum"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who was Viktor Krum's date to the Yule Ball?",
+   "answer": 2,
+   "0": "Ginny Weasley",
+   "1": "Fleur Delacour",
+   "2": "Hermione Granger",
+   "3": "Cho Chang"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who was Fleur Delacour's date to the Yule Ball?",
+   "answer": 3,
+   "0": "Viktor Krum",
+   "1": "Ron Weasley",
+   "2": "Harry Potter",
+   "3": "Roger Davies"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who was Cedric Diggory's date to the Yule Ball?",
+   "answer": 0,
+   "0": "Cho Chang",
+   "1": "Ginny Weasley",
+   "2": "Fleur Delacour",
+   "3": "Hermione Granger"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whom did Harry first ask to accompany him to the Yule Ball?",
+   "answer": 1,
+   "0": "Ginny Weasley",
+   "1": "Cho Chang",
+   "2": "Hermione Granger",
+   "3": "Lavender Brown"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who was Harry's date to the Yule Ball?",
+   "answer": 2,
+   "0": "Ginny Weasley",
+   "1": "Cho Chang",
+   "2": "Parvati Patil",
+   "3": "Padma Patil"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who was Ron's date to the Yule Ball?",
+   "answer": 3,
+   "0": "Ginny Weasley",
+   "1": "Cho Chang",
+   "2": "Parvati Patil",
+   "3": "Padma Patil"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who did Neville Longbottom take to the Yule Ball?",
+   "answer": 0,
+   "0": "Ginny Weasley",
+   "1": "Lavender Brown",
+   "2": "Hermione Granger",
+   "3": "Luna Lovegood"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who did Draco Malfoy take to the Yule Ball?",
+   "answer": 1,
+   "0": "Daphne Greengrass",
+   "1": "Pansy Parkinson",
+   "2": "Millicent Bulstrode",
+   "3": "Tracey Davis"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who did Fred Weasley take to the Yule Ball?",
+   "answer": 2,
+   "0": "Katie Bell",
+   "1": "Alicia Spinnet",
+   "2": "Angelina Johnson",
+   "3": "Parvati Patil"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whom did Krum have to save from the bottom of the lake in the second task of the Triwizard Tournament?",
+   "answer": 3,
+   "0": "Katie Bell",
+   "1": "Alicia Spinnet",
+   "2": "Angelina Johnson",
+   "3": "Hermione Granger"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whom did Harry have to save from the bottom of the lake in the second task of the Triwizard Tournament?",
+   "answer": 0,
+   "0": "Ron Weasley",
+   "1": "Hermione Granger",
+   "2": "Cho Chang",
+   "3": "Ginny Weasley"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whom did Cedric have to save from the bottom of the lake in the second task of the Triwizard Tournament",
+   "answer": 1,
+   "0": "Hermione Granger",
+   "1": "Cho Chang",
+   "2": "Katie Bell",
+   "3": "Ginny Weasley"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What plant does Harry use to swim in the lake during the second task of the Triwizard Tournament?",
+   "answer": 2,
+   "0": "Dittany",
+   "1": "Mandrake",
+   "2": "Gillyweed",
+   "3": "Aconite"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who gives Harry the gillyweed in the book series?",
+   "answer": 3,
+   "0": "Neville Longbottom",
+   "1": "Hermione Granger",
+   "2": "Professor Moody",
+   "3": "Dobby"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Viktor Krum partially transfigure himself into during the second task in the Triwizard Tournament?",
+   "answer": 0,
+   "0": "A shark",
+   "1": "A mermaid",
+   "2": "A grindylow",
+   "3": "An octopus"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Cedric Diggory use to allow himself to breathe underwater in the second task of the Triwizard Tournament?",
+   "answer": 1,
+   "0": "Gillyweed",
+   "1": "Bubblehead Charm",
+   "2": "Transforms himself into a shark",
+   "3": "Aguamenti"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In Harry's fifth year at Hogwarts, who became the two Gryffindor prefects?",
+   "answer": 2,
+   "0": "Harry and Ron",
+   "1": "Harry and Hermione",
+   "2": "Ron and Hermione",
+   "3": "Hermione and Neville"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In Harry's fifth year at Hogwarts, who became the two Slytherin prefects?",
+   "answer": 0,
+   "0": "Malfoy & Pansy Parkinson",
+   "1": "Draco Malfoy & Crabbe",
+   "2": "Draco Malfoy & Goyle",
+   "3": "Crabbe & Goyle"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What password does Cedric give Harry to get into the Prefects' Bathroom?",
+   "answer": 1,
+   "0": "Lemon fresh",
+   "1": "Pine fresh",
+   "2": "Caput Draconis",
+   "3": "Sherbert Lemon"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who arranged the first meeting of Dumbledore's Army?",
+   "answer": 2,
+   "0": "Albus Dumbledore",
+   "1": "Harry Potter",
+   "2": "Hermione Granger",
+   "3": "Ron Weasley"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What item did Hermione give each member of Dumbledore's Army?",
+   "answer": 3,
+   "0": "A rune",
+   "1": "A quill",
+   "2": "A tattoo",
+   "3": "A coin"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the owner of the Quibbler?",
+   "answer": 0,
+   "0": "Xenophilius Lovegood",
+   "1": "Rita Skeeter",
+   "2": "Barnabas Cuffe",
+   "3": "Celestina Warbeck"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is Xenophilius Lovegood's daughter?",
+   "answer": 1,
+   "0": "Laura Lovegood",
+   "1": "Luna Lovegood",
+   "2": "Lori Lovegood",
+   "3": "Lily Lovegood"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is Arthur Weasley's coworker in the Misuse of Muggle Artifact Office?",
+   "answer": 2,
+   "0": "Albert",
+   "1": "Basil",
+   "2": "Perkins",
+   "3": "Wilkie"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In Harry Potter and the Chamber of Secrets, Arthur Weasley asks Harry what the function of an item is, what is the item?",
+   "answer": 3,
+   "0": "Electric outlet",
+   "1": "A lightbulb",
+   "2": "A gun",
+   "3": "A rubber duck"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In Harry Potter and the Chamber of Secrets, how did Harry get to Diagon Alley?",
+   "answer": 0,
+   "0": "Floo powder",
+   "1": "Flying car",
+   "2": "Apparition",
+   "3": "Broomstick"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "After first traveling by the Floo Network, on which street did Harry find himself?",
+   "answer": 1,
+   "0": "Privet Drive",
+   "1": "Knockturn Alley",
+   "2": "Spinners End",
+   "3": "Diagon Alley"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "After first traveling by Floo Network, which store did Harry enter?",
+   "answer": 2,
+   "0": "Florean Fortescue's",
+   "1": "The Leaky Cauldron",
+   "2": "Borgin and Burkes",
+   "3": "Flourish and Blotts"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What color are Professor Sprout's ear muffs in Harry Potter and the Chamber of Secrets?",
+   "answer": 3,
+   "0": "White",
+   "1": "Red",
+   "2": "Blue",
+   "3": "Pink"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whom do the Cornish Pixies pick up by his ears?",
+   "answer": 0,
+   "0": "Neville Longbottom",
+   "1": "Harry Potter",
+   "2": "Draco Malfoy",
+   "3": "Gilderoy Lockhart"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What charm's incantation is immobulus?",
+   "answer": 1,
+   "0": "The Time Stop Charm",
+   "1": "The Freezing Charm",
+   "2": "The Summoning Charm",
+   "3": "Homonculous Charm"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What detention does Harry get after he and Ron fly Arthur Weasley's car to Hogwarts?",
+   "answer": 2,
+   "0": "Trip into the Forbidden Forest",
+   "1": "Polishing trophies",
+   "2": "Helping Lockhart with fan mail",
+   "3": "Writing lines"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Where was the diadem of Ravenclaw hidden?",
+   "answer": 3,
+   "0": "Ravenclaw Tower",
+   "1": "The girl's bathroom",
+   "2": "In a cave",
+   "3": "In the Room of Requirement"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which position does Ron Weasley play in quidditch?",
+   "answer": 0,
+   "0": "Keeper",
+   "1": "Seeker",
+   "2": "Beater",
+   "3": "Chaser"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Occlumency used for?",
+   "answer": 1,
+   "0": "Turning yourself into an animal",
+   "1": "Shielding your mind",
+   "2": "Turning yourself invisible",
+   "3": "Reading someone's mind"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What kind of quill does Rita Skeeter use?",
+   "answer": 2,
+   "0": "Self-Inking Quill",
+   "1": "Invisible Inking",
+   "2": "Quick Quotes Quil",
+   "3": "Fast Writing Quill"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who marries Fleur Delacour?",
+   "answer": 3,
+   "0": "Charlie Weasley",
+   "1": "Remus Lupin",
+   "2": "Percy Weasley",
+   "3": "Bill Weasley"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of Harry's owl?",
+   "answer": 0,
+   "0": "Hedwig",
+   "1": "Errol",
+   "2": "Hermes",
+   "3": "Pigwidgeon"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What kind of owl is Hedwig?",
+   "answer": 1,
+   "0": "Barn Owl",
+   "1": "Snowy Owl",
+   "2": "Screech Owl",
+   "3": "Eagle Owl"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the seventh horcrux?",
+   "answer": 2,
+   "0": "Nagini",
+   "1": "Helga Hufflepuff's Cup",
+   "2": "Harry Potter",
+   "3": "Rowena Ravenclaw's Diadem"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What chases Professor Umbridge during the O.W.L. exam?",
+   "answer": 3,
+   "0": "A Firework Centaur",
+   "1": "A Firework Dementor",
+   "2": "A Firework Phoenix",
+   "3": "A Firework Dragon"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What color are the flames of the Goblet of Fire when selecting a champion?",
+   "answer": 0,
+   "0": "Red",
+   "1": "Green",
+   "2": "Blue",
+   "3": "Purple"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What's Ron Weasley's middle name?",
+   "answer": 1,
+   "0": "Arthur",
+   "1": "Bilius",
+   "2": "Ignatius",
+   "3": "Earnest"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whom is Hagrid burying when Slughorn and Harry visit?",
+   "answer": 2,
+   "0": "Grawp",
+   "1": "Fluffy",
+   "2": "Aragog",
+   "3": "Buckbeak"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who gives a blood sacrifice to gain access to the cave where the locket horcrux is kept?",
+   "answer": 3,
+   "0": "Peter Pettigrew",
+   "1": "Sirius Black",
+   "2": "Harry Potter",
+   "3": "Albus Dumbledore"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "With whom does Cho Chang go to the Yule Ball?",
+   "answer": 0,
+   "0": "Cedric Diggory",
+   "1": "Harry Potter",
+   "2": "Viktor Krum",
+   "3": "Roger Davies"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Felix Felicis known as?",
+   "answer": 1,
+   "0": "Draught of Living Death",
+   "1": "Liquid Luck",
+   "2": "The most powerful love potion",
+   "3": "Memory potion"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which family was the original owner of the Deathly Hollows according to legend?",
+   "answer": 2,
+   "0": "The Gaunts",
+   "1": "The Potters",
+   "2": "The Perverells",
+   "3": "The Dumbledores"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "With whom was Snape in love with his entire life?",
+   "answer": 3,
+   "0": "Molly Weasley",
+   "1": "Nymphadora Tonks",
+   "2": "Bellatrix Lestrange",
+   "3": "Lily Potter"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which creatures does Lockhart first introduce to his class?",
+   "answer": 0,
+   "0": "Cornish Pixies",
+   "1": "Kneazles",
+   "2": "Hinkypunks",
+   "3": "Dementors"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is on Harry's wanted posters after the Death Eaters take over the Ministry?",
+   "answer": 1,
+   "0": "Wanted No. 1",
+   "1": "Undesirable No. 1.",
+   "2": "Dangerous No. 1",
+   "3": "Untouchable No. 1"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who originally opened the Chamber of Secrets in the second book/movie?",
+   "answer": 2,
+   "0": "Rubeus Hagrid",
+   "1": "Harry Potter",
+   "2": "Ginny Weasley",
+   "3": "Draco Malfoy"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who opened the Chamber of Secrets 50 years before the second book/movie?",
+   "answer": 3,
+   "0": "Rubeus Hagrid",
+   "1": "Albus Dumbledore",
+   "2": "Lucius Malfoy",
+   "3": "Tom Riddle"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "For what did the first Peverell brother ask Death?",
+   "answer": 0,
+   "0": "A wand to defeat all others.",
+   "1": "Ability to turn invisible.",
+   "2": "A way to revive the dead.",
+   "3": "The ability to turn off all lights"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What form did Lily Potter's patronous take?",
+   "answer": 1,
+   "0": "An otter",
+   "1": "A doe",
+   "2": "A fox",
+   "3": "A swan"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What form did Professor Snape's patronous take?",
+   "answer": 2,
+   "0": "A snake",
+   "1": "An rat",
+   "2": "A doe",
+   "3": "A stag"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How old was Tom Riddle when he first opened the Chamber of Secrets?",
+   "answer": 3,
+   "0": "Thirteen",
+   "1": "Fourteen",
+   "2": "Fifteen",
+   "3": "Sixteen"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "When Snape substitutes for Lupin in Defense Against the Dark Arts, which topic did he teach?",
+   "answer": 0,
+   "0": "Werewolves",
+   "1": "Grindylows",
+   "2": "Mermaids",
+   "3": "Thestrals"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell does Moody use to enlarge the spider when teaching the Unforgiveable Curses?",
+   "answer": 1,
+   "0": "Imperius",
+   "1": "Engorgio",
+   "2": "Avada Kedavra",
+   "3": "Accio"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Ron use to find Harry and Hermione after he abandons them during their hunt for horcruxes?",
+   "answer": 2,
+   "0": "A map",
+   "1": "Golden Snitch",
+   "2": "The Deluminator",
+   "3": "Tracing Charm"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "On which winged creatures do Harry and his friends fly to the Ministry of Magic?",
+   "answer": 3,
+   "0": "Dragons",
+   "1": "Unicorns",
+   "2": "Hippogriffs",
+   "3": "Thestrals"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Tom Riddle's middle name?",
+   "answer": 0,
+   "0": "Marvolo",
+   "1": "Gaunt",
+   "2": "Voldemort",
+   "3": "Sirius"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which teacher stands up to Snape at the Battle of Hogwarts?",
+   "answer": 1,
+   "0": "Professor Flitwick",
+   "1": "Professor McGonagall",
+   "2": "Professor Trelawney",
+   "3": "Professor Sprout"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who binds the Unbreakable Vow between Snape and Narcissa?",
+   "answer": 2,
+   "0": "Lucius Malfoy",
+   "1": "Vodemort",
+   "2": "Bellatrix Lestrange",
+   "3": "Rodolphus Lestrange"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who replaces Fudge as Minister of Magic?",
+   "answer": 3,
+   "0": "Albus Dumbledore",
+   "1": "Kingsley Shacklebolt",
+   "2": "Severus Snape",
+   "3": "Rufus Scrimgeour"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which type of dragon did Cedric Diggory face in the Triwizard Tournament?",
+   "answer": 0,
+   "0": "Swedish Short Snout",
+   "1": "Common Welsh Green",
+   "2": "Chinese Fireball",
+   "3": "Hungarian Horntail"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who kills Cedric Diggory?",
+   "answer": 1,
+   "0": "Voldemort",
+   "1": "Wormtail",
+   "2": "Bellatrix Lestrange",
+   "3": "Lucius Malfoy"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who kills Professor Dumbledore?",
+   "answer": 2,
+   "0": "Voldemort",
+   "1": "Bellatrix Lestrange",
+   "2": "Severus Snape",
+   "3": "Wormtail"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Where do Harry and Dumbledore go to find a Horcrux together?",
+   "answer": 3,
+   "0": "The Shrieking Shack",
+   "1": "Godric's Hollow",
+   "2": "The Forbidden Forest",
+   "3": "A cave"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is really teaching Defense Against the Dark Arts in Harry's fourth year?",
+   "answer": 1,
+   "0": "Voldemort",
+   "1": "Barty Crouch Jr",
+   "2": "Professor Quirrell",
+   "3": "Mad-Eye Moody"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is supposed to be teaching Defense Against the Dark Arts in Harry's fourth year?",
+   "answer": 2,
+   "0": "Professor Quirrell",
+   "1": "Remus Lupin",
+   "2": "Alastor Moody",
+   "3": "Professor Umbridge"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell gets Harry temporarily expelled from Hogwarts?",
+   "answer": 3,
+   "0": "Aberto",
+   "1": "Alohomora",
+   "2": "Periculum",
+   "3": "Patronous Charm"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Dumbledore leave to Hermione after his death?",
+   "answer": 0,
+   "0": "Tales of Beedle the Bard",
+   "1": "A golden snitch",
+   "2": "the deluminator",
+   "3": "Sword of Gryffindor"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Trelawney's first prophecy speaks of a boy born at the end of which month?",
+   "answer": 1,
+   "0": "June",
+   "1": "July",
+   "2": "August",
+   "3": "September"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What name does Harry give when caught by the Snatchers?",
+   "answer": 2,
+   "0": "Stan Shunpike",
+   "1": "Neville Longbottom",
+   "2": "Vernon Dudley",
+   "3": "Dudley Dursley"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who claims to be crashing the gate at Slughorn's Christmas party?",
+   "answer": 3,
+   "0": "Harry Potter",
+   "1": "Ginny Weasley",
+   "2": "Luna Lovegood",
+   "3": "Draco Malfoy"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is also known as truth serum?",
+   "answer": 0,
+   "0": "Veritaserum",
+   "1": "Amortentia",
+   "2": "Volubilis",
+   "3": "Felix Felicis"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Harry give Ron when he drinks poisoned mead?",
+   "answer": 1,
+   "0": "Boomslang skin",
+   "1": "A bezoar",
+   "2": "Lacewind flies",
+   "3": "Skele-Gro"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Luna Lovegood's father's first name?",
+   "answer": 2,
+   "0": "Filius",
+   "1": "Severus",
+   "2": "Xenophilius",
+   "3": "Viktor"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of the three-headed dog?",
+   "answer": 3,
+   "0": "Sleepy",
+   "1": "Sirius",
+   "2": "Spot",
+   "3": "Fluffy"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whom does Snape put in charge of discipline at Hogwarts?",
+   "answer": 0,
+   "0": "The Carrows",
+   "1": "Malfoy",
+   "2": "Umbridge",
+   "3": "Crabbe and Goyle"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Harry was the youngest seeker in how long?",
+   "answer": 1,
+   "0": "A decade",
+   "1": "A century",
+   "2": "A millenium",
+   "3": "Ever"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "From which type of animal are the cores of Harry's and Voldemort's wands?",
+   "answer": 2,
+   "0": "Veela",
+   "1": "Unicorn",
+   "2": "Phoenix",
+   "3": "Dragon"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Tonks's first name?",
+   "answer": 3,
+   "0": "Molly",
+   "1": "Lily",
+   "2": "Minerva",
+   "3": "Nymphandora"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who saves Harry and Hermione from Lupin when he's in werewolf form?",
+   "answer": 0,
+   "0": "Buckbeak",
+   "1": "Severus Snape",
+   "2": "Peter Pettigrew",
+   "3": "Ron Weasley"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is Harry's first choice to take to the Yule Ball?",
+   "answer": 1,
+   "0": "Hermione Granger",
+   "1": "Cho Chang",
+   "2": "Parvati Patil",
+   "3": "Ginny Weasley"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "For how long did the Polyjuice Potion turn Harry and Ron into Crabbe and Goyle?",
+   "answer": 0,
+   "0": "One hour",
+   "1": "One day",
+   "2": "One week",
+   "3": "One month"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What do the Deathly Hallows make one a master of when all are together?",
+   "answer": 1,
+   "0": "Life",
+   "1": "Death",
+   "2": "Power",
+   "3": "Magic"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who replaces Rufus Scrimgeour as Minister of Magic?",
+   "answer": 2,
+   "0": "Kingsley Shacklebolt",
+   "1": "Severus Snape",
+   "2": "Pius Thicknesse",
+   "3": "Albus Dumbledore"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of Hagrid's pet dragon?",
+   "answer": 3,
+   "0": "Fluffy",
+   "1": "Aragog",
+   "2": "Fang",
+   "3": "Norbert"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What name does Hermione give to the snatchers when she's caught?",
+   "answer": 0,
+   "0": "Penelope Clearwater",
+   "1": "Lavender Brown",
+   "2": "Parvati Patil",
+   "3": "Millicent Bulstrode"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "At which feast does Quirrell burst in and say there's a troll in the dungeon?",
+   "answer": 1,
+   "0": "Start of Year Feast",
+   "1": "The Halloween Feast",
+   "2": "Christmast Feast",
+   "3": "End of Year Feast"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which is the spell to create water?",
+   "answer": 2,
+   "0": "Abberto",
+   "1": "Alohomora",
+   "2": "Aguamenti",
+   "3": "Anapneo"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which sweets does Bertie Botts make?",
+   "answer": 0,
+   "0": "Every Flavor Jelly Beans",
+   "1": "Chocolate Frogs",
+   "2": "Cockroach Clusters",
+   "3": "Lemon Drops"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What kind of creature helps Harry, Ron, and Hermione escape Gringotts?",
+   "answer": 1,
+   "0": "A goblin",
+   "1": "A dragon",
+   "2": "A phoenix",
+   "3": "A hippogriff"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Where is Alastor Moody kept when he's being impersonated?",
+   "answer": 2,
+   "0": "In a broom closet",
+   "1": "In Snape's dungeon",
+   "2": "In his own trunk",
+   "3": "Behind the Foe Glass"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who swaps the real sword of Gryffindor for a fake in Bellatrix Lestrange's vault?",
+   "answer": 2,
+   "0": "Albus Dumbledore",
+   "1": "Dobby",
+   "2": "Severus Snape",
+   "3": "Narcissa Malfoy"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whose initials are R.A.B.?",
+   "answer": 0,
+   "0": "Regulus Arcturus Black",
+   "1": "Regulus Argus Black",
+   "2": "Reginald Arcturus Black",
+   "3": "Reginald Argus Black"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What benefit does drinking unicorn blood give to the drinker?",
+   "answer": 1,
+   "0": "Increases your magic",
+   "1": "It keeps you alive",
+   "2": "Gives endless endurance",
+   "3": "Restores your body"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who destroys the locket horcrux?",
+   "answer": 2,
+   "0": "Harry Potter",
+   "1": "Hermione Granger",
+   "2": "Ron Weasley",
+   "3": "Neville Longbottom"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is Ron's first girlfriend?",
+   "answer": 3,
+   "0": "Parvati Patil",
+   "1": "Luna Lovegood",
+   "2": "Hermione Granger",
+   "3": "Lavender Brown"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What spell does Harry use on the goblin at Gringotts?",
+   "answer": 0,
+   "0": "Imperius",
+   "1": "Crucio",
+   "2": "Stupefy",
+   "3": "Expelliarmus"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "For what is a pensieve used?",
+   "answer": 1,
+   "0": "Storing potions",
+   "1": "Storing memories",
+   "2": "Storing magic",
+   "3": "Storing potion ingredients"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What creature does Hagrid introduce to the class on his first lesson?",
+   "answer": 2,
+   "0": "A unicorn",
+   "1": "A nargle",
+   "2": "A hippogriff",
+   "3": "A blast-ended skrewt"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In which part of the castle does the troll find Hermione?",
+   "answer": 3,
+   "0": "The girl's dormitory",
+   "1": "The dungeons",
+   "2": "The third floor",
+   "3": "The girl's bathroom"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Where do Fred and George originally find the Marauder's Map?",
+   "answer": 0,
+   "0": "In Filch's office",
+   "1": "In Dumbledore's office",
+   "2": "In the Room of Requirement",
+   "3": "In McGonagall's office"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Professor Dumbledore's first name?",
+   "answer": 1,
+   "0": "Brian",
+   "1": "Albus",
+   "2": "Percival",
+   "3": "Wulfric"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which creatures were found in the Room of Requirement when Harry was searching for the Ravenclaw diadem?",
+   "answer": 2,
+   "0": "Rats",
+   "1": "House elves",
+   "2": "Cornish pixies",
+   "3": "A boggart"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Voldemort after in the Department of Mysteries?",
+   "answer": 3,
+   "0": "The Elder Wand",
+   "1": "The Sword of Gryffindor",
+   "2": "A pensieve",
+   "3": "A prophecy"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who succeeds Dumbledore as headmaster of Hogwarts?",
+   "answer": 0,
+   "0": "Professor Snape",
+   "1": "Professor McGonagall",
+   "2": "Professor Flitwick",
+   "3": "Professor Sprout"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the incantation of the body-bind curse?",
+   "answer": 1,
+   "0": "Stupefy",
+   "1": "Petrificus Totalus",
+   "2": "Sectumsempra",
+   "3": "Reducto"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What comes with Fawkes to Harry in the Chamber of Secrets?",
+   "answer": 2,
+   "0": "The Sword of Gryffindor",
+   "1": "A book",
+   "2": "The Sorting Hat",
+   "3": "A pensieve"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Only whom can pull the Sword of Gryffindor from the Sorting Hat?",
+   "answer": 3,
+   "0": "Gryffindor's Champion",
+   "1": "Anyone with the need",
+   "2": "Godric Gryffindor's Heir",
+   "3": "A true Gryffindor"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of Dumbledore's phoenix?",
+   "answer": 0,
+   "0": "Fawkes",
+   "1": "Hedwig",
+   "2": "Crookshanks",
+   "3": "Scabbers"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the driver of the Knight Bus?",
+   "answer": 1,
+   "0": "Stan Shunpike",
+   "1": "Ernie Prang",
+   "2": "Florean Fortescue",
+   "3": "Mathilda Grimblehawk"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who works on the Knight Bus with Ernie Prang?",
+   "answer": 2,
+   "0": "Florean Fortescue",
+   "1": "Madam Rosmerta",
+   "2": "Stan Shunpike",
+   "3": "Mathilda Grimblehawk"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who kills Dobby?",
+   "answer": 3,
+   "0": "Lucius Malfoy",
+   "1": "Narcissa Malfoy",
+   "2": "Voldemort",
+   "3": "Bellatrix Lestrange"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which Death Eaters find Harry, Ron, and Hermione at the cafe after fleeing from Bill and Fleur's wedding?",
+   "answer": 0,
+   "0": "Rowle & Dolohov",
+   "1": "Lucius & Narcissa",
+   "2": "Crabbe & Goyle",
+   "3": "Alecto & Amycus"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In which book does Hermione say she read that the ceiling of the Great Hall is bewitched to look like the night sky?",
+   "answer": 1,
+   "0": "History of Hogwarts",
+   "1": "Hogwarts: A History",
+   "2": "Hogwarts Through the Ages",
+   "3": "Hogwarts: The Story"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell does Luna use to fix Harry's broken nose?",
+   "answer": 2,
+   "0": "Oculus Reparo",
+   "1": "Brackium Emendo",
+   "2": "Episkey",
+   "3": "Locomotor Wibbly"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Where is the Pensieve normally kept?",
+   "answer": 3,
+   "0": "Room of Requirement",
+   "1": "The Ministry of Magic",
+   "2": "Snape's office",
+   "3": "Dumbledore's office"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Neville's mother's name?",
+   "answer": 0,
+   "0": "Alice Longbottom",
+   "1": "Anne Longbottom",
+   "2": "Alicia Longbottom",
+   "3": "Anna Longbottom"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Neville's father's name?",
+   "answer": 1,
+   "0": "Ford Longbottom",
+   "1": "Frank Longbottom",
+   "2": "Fred Longbottom",
+   "3": "Floyd Longbottom"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which creatures run Gringotts?",
+   "answer": 2,
+   "0": "Wizards",
+   "1": "Elves",
+   "2": "Goblins",
+   "3": "Centaurs"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which symbol is a skull with a serpent coming out of its mouth?",
+   "answer": 3,
+   "0": "The Omen",
+   "1": "The Grim",
+   "2": "The Summoning",
+   "3": "The Dark Mark"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Harry forced to write as a punishment from Umbridge?",
+   "answer": 0,
+   "0": "I must not tell lies",
+   "1": "The truth will set you free",
+   "2": "Lies are wrong",
+   "3": "I must not lie"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which book does Hermione use to make the Polyjuice Potion?",
+   "answer": 1,
+   "0": "Advanced Potion Making",
+   "1": "Moste Potente Potions",
+   "2": "Magical Drafts and Potions",
+   "3": "Potion Opuscule"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the servant that Trelawney is referring to in her prophecy?",
+   "answer": 2,
+   "0": "Sirius Black",
+   "1": "Lucius Malfoy",
+   "2": "Peter Pettigrew",
+   "3": "Bellatrix Lestrange"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which creatures does Moody use to teach the Unforgivable Curses?",
+   "answer": 3,
+   "0": "Mice",
+   "1": "Rats",
+   "2": "Cockroaches",
+   "3": "Spiders"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who kills Albus Dumbledore?",
+   "answer": 0,
+   "0": "Severus Snape",
+   "1": "Voldemort",
+   "2": "Draco Malfoy",
+   "3": "Bellatrix Lestrange"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What time does the Hogwarts Express leave King's Cross Station on the first day of term?",
+   "answer": 1,
+   "0": "10:00 AM",
+   "1": "11:00 AM",
+   "2": "12:00 PM",
+   "3": "1:00 PM"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell is known as the wand-lighting charm?",
+   "answer": 2,
+   "0": "Avada Kedavra",
+   "1": "Accio",
+   "2": "Lumos",
+   "3": "Nox"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Harry see when he first looks into the Mirror of Erised?",
+   "answer": 3,
+   "0": "Himself with the Sorcerer's Stone",
+   "1": "Shaking Dumbledore's hand",
+   "2": "Holding the House Cup",
+   "3": "Himself with his parents"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Dumbledore claim to see when he looks into the Mirror of Erised?",
+   "answer": 0,
+   "0": "Socks",
+   "1": "His parents",
+   "2": "A lost lover",
+   "3": "His sister"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the headmistress or headmaster of Beauxbatons Academy of Magic?",
+   "answer": 1,
+   "0": "Professor McGonagall",
+   "1": "Madame Maxim",
+   "2": "Bellatrix Lestrange",
+   "3": "Fleur Delacour"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the house elf of the Black Family?",
+   "answer": 2,
+   "0": "Dobby",
+   "1": "Winky",
+   "2": "Kreacher",
+   "3": "Hokey"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who destroys Helga Hufflepuff's cup?",
+   "answer": 3,
+   "0": "Harry Potter",
+   "1": "Ron Weasley",
+   "2": "Neville Longbottom",
+   "3": "Hermione Granger"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Hermione use to destroy Helga Hufflepuff's cup?",
+   "answer": 0,
+   "0": "A basilisk fang",
+   "1": "The Deluminator",
+   "2": "The Sword of Gryffindor",
+   "3": "Fiendfyre"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the first task to get past to get the Philosopher's Stone?",
+   "answer": 1,
+   "0": "Catch a flying key",
+   "1": "To get past Fluffy",
+   "2": "Play chess across a room",
+   "3": "A potion puzzle"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who defeats the giant chess board to get to the Philosopher's Stone?",
+   "answer": 2,
+   "0": "Harry Potter",
+   "1": "Hermione Granger",
+   "2": "Ronald Weasley",
+   "3": "Professor Snape"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does the Ministry use to track underage wizards?",
+   "answer": 3,
+   "0": "The Watch",
+   "1": "The Track",
+   "2": "The Collar",
+   "3": "The Trace"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What item do the Triwizard Champions have to retrieve from the dragons in the first task?",
+   "answer": 0,
+   "0": "A golden egg",
+   "1": "A golden dragon scale",
+   "2": "The Triwizard Cup",
+   "3": "A chest of gold"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What kind of sound do the golden eggs make when opening them above water?",
+   "answer": 1,
+   "0": "Banging",
+   "1": "Wailing",
+   "2": "Knocking",
+   "3": "Singing"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who sings the song played by the golden eggs?",
+   "answer": 2,
+   "0": "Centaurs",
+   "1": "Giants",
+   "2": "Merpeople",
+   "3": "Dragons"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who helps Dumbledore escape from his office when the Ministry comes to arrest him?",
+   "answer": 3,
+   "0": "Kingsley Shacklebolt",
+   "1": "Severus Snape",
+   "2": "Harry Potter",
+   "3": "Fawkes"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who says in the movies 'You know, Minister, I disagree with Dumbledore on many counts, but you cannot deny, he’s got style'?",
+   "answer": 0,
+   "0": "Kingsley Shacklebolt",
+   "1": "Professor Umbridge",
+   "2": "Professor Snape",
+   "3": "Harry Potter"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Where does Dumbledore first meet Tom Riddle?",
+   "answer": 1,
+   "0": "At Hogwarts",
+   "1": "In an orphanage",
+   "2": "In a wizarding duel",
+   "3": "Vacation near a cave"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "During his search for Ravenclaw's diadem, with which ghost does Harry talk?",
+   "answer": 2,
+   "0": "Peeves",
+   "1": "Nearly Headless Nick",
+   "2": "The Grey Lady",
+   "3": "Moaning Myrtle"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell does Ron use to knock out the troll in the girl's bathroom?",
+   "answer": 3,
+   "0": "Diffindo",
+   "1": "Reducto",
+   "2": "Stupefy",
+   "3": "Wingardium Leviosa"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does the Knight Bus have instead of seats?",
+   "answer": 0,
+   "0": "Beds",
+   "1": "Hammocks",
+   "2": "Sofas",
+   "3": "Plump armchairs"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who finds Harry and Dudley after the dementors attack?",
+   "answer": 1,
+   "0": "Mafalda Hopkirk",
+   "1": "Mrs. Figg",
+   "2": "Albus Dumbledore",
+   "3": "Petunia Dursley"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "According to legend, what is inside the Chamber of Secrets?",
+   "answer": 2,
+   "0": "A troll",
+   "1": "Vampires",
+   "2": "A monster",
+   "3": "Giant spiders"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which poisoned beverage does Ron drink?",
+   "answer": 3,
+   "0": "Pumpkin juice",
+   "1": "Butterbeer",
+   "2": "Firewhiskey",
+   "3": "Mead"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which ghost first appears with a sword in hand?",
+   "answer": 0,
+   "0": "The Bloody Baron",
+   "1": "Nearly Headless Nick",
+   "2": "Peeves",
+   "3": "The Grey Lady"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the effect of the incendio spell?",
+   "answer": 1,
+   "0": "Water shoots from the wand",
+   "1": "It creates fire",
+   "2": "Lighting shoots from the wand",
+   "3": "A strong wind"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Lupin give Harry after the dementors search the Hogwarts Express?",
+   "answer": 2,
+   "0": "A cold compress",
+   "1": "Some firewhiskey",
+   "2": "Chocolate",
+   "3": "Crystallized pineapple"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whom does Tonks marry?",
+   "answer": 3,
+   "0": "Bill Weasley",
+   "1": "Charlie Weasley",
+   "2": "Roger Davies",
+   "3": "Remus Lupin"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "When Ron opens the locket, whose voice taunts him?",
+   "answer": 0,
+   "0": "Lord Voldemort's",
+   "1": "His mother's",
+   "2": "His father's",
+   "3": "Albus Dumbledore's"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many large tables run the length of the Great Hall?",
+   "answer": 1,
+   "0": "Three",
+   "1": "Four",
+   "2": "Five",
+   "3": "Six"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which incantation repels a boggart?",
+   "answer": 2,
+   "0": "Alohomora",
+   "1": "Adada Kedavra",
+   "2": "Riddikulus",
+   "3": "Expecto Patronum"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Hermione's middle name?",
+   "answer": 3,
+   "0": "Lee",
+   "1": "Nicole",
+   "2": "Elizabeth",
+   "3": "Jean"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whose friends take Norbert to Romania?",
+   "answer": 0,
+   "0": "Charlie Weasley's",
+   "1": "Remus Lupin's",
+   "2": "Bill Weasley's",
+   "3": "Seamus Finnigan's"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whom does Voldemort select to kill Dumbledore?",
+   "answer": 1,
+   "0": "Severus Snape",
+   "1": "Draco Malfory",
+   "2": "Lucius Malfoy",
+   "3": "Bellatrix Lestrange"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who has a portait of himself painting another portrait of himself in his classroom?",
+   "answer": 2,
+   "0": "Professor Lupin",
+   "1": "Professor Dumbledore",
+   "2": "Professor Lockhart",
+   "3": "Professor Moody"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What potion do the students have to brew to win a vial of Felix Felicis?",
+   "answer": 3,
+   "0": "Amorentia",
+   "1": "Anti-Paralysis Potion",
+   "2": "Veritaserum",
+   "3": "Draught of Living Death"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How does Harry catch his first golden snitch?",
+   "answer": 0,
+   "0": "In his mouth",
+   "1": "In his left hand",
+   "2": "In his broken arm",
+   "3": "In his trousers"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Gregorvitch's profession?",
+   "answer": 1,
+   "0": "Alchemist",
+   "1": "Wandmaker",
+   "2": "Ice cream shop owner",
+   "3": "Barkeeper"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What did Lily give Professor Slughorn?",
+   "answer": 2,
+   "0": "A flower",
+   "1": "A self-tying bow",
+   "2": "A little fish",
+   "3": "A tadpole"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of the Defense Against the Dark Arts club led by Harry?",
+   "answer": 3,
+   "0": "Potter's Army",
+   "1": "Dumbledore's Warriors",
+   "2": "Potter's Warriors",
+   "3": "Dumbledore's Army"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which incantation does Hermione use to break their fall from the cart in Gringott's?",
+   "answer": 0,
+   "0": "Arresto Momento",
+   "1": "Levicorpus",
+   "2": "Wingardium Leviosa",
+   "3": "Reducto"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What item does Sirius give Hagrid right before Sirius goes to Azkaban?",
+   "answer": 1,
+   "0": "His wand",
+   "1": "His flying motorcycle",
+   "2": "The Invisibility Cloak",
+   "3": "A broomstick for Harry"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What method of transportation does Hagrid use to deliver baby Harry to the Dursley's?",
+   "answer": 2,
+   "0": "A broomstick",
+   "1": "Floo Powder",
+   "2": "Flying motorcycle",
+   "3": "Apparition"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which school book did Bathilda Bagshot write?",
+   "answer": 3,
+   "0": "Hogwarts: A History",
+   "1": "The Standard Book of Spells",
+   "2": "Magical Theory",
+   "3": "A History of Magic"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who frees Harry from the dungeons in Malfoy Manor?",
+   "answer": 0,
+   "0": "Dobby",
+   "1": "Luna",
+   "2": "Ollivander",
+   "3": "Griphook"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What protects Harry and Dumbledore from the inferi in the Horcrux cave?",
+   "answer": 1,
+   "0": "Ice",
+   "1": "Fire",
+   "2": "Wind",
+   "3": "Water"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which Triwizard Champion abandons the second task?",
+   "answer": 2,
+   "0": "Cedric Diggory",
+   "1": "Viktor Krum",
+   "2": "Fleur Delacour",
+   "3": "Harry Potter"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What prevents Fleur from rescuing her sister in the second Triwizard task?",
+   "answer": 3,
+   "0": "Lake Monster",
+   "1": "Moaning Myrtle",
+   "2": "Mermaids",
+   "3": "Grindylows"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "For what does McGonnagal use the spell, Ferra Verto?",
+   "answer": 0,
+   "0": "Turns rats into goblets",
+   "1": "Tuns mice into a matchbox",
+   "2": "Turns her desk into a dog",
+   "3": "Turns Malfoy into a ferret"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "To whom did Katie Bell attempt to deliver a package containing a cursed necklace?",
+   "answer": 1,
+   "0": "Harry Potter",
+   "1": "Professor Dumbledore",
+   "2": "Professor Mcgonagall",
+   "3": "Professor Snape"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What kind of creature attacks Hermione in the girl's bathroom?",
+   "answer": 2,
+   "0": "A basilisk",
+   "1": "An acromantula",
+   "2": "A mountain troll",
+   "3": "A dementor"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is on Luna's hat during Ron's first quidditch game?",
+   "answer": 3,
+   "0": "Turnips",
+   "1": "A screeching eagle",
+   "2": "Nargles",
+   "3": "A roaring lion"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the incantation for the spell that reduces solid objects into small pieces?",
+   "answer": 0,
+   "0": "Reducto",
+   "1": "Diffindo",
+   "2": "Avada Kedavra",
+   "3": "Crucio"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "According to Dumbledore, what kind of objects could conceal horcruxes?",
+   "answer": 1,
+   "0": "Rare metals",
+   "1": "Any",
+   "2": "Broken objects",
+   "3": "Gemstones"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which pet dies during Harry's escape from Privet Drive?",
+   "answer": 2,
+   "0": "Scabbers",
+   "1": "Hermes",
+   "2": "Hedwig",
+   "3": "Trevor"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which member of the Order of the Phoenix dies during Harry's escape from Privet Drive?",
+   "answer": 3,
+   "0": "Remus Lupin",
+   "1": "Bill Weasley",
+   "2": "Nymphadora Tonks",
+   "3": "Mad-Eye Moody"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who disapparates causing Moody to be killed by Voldemort?",
+   "answer": 0,
+   "0": "Mundungus Fletcher",
+   "1": "Remus Lupin",
+   "2": "Bill Weasley",
+   "3": "Nymphadora Tonks"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Where do the snatchers take Harry, Ron, and Hermione when they get captured?",
+   "answer": 1,
+   "0": "Azkaban",
+   "1": "Malfoy Manor",
+   "2": "Hogwarts",
+   "3": "The Ministry of Magic"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which team does Harry play against in his first quidditch match?",
+   "answer": 2,
+   "0": "Durmstrang",
+   "1": "Hufflepuff",
+   "2": "Slytherin",
+   "3": "Ravenclaw"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell does Hermione use to erase the memories of the Death Eaters that attack Harry, Ron, and Hermione in the diner?",
+   "answer": 3,
+   "0": "Confundus",
+   "1": "Reducto",
+   "2": "Stupefy",
+   "3": "Obliviate"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of the trophy awarded to the winner of the Triwizard Tournament?",
+   "answer": 0,
+   "0": "The Triwizard Cup",
+   "1": "The Triwizard Trophy",
+   "2": "The Triwizard Plaque",
+   "3": "The Triwizard Medal"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of the centaur who saves Harry from Voldemort in the Forbidden Forest?",
+   "answer": 1,
+   "0": "Ronan",
+   "1": "Firenze",
+   "2": "Bane",
+   "3": "Magorian"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whose body is Voldemort in possession of the first time he comes face to face with Harry at Hogwarts?",
+   "answer": 2,
+   "0": "Ginny Weasley's",
+   "1": "Professor Snape's",
+   "2": "Professor Quirrell's",
+   "3": "Barty Crouch's"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "According to legend, who built the Chamber of Secrets?",
+   "answer": 3,
+   "0": "Godric Gryffindor",
+   "1": "Helga Hufflepuff",
+   "2": "Rowena Ravenclaw",
+   "3": "Salazar Slytherin"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In the movie, which spell does Lupin use to freeze the Whomping Willow?",
+   "answer": 0,
+   "0": "Immobulus",
+   "1": "Stupefy",
+   "2": "Petrificus Totalis",
+   "3": "Dissendium"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who or what selects the Triwizard Tournament champions?",
+   "answer": 1,
+   "0": "The headmaster of each school",
+   "1": "The Goblet of Fire",
+   "2": "An election from the students",
+   "3": "Ludo Bagman"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "For how many years was Sirius imprisoned in Azkaban?",
+   "answer": 2,
+   "0": "Ten",
+   "1": "Eleven",
+   "2": "Twelve",
+   "3": "Thirteen"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of the wizarding prison guarded by dementors?",
+   "answer": 3,
+   "0": "Gringotts",
+   "1": "Durmstrang",
+   "2": "Knockturn Alley",
+   "3": "Azkaban"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What kind of creature in the water grabs Harry's hand in the Horcrux cave?",
+   "answer": 0,
+   "0": "Inferi",
+   "1": "Selkie",
+   "2": "Dementor",
+   "3": "Giant squid"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "To whom is the letter inside the fake locket addressed?",
+   "answer": 1,
+   "0": "Sirius Black",
+   "1": "The Dark Lord",
+   "2": "Albus Dumbledore",
+   "3": "Whomever finds the locket"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What feature of an adult mandrake is fatal?",
+   "answer": 2,
+   "0": "Its bite",
+   "1": "Its acid",
+   "2": "Its cry",
+   "3": "Its stare"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Ron think he took before his first Quidditch match?",
+   "answer": 3,
+   "0": "Amorentia",
+   "1": "Veritaserum",
+   "2": "A Pepper-up Potion",
+   "3": "Felix Felicis"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which of the Triwizard champions collected their eggs?",
+   "answer": 3,
+   "0": "Harry, Krum, and Cedric",
+   "1": "Harry, Fleur, and Cedric",
+   "2": "Fleur, Cedric, and Krum",
+   "3": "All of them"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who erases themself from their parents' memories to protect them from Death Eaters?",
+   "answer": 2,
+   "0": "Seamus Finnigan",
+   "1": "Luna Lovegood",
+   "2": "Hermione Granger",
+   "3": "Neville Longbottom"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What kind of egg does Hagrid win in a card game?",
+   "answer": 1,
+   "0": "Acromantula",
+   "1": "Dragon",
+   "2": "Blast-ended skrewt",
+   "3": "Hinkypunk"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which Death Eater was imprisoned for torturing Frank and Alice Longbottom?",
+   "answer": 0,
+   "0": "Bellatrix Lestrange",
+   "1": "Sirius Black",
+   "2": "Narissa Malfoy",
+   "3": "Fenrir Greyback"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whom does Hermione invite to Slughorn's Christmas party?",
+   "answer": 1,
+   "0": "Ron Weasley",
+   "1": "Cormac McLaggen",
+   "2": "Neville Longbottom",
+   "3": "Viktor Krum"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who tells Harry about Rowena Ravenclaw's lost diadem?",
+   "answer": 2,
+   "0": "Hermione Granger",
+   "1": "Professor McGonagall",
+   "2": "Luna Lovegood",
+   "3": "Cho Chang"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which Death Eater kidnaps Ollivander?",
+   "answer": 3,
+   "0": "Lucius Malfoy",
+   "1": "Peter Pettigrew",
+   "2": "Bellatrix Lestrange",
+   "3": "Fenrir Greyback"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How long are house elves bound to their families?",
+   "answer": 3,
+   "0": "10 years",
+   "1": "50 years",
+   "2": "100 years",
+   "3": "Their whole lives"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who does Voldemort think the Elder Wand belongs to after he realizes it didn't belong to Dumbledore?",
+   "answer": 1,
+   "0": "Lucius Malfoy",
+   "1": "Severus Snape",
+   "2": "Harry Potter",
+   "3": "Draco Malfoy"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What legislation does Umbridge keep passing as High Inquisitor?",
+   "answer": 0,
+   "0": "Educational Decrees",
+   "1": "Educational Ammendments",
+   "2": "Ministry Decrees",
+   "3": "Ministry Ammendments"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell backfires on Lockhart erasing his memory?",
+   "answer": 2,
+   "0": "Reducto",
+   "1": "Adada Kedavra",
+   "2": "Obliviate",
+   "3": "Episky"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whose hand me down wand did Ron use in the first book?",
+   "answer": 0,
+   "0": "Charlie Weasley's",
+   "1": "Percy Weasley's",
+   "2": "Bill Weasley's",
+   "3": "Arthur Weasley's"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What was the name of the fish that Lily gave Slughorn?",
+   "answer": 1,
+   "0": "Franky",
+   "1": "Francis",
+   "2": "Franklin",
+   "3": "Fynn"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of the group of bandits that work for the Death Eaters once they take over the Ministry?",
+   "answer": 3,
+   "0": "Catchers",
+   "1": "Grabbers",
+   "2": "Kidnappers",
+   "3": "Snatchers"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who was the headmaster of Hogwarts when the Chamber of Secrets was first opened?",
+   "answer": 0,
+   "0": "Armando Dippet",
+   "1": "Albus Dumbledore",
+   "2": "Severus Snape",
+   "3": "Phineas Black"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of the effect when twin wand cores duel?",
+   "answer": 1,
+   "0": "Bonding",
+   "1": "Priori Incantatem",
+   "2": "Dueling",
+   "3": "Incantatem Priori"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "From where does Mundungus steal the locket?",
+   "answer": 2,
+   "0": "Hogwarts",
+   "1": "Privet Drive",
+   "2": "Grimamuld Place",
+   "3": "The Burrow"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Alongside whom does Harry first apparate?",
+   "answer": 3,
+   "0": "Arthur Weasley",
+   "1": "Mad-Eye Moody",
+   "2": "Remus Lupin",
+   "3": "Albus Dumbledore"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whom are the dementors searching for when they board the Hogwarts Express?",
+   "answer": 3,
+   "0": "Death Eaters",
+   "1": "Bellatrix Lestrange",
+   "2": "Voldemort",
+   "3": "Sirius Black"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who poisons Slughorn's mead in an attempt to poison Dumbledore?",
+   "answer": 0,
+   "0": "Draco Malfoy",
+   "1": "Severus Snape",
+   "2": "Bellatrix Lestrange",
+   "3": "Voldemort"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What medicine regrows bones?",
+   "answer": 1,
+   "0": "Bone-Gro",
+   "1": "Skele-Gro",
+   "2": "Bone-Re-Gro",
+   "3": "Skele-Re-Gro"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the final object that the Triwizard Champions must collect?",
+   "answer": 2,
+   "0": "The Elder Wand",
+   "1": "Someone precious to them",
+   "2": "The Triwizard Cup",
+   "3": "A golden egg"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whom does Mundungus accompany when escorting Harry to the safe house?",
+   "answer": 3,
+   "0": "Arthur Weasley",
+   "1": "Rubeus Hagrid",
+   "2": "Remus Lupid",
+   "3": "Mad-Eye Moody"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of the cat that Harry, Ron, and Hermione find petrified?",
+   "answer": 0,
+   "0": "Mrs. Norris",
+   "1": "Mr. Norris",
+   "2": "Mrs. Morris",
+   "3": "Mr. Morris"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "When Dumbledore puts on Marvolo Gaunt's cursed ring, how long does Snape say he has to live?",
+   "answer": 2,
+   "0": "A month",
+   "1": "Six months",
+   "2": "A year",
+   "3": "Two years"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is hand written on the paper that Harry finds in Hermione's petrified hand?",
+   "answer": 1,
+   "0": "Basilisk",
+   "1": "Pipes",
+   "2": "Mirrors",
+   "3": "Spiders"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell does Malfoy use to petrify Harry after he catches him spying on him on the train?",
+   "answer": 2,
+   "0": "Stupefy",
+   "1": "Immobulus",
+   "2": "Petrificus Totalus",
+   "3": "Reducto"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which object does Aberforth use to keep an eye on Harry and his friends?",
+   "answer": 3,
+   "0": "A Sneak-O-Scope",
+   "1": "An invisibility cloak",
+   "2": "A Foe Glass",
+   "3": "A mirror"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the Head of the Muggle-born Registration Commission?",
+   "answer": 0,
+   "0": "Dolores Umbridge",
+   "1": "Mafalda Hopkirk",
+   "2": "Armando Dippet",
+   "3": "Walden Macnair"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Hagrid buy Harry for his 11th birthday?",
+   "answer": 1,
+   "0": "Fawkes",
+   "1": "Hedwig",
+   "2": "Scabbers",
+   "3": "Trevor"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which Hogwarts professor does Voldemort levitate above a table?",
+   "answer": 2,
+   "0": "Professor Sprout",
+   "1": "Professor Trelawney",
+   "2": "Charity Burbage",
+   "3": "Professor Binns"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who conducts the school choir?",
+   "answer": 3,
+   "0": "Professor McGonagall",
+   "1": "Professor Sprout",
+   "2": "Rubeus Hagrid",
+   "3": "Professor Flitwick"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What incantation does Hermione use to fix Harry's glasses?",
+   "answer": 0,
+   "0": "Oculus Reparo",
+   "1": "Dissendum",
+   "2": "Accio",
+   "3": "Crucio"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Grindelwald's first name?",
+   "answer": 1,
+   "0": "Gilbert",
+   "1": "Gellert",
+   "2": "Norbert",
+   "3": "Nellert"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In the book, how does Ron make the spider boggart funny?",
+   "answer": 2,
+   "0": "He sets it on fire",
+   "1": "The floor becomes ice",
+   "2": "He removes its legs",
+   "3": "He gives it roller skates"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In the movie, how does Ron make the spider boggart funny?",
+   "answer": 3,
+   "0": "He sets it on fire",
+   "1": "The floor becomes ice",
+   "2": "He removes its legs",
+   "3": "He gives it roller skates"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which Horcrux did Voldemort create unintentionally?",
+   "answer": 2,
+   "0": "His Diary",
+   "1": "Nagini",
+   "2": "Harry Potter",
+   "3": "The Gaunt Ring"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How long do the Triwizard champions have to complete the second task?",
+   "answer": 1,
+   "0": "Thirty Minutes",
+   "1": "One hour",
+   "2": "Two hours",
+   "3": "Two & a Half Hours"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What happens when Hermione casts Oppugno on the birds that she conjured?",
+   "answer": 0,
+   "0": "They attack Ron",
+   "1": "They fly out the window",
+   "2": "They burst into feathers",
+   "3": "They attack Draco Malfoy"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What complication does Voldemort say prevents him from killing Harry with his own wand?",
+   "answer": 1,
+   "0": "They share the same maker",
+   "1": "They share cores",
+   "2": "They share the same wood",
+   "3": "They are equally powerful"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In the movies, whom does Harry save from the Room of Requirement when it's on fire?",
+   "answer": 2,
+   "0": "Crabbe & Goyle",
+   "1": "Goyle & Blaise Zabini",
+   "2": "Blaise Zabini & Draco Malfoy",
+   "3": "Crabbe & Draco Malfoy"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What creature does Trelawney see in Harry's tea leaves?",
+   "answer": 3,
+   "0": "The Omen",
+   "1": "The Summoning",
+   "2": "The Dark Mark",
+   "3": "The Grim"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who kills Bellatrix Lestrange?",
+   "answer": 0,
+   "0": "Molly Weasley",
+   "1": "Professional McGonagall",
+   "2": "Hermione Granger",
+   "3": "Nymphadora Tonks"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What spell does Hermione use on the pixies?",
+   "answer": 1,
+   "0": "Reducto",
+   "1": "Immobulus",
+   "2": "Lumos",
+   "3": "Accio"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What do Harry and Hermione use to go back in time?",
+   "answer": 2,
+   "0": "An invisibility cloak",
+   "1": "Time Potion",
+   "2": "A Time Turner",
+   "3": "Apparition"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What position does Oliver Wood play on the Gryffindor quidditch team?",
+   "answer": 3,
+   "0": "Seeker",
+   "1": "Beater",
+   "2": "Chaser",
+   "3": "Keeper"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What form of patronous led Harry to the Sword of Gryffindor?",
+   "answer": 0,
+   "0": "A doe",
+   "1": "A stag",
+   "2": "A swan",
+   "3": "A phoenix"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who confiscates the locket horcrux from Mundungus?",
+   "answer": 1,
+   "0": "Hermione Granger",
+   "1": "Dolores Ubmridge",
+   "2": "Professional McGonagall",
+   "3": "Harry Potter"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Ron use to destroy the locket horcrux?",
+   "answer": 2,
+   "0": "Fiendfyre",
+   "1": "A rock",
+   "2": "The Sword of Gryffindor",
+   "3": "A basilisk fang"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who let the troll into Hogwarts during the Halloween feast?",
+   "answer": 3,
+   "0": "Severus Snape",
+   "1": "Rubeus Hagrid",
+   "2": "Hermione Granger",
+   "3": "Professor Quirrell"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many points did Harry and Ron each win for taking on the mountain troll in the girl's bathroom?",
+   "answer": 0,
+   "0": "Five",
+   "1": "Ten",
+   "2": "Twenty",
+   "3": "Fifty"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many points did McGonagall deduct Hermione for the mountain troll? ",
+   "answer": 0,
+   "0": "Five",
+   "1": "Ten",
+   "2": "Twenty",
+   "3": "Fifty"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell does Harry use to break the ice to retrieve The Sword of Gryffindor?",
+   "answer": 3,
+   "0": "Stupefy",
+   "1": "Reductor",
+   "2": "Obliviate",
+   "3": "Diffindo"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What item does Moody have in his office to track his enemies?",
+   "answer": 0,
+   "0": "A Foe-Glass",
+   "1": "Sneakoscope",
+   "2": "Secrecy Sensor",
+   "3": "Deluminator"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the first name of the Hogwarts caretaker?",
+   "answer": 1,
+   "0": "Filius",
+   "1": "Argus",
+   "2": "Frank",
+   "3": "Rubeus"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What form does Fred and George's firework take when it charges down Ubmridge?",
+   "answer": 2,
+   "0": "A stag",
+   "1": "A phoenix",
+   "2": "A dragon",
+   "3": "A centaur"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who kills Nagini?",
+   "answer": 3,
+   "0": "Harry Potter",
+   "1": "Ronald Weasley",
+   "2": "Hermione Granger",
+   "3": "Neville Longbottom"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of the group of students that Umbridge uses to police the school?",
+   "answer": 0,
+   "0": "The Inquisitorial Squad",
+   "1": "The Umbridge Squad",
+   "2": "The Inquisitorial Police",
+   "3": "The Umbridge Police"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What potion does Harry use to help him get the memory from Slughorn?",
+   "answer": 1,
+   "0": "Veritaserum",
+   "1": "Felix Felicis",
+   "2": "Amortentia",
+   "3": "Manegro"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who was the first champion selected by the Goblet of Fire?",
+   "answer": 0,
+   "0": "Viktor Krum",
+   "1": "Fleur Delacour",
+   "2": "Cedric Diggory",
+   "3": "Harry Potter"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who marries Remus Lupin?",
+   "answer": 1,
+   "0": "Fleur Delacour",
+   "1": "Nymphadora Tonks",
+   "2": "Bellatrix Lestrange",
+   "3": "Ginny Weasley"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of Neville's toad?",
+   "answer": 2,
+   "0": "Fawkes",
+   "1": "Crookshanks",
+   "2": "Trevor",
+   "3": "Hermes"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who kills Sirius Black?",
+   "answer": 3,
+   "0": "Lucius Malfoy",
+   "1": "Voldemort",
+   "2": "Narcissa Malfoy",
+   "3": "Bellatrix Lestrange"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which student is harmed by the cursed necklace?",
+   "answer": 0,
+   "0": "Katie Bell",
+   "1": "Hermione Granger",
+   "2": "Draco Malfoy",
+   "3": "Angelina Johnson"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell does Hermione use to destroy the rogue bludger?",
+   "answer": 1,
+   "0": "Reducto",
+   "1": "Finite Incantatem",
+   "2": "Bombardo",
+   "3": "Flipendo"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the landlord of the Leaky Cauldron?",
+   "answer": 2,
+   "0": "Florean Fortescue",
+   "1": "Madam Malkin",
+   "2": "Tom",
+   "3": "Madam Rosmerta"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What mythical creature does Harry hear singing when he opens the golden egg?",
+   "answer": 3,
+   "0": "Hags",
+   "1": "Harpies",
+   "2": "Centaurs",
+   "3": "Merpeople"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Where on their bodies do Death Eaters display the Dark Mark?",
+   "answer": 0,
+   "0": "Their forearms",
+   "1": "Their shoulders",
+   "2": "Their wrists",
+   "3": "Their chests"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What subject does Charity Burbage teach?",
+   "answer": 1,
+   "0": "Arithmancy",
+   "1": "Muggle Studies",
+   "2": "Ancient Runes",
+   "3": "History of Magic"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell does Flitwick teach when the students are trying to levitate a feather?",
+   "answer": 2,
+   "0": "Levicorpus",
+   "1": "Accio",
+   "2": "Wingardium Leviosa",
+   "3": "Alarte Ascendare"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many years back in time does Harry travel in Tom Riddle's diary?",
+   "answer": 3,
+   "0": "Twenty",
+   "1": "Thirty",
+   "2": "Forty",
+   "3": "Fifty"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which teams play in the 442nd Quidditch World Cup final?",
+   "answer": 0,
+   "0": "Ireland and Bulgaria",
+   "1": "England and Ireland",
+   "2": "England and Bulgaria",
+   "3": "France and Norway"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which type of dragon guards the vaults at Gringotts?",
+   "answer": 1,
+   "0": "Welsh Green",
+   "1": "Ukranian Ironbelly",
+   "2": "Hungarian Horntail",
+   "3": "Chinese Fireball"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the ghost of Ravenclaw Tower?",
+   "answer": 2,
+   "0": "The Bloody Barron",
+   "1": "The Fat Friar",
+   "2": "The Grey Lady",
+   "3": "Nearly Headless Nick"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What potion is known as truth serum?",
+   "answer": 3,
+   "0": "Amorentia",
+   "1": "Felix Felicis",
+   "2": "Everklena",
+   "3": "Veritaserum"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who are the only two people that can retrieve the prophecy from the Department of Mysteries?",
+   "answer": 0,
+   "0": "Harry or Voldemort",
+   "1": "Albus Dumbledore",
+   "2": "Only the Ministry",
+   "3": "Only the prophet"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which champion scores the most points in the second task of the Triwizard Tournament?",
+   "answer": 1,
+   "0": "Harry Potter",
+   "1": "Cedric Diggory",
+   "2": "Fleur Delacour",
+   "3": "Viktor Krum"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "A hippogriff has the body, hind legs, and tail of a horse, and the wings and head of what creature?",
+   "answer": 0,
+   "0": "An eagle",
+   "1": "An owl",
+   "2": "A hawk",
+   "3": "A phoenix"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of Voldemort's snake companion?",
+   "answer": 2,
+   "0": "Wormtail",
+   "1": "Magini",
+   "2": "Nagini",
+   "3": "Scabbers"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of the train that transports people to Hogwarts?",
+   "answer": 3,
+   "0": "The Hogwarts Tram",
+   "1": "The Hogwarts Shuttle",
+   "2": "The Hogwarts Line",
+   "3": "The Hogwarts Express"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which platform and at what station does the Hogwarts Express depart?",
+   "answer": 0,
+   "0": "Plat. 9 3/4 & Kings Cross",
+   "1": "Plat. 7 3/4 & Kings Cross",
+   "2": "Plat. 9 3/4 & Cambridge",
+   "3": "Plat. 7 3/4 & Cambridge"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whom does Slughorn call the Prince of Potions?",
+   "answer": 1,
+   "0": "Professor Snape",
+   "1": "Harry Potter",
+   "2": "Himself",
+   "3": "Draco Malfoy"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which Weasley did Fenrir Greyback scratch?",
+   "answer": 2,
+   "0": "Charlie Weasley",
+   "1": "Percy Weasley",
+   "2": "Bill Weasley",
+   "3": "Arthur Weasley"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of Filch's cat?",
+   "answer": 3,
+   "0": "Mrs. Morris",
+   "1": "Mr. Morris",
+   "2": "Mr. Norris",
+   "3": "Mrs. Norris"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "After Voldemort attacks Harry with the killing curse, who checks to confirm that he is dead?",
+   "answer": 0,
+   "0": "Narcissa Malfoy",
+   "1": "Bellatrix Lestrange",
+   "2": "Peter Pettigrew",
+   "3": "Rubeus Hagrid"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Lavender Brown's pet name for Ron when they're dating?",
+   "answer": 1,
+   "0": "Ron-ron",
+   "1": "Won-won",
+   "2": "Ronnie",
+   "3": "Wonnie"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which potion ingredients does Snape find missing during Harry's fourth year at Hogwarts? Boomslang skin and ___?",
+   "answer": 2,
+   "0": "Gillyweed",
+   "1": "Fluxweed",
+   "2": "Lacewing flies",
+   "3": "A bezoar"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whom does Hermione impersonate when she, Ron, and Harry break into Gringotts?",
+   "answer": 3,
+   "0": "Dolores Umbridge",
+   "1": "Narcissa Malfoy",
+   "2": "Alecto Carrow",
+   "3": "Bellatrix Lestrange"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What pulls the carriages at Hogwarts?",
+   "answer": 0,
+   "0": "Thestrals",
+   "1": "Horses",
+   "2": "Centaurs",
+   "3": "Unicorns"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How is the ghost of Ravenclaw Tower related to founder Rowena Ravenclaw?",
+   "answer": 1,
+   "0": "She's her grandaughter",
+   "1": "She's her daughter",
+   "2": "She's her sister",
+   "3": "She's her mother"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What charm does Hermione use to escape Filch on the third floor?",
+   "answer": 2,
+   "0": "Stupefy",
+   "1": "Petrificus Totalis",
+   "2": "Alohomora",
+   "3": "Wingardium Leviosa"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How do students open The Monster Book of Monsters?",
+   "answer": 3,
+   "0": "They give it a hard slap",
+   "1": "They rub the cover",
+   "2": "They stun it",
+   "3": "They stroke the spine"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What colour is the Beauxbatons school uniform?",
+   "answer": 0,
+   "0": "Light blue",
+   "1": "Light pink",
+   "2": "Light green",
+   "3": "Light yellow"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What do Harry and Dumbledore find in a cave that they suspect is a horcrux?",
+   "answer": 3,
+   "0": "Nagini",
+   "1": "Rowen Ravenclaw's Diadem",
+   "2": "Helga Hufflepuff's Cup",
+   "3": "A locket"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many spells does Harry successfully cast in the first Harry Potter movie?",
+   "answer": 0,
+   "0": "Zero",
+   "1": "One",
+   "2": "Two",
+   "3": "Three"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many years after the Battle of Hogwarts does Harry's son, Albus Severus attend Hogwarts for the first time?",
+   "answer": 1,
+   "0": "Seventeen",
+   "1": "Ninteen",
+   "2": "Twenty",
+   "3": "Twenty-one"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does the spell Wingardium Leviosa do to objects?",
+   "answer": 2,
+   "0": "Sets them on fire",
+   "1": "Turns them into water",
+   "2": "Makes them levitate",
+   "3": "Makes them explode"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What object in The Burrow shows the location and status of each family member?",
+   "answer": 3,
+   "0": "A set of hour glasses",
+   "1": "A radio",
+   "2": "An old TV",
+   "3": "A clock"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which Ministry of Magic employee expels Harry after he uses magic to fend off dementors?",
+   "answer": 1,
+   "0": "Pius Thicknesse",
+   "1": "Mafalda Hopkirk",
+   "2": "Cornelius Fudge",
+   "3": "Dolores Umbridge"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of Hermione's cat?",
+   "answer": 2,
+   "0": "Hedwig",
+   "1": "Pigwidgeon",
+   "2": "Crookshanks",
+   "3": "Scabbers"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whom did R.A.B. instruct to destroy the locket horcrux?",
+   "answer": 3,
+   "0": "Harry Potter",
+   "1": "Dobby",
+   "2": "Sirius Black",
+   "3": "Kreacher"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How does Cedric Diggory breathe underwater in the second wizarding task?",
+   "answer": 0,
+   "0": "Bubble-Head Charm",
+   "1": "Gillyweed",
+   "2": "Transforms into a shark",
+   "3": "Aguamenti"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which potion does Slughorn describe as very dangerous because it induces powerful infatuation?",
+   "answer": 1,
+   "0": "Felix Felicis",
+   "1": "Amortentia",
+   "2": "Cupid Crystals",
+   "3": "Kissing Concoction"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Where did Albus Dumbeldore live as a boy?",
+   "answer": 2,
+   "0": "Spinner's End",
+   "1": "Hogsmeade",
+   "2": "Godric's Hollow",
+   "3": "Little Whinging"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What color of handbag does the Snape boggart carry?",
+   "answer": 3,
+   "0": "Pink",
+   "1": "Green",
+   "2": "Blue",
+   "3": "Red"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What color of handbag does Neville's grandmother carry?",
+   "answer": 0,
+   "0": "Red",
+   "1": "Green",
+   "2": "Blue",
+   "3": "Pink"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who casts the dark mark into the sky after Dumbledore's death?",
+   "answer": 1,
+   "0": "Severus Snape",
+   "1": "Bellatrix Lestrange",
+   "2": "Fenrir Greyback",
+   "3": "Lucius Malfoy"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which student is approached by the snake that Malfoy conjured in his duel with Harry?",
+   "answer": 2,
+   "0": "Colin Creevey",
+   "1": "Neville Longbottom",
+   "2": "Justin Finch-Fletchley",
+   "3": "Terry Boot"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does the spell Mormordre do?",
+   "answer": 3,
+   "0": "Summons the Death Eaters",
+   "1": "Shows the last spells cast",
+   "2": "Raises the Dead",
+   "3": "Conjures the Dark Mark"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What transportation do Harry and Hagrid use when escaping Privet Drive?",
+   "answer": 0,
+   "0": "Flying motorcycle",
+   "1": "Floo Powder",
+   "2": "Broomsticks",
+   "3": "Ministry car"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Mad-Eye Moody's first name?",
+   "answer": 1,
+   "0": "Aberforth",
+   "1": "Alastor",
+   "2": "Albus",
+   "3": "Argus"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which horcrux blackens Dumbledore's hand?",
+   "answer": 1,
+   "0": "Tom Riddle's Diary",
+   "1": "Marvolo Gaunt's ring",
+   "2": "Helga Hufflepuff's Cup",
+   "3": "The Sword of Gryffindor"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What are the Gryffindor House colors?",
+   "answer": 2,
+   "0": "Scarlet and gray",
+   "1": "Scarlet and silver",
+   "2": "Scarlet and gold",
+   "3": "Scarlet and white"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the spell Homenum Revelio used for?",
+   "answer": 3,
+   "0": "Reveals nearby dead people",
+   "1": "Reveals nearby ghosts",
+   "2": "Reveals nearby enemies",
+   "3": "Reveals nearby humans"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which Weasley originally owned Scabbers as a pet?",
+   "answer": 0,
+   "0": "Percy",
+   "1": "George",
+   "2": "Bill",
+   "3": "Charlie"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "According to Griphook, who are the only ones that can distinguish the real sword of Gryffindor from a fake?",
+   "answer": 1,
+   "0": "Bankers",
+   "1": "Goblins",
+   "2": "A true Gryffindor",
+   "3": "Goblin smiths"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "To which family does the ring horcrux belong?",
+   "answer": 2,
+   "0": "The Dumbledores",
+   "1": "The Potters",
+   "2": "The Gaunts",
+   "3": "The Voldemorts"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who attempts to teach Harry Occlumency?",
+   "answer": 3,
+   "0": "Professor Moody",
+   "1": "Professor Lupin",
+   "2": "Professor Dumbledore",
+   "3": "Professor Snape"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many people used polyjuice potion to turn into Harry during his rescue from Privet Drive?",
+   "answer": 0,
+   "0": "Six",
+   "1": "Seven",
+   "2": "Eight",
+   "3": "Nine"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What must one say to hide the contents of the Marauder's Map?",
+   "answer": 1,
+   "0": "Mischief Complete",
+   "1": "Mischief Managed",
+   "2": "No Good Accomplished",
+   "3": "Mischief Accomplished"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which six members of Dumbledore's Army go to the Department of Mysteries? Harry, Ron, Hermione and ___?",
+   "answer": 2,
+   "0": "Luna, Fred, & George",
+   "1": "Neville, Fred, & George",
+   "2": "Luna, Neville, & Ginny",
+   "3": "Seamus, Fred, & George"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who finds Mundungus and brings him to Grimmauld Place when Harry is looking for him?",
+   "answer": 3,
+   "0": "Hermione Granger",
+   "1": "The Snatchers",
+   "2": "Ron Weasley",
+   "3": "Dobby and Kreacher"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Hermione suggest they do with the locket when she sees that Harry is having a hard time with it?",
+   "answer": 0,
+   "0": "Take turns wearing it",
+   "1": "Bury the necklace",
+   "2": "Keep it in her bag",
+   "3": "Destroy it immediately"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In the movies, which Gryffindor student gives Harry Gillyweed?",
+   "answer": 1,
+   "0": "Hermione Granger",
+   "1": "Neville Longbottom",
+   "2": "Ginny Weasley",
+   "3": "Seamus Finnigan"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does the spell Stupefy do?",
+   "answer": 2,
+   "0": "Violently pushes the target",
+   "1": "Wraps the target in ropes",
+   "2": "Stuns the target",
+   "3": "Makes the target stupid"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of the Weasley family's old owl?",
+   "answer": 3,
+   "0": "Hedwig",
+   "1": "Hermes",
+   "2": "Pigwidgeon",
+   "3": "Errol"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whose house are Harry and his friends imprisoned in after being captured by the Snatchers?",
+   "answer": 0,
+   "0": "The Malfoy's",
+   "1": "Voldemort's",
+   "2": "Bellatrix Lestrange's",
+   "3": "Pius Thicknese's"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the first name of the Ravenclaw Hogwarts founder ?",
+   "answer": 1,
+   "0": "Ruby",
+   "1": "Rowena",
+   "2": "Raven",
+   "3": "Ragen"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In which year did Harry use the book, Advanced Potion Making?",
+   "answer": 2,
+   "0": "Fourth",
+   "1": "Fifth",
+   "2": "Sixth",
+   "3": "Seventh"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who was the original owner of Harry's copy of Advanced Potion Making?",
+   "answer": 3,
+   "0": "Albus Dumbledore",
+   "1": "Professor Slughorn",
+   "2": "Lily Evans",
+   "3": "Professor Snape"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Apart from his own, whose home do Harry and Hermione visit in Godric's Hollow?",
+   "answer": 0,
+   "0": "Bathilda Bagshot's",
+   "1": "Rita Skeeter's",
+   "2": "Godric Gryffindor's",
+   "3": "Albus Dumbledore's"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which student did the basilisk kill at Hogwarts?",
+   "answer": 1,
+   "0": "The Grey Lady",
+   "1": "Moaning Myrtle",
+   "2": "Cedric Diggory",
+   "3": "Colin Creevey"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which subject did Professor Umbridge teach at Hogwarts?",
+   "answer": 3,
+   "0": "Potions",
+   "1": "Transfiguration",
+   "2": "Charms",
+   "3": "Defense Against the Dark Arts"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many Unforgivable Curses are there?",
+   "answer": 2,
+   "0": "One",
+   "1": "Two",
+   "2": "Three",
+   "3": "Four"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is known to have a flesh memory?",
+   "answer": 0,
+   "0": "A snitch",
+   "1": "A wand",
+   "2": "The Sorceror's Stone",
+   "3": "Hippogriffs"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the Half-Blood Prince?",
+   "answer": 1,
+   "0": "Voldemort",
+   "1": "Professor Snape",
+   "2": "Harry Potter",
+   "3": "Professor Slughorn"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the secret to calming Fluffy?",
+   "answer": 2,
+   "0": "Give him three big bones",
+   "1": "Pet him",
+   "2": "Play him music",
+   "3": "Dance for him"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the first ingredient that Wormtail uses to return Voldemort to power?",
+   "answer": 3,
+   "0": "Flesh of a servant",
+   "1": "Blood of the foe",
+   "2": "Venom of a snake",
+   "3": "Bone from Voldemort's father"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Professor Flitwick's first name?",
+   "answer": 1,
+   "0": "Billius",
+   "1": "Filius",
+   "2": "Alastor",
+   "3": "Armando"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who vomits slugs when he's trying to curse Malfoy?",
+   "answer": 2,
+   "0": "Harry Potter",
+   "1": "Neville Longbottom",
+   "2": "Ron Weasley",
+   "3": "Seamus Finnigan"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In which textbook does Harry find the name The Half-Blood Prince?",
+   "answer": 3,
+   "0": "Monster Book of Monsters",
+   "1": "Magical Me",
+   "2": "History of Magic",
+   "3": "Advanced Potion Making"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who saves Harry from drowning in the frozen lake when he attempts to retrieve the Sword of Gryffindor?",
+   "answer": 0,
+   "0": "Ron Weasley",
+   "1": "Severus Snape",
+   "2": "Dobby",
+   "3": "Hermione Granger"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which creatures were brought from Romania for the first task in the Triwizard Tournament?",
+   "answer": 1,
+   "0": "Blast-ended skrewts",
+   "1": "Dragons",
+   "2": "Nifflers",
+   "3": "Hinkypunks"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which Minister of Magic was killed by Voldemort during the Battle of Hogwarts?",
+   "answer": 2,
+   "0": "Cornelius Fudge",
+   "1": "Kingsley Shackbolt",
+   "2": "Pius Thicknesse",
+   "3": "Rufus Scrimgeor"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which student wears a charm around her neck to ward off nargles?",
+   "answer": 3,
+   "0": "Ginny Weasley",
+   "1": "Parvati Patil",
+   "2": "Lavender Brown",
+   "3": "Luna Lovegood"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What type of spell does Hermione cast on Harry's face when they're captured by snatchers?",
+   "answer": 0,
+   "0": "Stinging Jinx",
+   "1": "Aging Charm",
+   "2": "Manegro Jinx",
+   "3": "Densaugeo"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does the Ministry use for inter-departmental memos?",
+   "answer": 1,
+   "0": "Owls",
+   "1": "Paper airplanes",
+   "2": "Fellytones",
+   "3": "House elves"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which part of himself did Peter Pettigrew leave behind after Sirius allegedly murdered him?",
+   "answer": 2,
+   "0": "Part of his nose",
+   "1": "An ear",
+   "2": "A finger",
+   "3": "A toe"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which creatures does Dumbledore send Hagrid to recruit?",
+   "answer": 3,
+   "0": "Goblins",
+   "1": "Centaurs",
+   "2": "Dragons",
+   "3": "Giants"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What was Lord Voldemort's name while he was a student?",
+   "answer": 0,
+   "0": "Tom Riddle",
+   "1": "Tom Gaunt",
+   "2": "Tom Gellert",
+   "3": "Tom Voldemort"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "To what position did Fudge appoint Umbridge after 'standards were falling' at Hogwarts?",
+   "answer": 1,
+   "0": "High Head Master",
+   "1": "High Inquisitor",
+   "2": "Head Teacher",
+   "3": "Head of Discipline and Education"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What symbol does Xenophilius Lovegood wear around his neck?",
+   "answer": 2,
+   "0": "The Page Corner Stars",
+   "1": "Platform 9 ¾",
+   "2": "The Deathly Hallows",
+   "3": "A lightning bolt"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who sent his own son to Azkaban because he was a Death Eater?",
+   "answer": 3,
+   "0": "Igor Karkaroff",
+   "1": "Cornelius Fudge",
+   "2": "Ludo Bagman",
+   "3": "Barty Crouch"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Professor Slughorn collect from Aragog's deceased body?",
+   "answer": 0,
+   "0": "Venom",
+   "1": "Fangs",
+   "2": "Hair",
+   "3": "Web"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is asked to identify Harry at Malfoy Manor?",
+   "answer": 1,
+   "0": "Lucius Malfoy",
+   "1": "Draco Malfoy",
+   "2": "Narcissa Malfoy",
+   "3": "Bellatrix Lestrange"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which subject does Professor Trelawney teach?",
+   "answer": 2,
+   "0": "Arithmancy",
+   "1": "Ancient Runes",
+   "2": "Divination",
+   "3": "History of Magic"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who casts Fiendfyre in the Room of Requirement?",
+   "answer": 3,
+   "0": "Draco Malfoy",
+   "1": "Blaise Zabini",
+   "2": "Gregory Goyle",
+   "3": "Vincent Crabbe"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Harry's first Famous Witches and Wizards card?",
+   "answer": 0,
+   "0": "Albus Dumbledore",
+   "1": "Nicholas Flamel",
+   "2": "Godric Gryffindor",
+   "3": "Helga Hufflepuff"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Harry use to kill the Basilisk in the Chamber of Secrets?",
+   "answer": 1,
+   "0": "A spell",
+   "1": "The Sword of Gryffindor",
+   "2": "The Sorting Hat",
+   "3": "Its own fang"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "One of the Vanishing Cabinets is at Hogwarts, where is the other?",
+   "answer": 2,
+   "0": "Malfoy Manor",
+   "1": "A cave",
+   "2": "At Borgin and Burkes",
+   "3": "Grimmauld Place"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In which room is the Vanishing Cabinet at Hogwarts?",
+   "answer": 0,
+   "0": "The Room of Requirement",
+   "1": "A storage room",
+   "2": "The kitchens",
+   "3": "Slytherin Common Room"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "A girl from which house wants to hand Harry over to Voldemort during the Battle of Hogwarts?",
+   "answer": 1,
+   "0": "Gryffindor",
+   "1": "Slytherin",
+   "2": "Hufflepuff",
+   "3": "Ravenclaw"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How long does Polyjuice Potion take to brew?",
+   "answer": 2,
+   "0": "A day",
+   "1": "A week",
+   "2": "A month",
+   "3": "A year"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "When Dumbledore visited Harry in the hospital wing, which flavor of Bertie Bott's Every-Flavor Bean did he try?",
+   "answer": 0,
+   "0": "Earwax",
+   "1": "Vomit",
+   "2": "Toffee",
+   "3": "Pepper"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of Cedric Diggory's father?",
+   "answer": 1,
+   "0": "Arthur Diggory",
+   "1": "Amos Diggory",
+   "2": "Argus Diggory",
+   "3": "Albus Diggory"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Umbridge insults which kind of creature in front of Harry and Hermione in the Forbidden Forest?",
+   "answer": 2,
+   "0": "Giant",
+   "1": "Unicorn",
+   "2": "Centaur",
+   "3": "Hippogriff"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who has been taken captive when Harry goes to face Voldemort in the Forbidden Forest?",
+   "answer": 3,
+   "0": "Neville Longbottom",
+   "1": "Luna Lovegood",
+   "2": "Colin Creevey",
+   "3": "Rubeus Hagrid"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whom does Harry invite to Slughorn's Christmas party?",
+   "answer": 0,
+   "0": "Luna Lovegood",
+   "1": "Ginny Weasley",
+   "2": "Hermione Granger",
+   "3": "Parvati Patil"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What type of memory is needed to produce a Patronus?",
+   "answer": 1,
+   "0": "A very angry one",
+   "1": "A very happy one",
+   "2": "A very sad one",
+   "3": "A very scary one"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What kind of flying object do Harry, Ron, and Hermione need to catch on their way to the Sorcerer's Stone?",
+   "answer": 2,
+   "0": "Small birds",
+   "1": "Pixies",
+   "2": "Keys with wings",
+   "3": "Flying chess pieces"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is speculated to be Rita Skeeter's informant for her book on Dumbledore?",
+   "answer": 3,
+   "0": "Florean Fortescue",
+   "1": "Elphias Doge",
+   "2": "Armando Dippet",
+   "3": "Bathilda Bagshot"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Fawkes do the very first time Harry meets him?",
+   "answer": 0,
+   "0": "Bursts into flames",
+   "1": "Flies away",
+   "2": "Sings a beautiful song",
+   "3": "Cries healing tears"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who do Harry and Hermione find disguised as Bathilda Bagshot?",
+   "answer": 1,
+   "0": "Peter Pettigrew",
+   "1": "Nagini",
+   "2": "Bellatrix Lestrange",
+   "3": "Aragog"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In which of Harry's school years does Harry become Quidditch Captain?",
+   "answer": 2,
+   "0": "Fourth",
+   "1": "Fifth",
+   "2": "Sixth",
+   "3": "Seventh"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Avada Kedavra is known as which curse?",
+   "answer": 3,
+   "0": "The Stunning Spell",
+   "1": "The Controlling Curse",
+   "2": "The Torture Curse",
+   "3": "The Killing Curse"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What headline does Harry read in a newspaper on the Knight Bus?",
+   "answer": 0,
+   "0": "Escape from Azkaban!",
+   "1": "Black Escapes Azkaban!",
+   "2": "Sirius Black on the Loose!",
+   "3": "Prisoner Escapes Azkaban!"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who sends the message during Bill and Fleur's wedding to warn everyone that the Ministry has fallen?",
+   "answer": 1,
+   "0": "Remus Lupin",
+   "1": "Kingsley Shacklebolt",
+   "2": "Mad-Eye Moody",
+   "3": "Nymphadora Tonks"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who stole the locket horcrux from Grimmauld Place after Sirius's death?",
+   "answer": 2,
+   "0": "Dobby",
+   "1": "Kreacher",
+   "2": "Mundungus Fletcher",
+   "3": "Severus Snape"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "On what night is the Yule Ball held at Hogwarts?",
+   "answer": 3,
+   "0": "New Year's Eve",
+   "1": "Christmas Day",
+   "2": "Halloween",
+   "3": "Christmas Eve"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What are the effects of the Diffindo Charm?",
+   "answer": 0,
+   "0": "It severs & cuts through things",
+   "1": "It pushes things away",
+   "2": "It summons things",
+   "3": "It makes things float"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What kind of screaming letter did Mrs. Weasley send Ron Weasley?",
+   "answer": 1,
+   "0": "A yeller",
+   "1": "A howler",
+   "2": "A screamer",
+   "3": "A shrieker"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What are dark-wizard catchers known as?",
+   "answer": 2,
+   "0": "Wizard Police",
+   "1": "Dumbledore's Army",
+   "2": "Aurors",
+   "3": "Inquisitorial Squad"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Why is Dobby able to apparate in and out of Malfoy Manor?",
+   "answer": 0,
+   "0": "Elf magic is different",
+   "1": "It was his former home",
+   "2": "He's tied to the home",
+   "3": "He's small enough to be undetected"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Malfoy use to get the Death Eaters inside Hogwarts?",
+   "answer": 1,
+   "0": "Dumbledore's fireplace",
+   "1": "A Vanishing Cabinet",
+   "2": "A secret passage",
+   "3": "Apparition"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In which of Harry's school years was the Triwizard Tournament held?",
+   "answer": 2,
+   "0": "Second",
+   "1": "Third",
+   "2": "Fourth",
+   "3": "Fifth"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Mrs. Weasley's first name?",
+   "answer": 3,
+   "0": "Maggie",
+   "1": "Marge",
+   "2": "Mary",
+   "3": "Molly"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell does Hermione use to unchain the Gringotts dragon?",
+   "answer": 0,
+   "0": "Relashio",
+   "1": "Diffindo",
+   "2": "Obliviate",
+   "3": "Alohomora"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who put the fake Sword of Gryffindor inside Bellatrix Lestrange's vault at Gringotts?",
+   "answer": 1,
+   "0": "Dobby",
+   "1": "Severus Snape",
+   "2": "Voldemort",
+   "3": "Narcissa Malfoy"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Into what type of animal does Professor Moody turn Malfoy?",
+   "answer": 2,
+   "0": "A toad",
+   "1": "A rat",
+   "2": "A ferret",
+   "3": "A skunk"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What form does Luna Lovegood's patronus take?",
+   "answer": 3,
+   "0": "A cat",
+   "1": "An otter",
+   "2": "A ferret",
+   "3": "A rabbit"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "When you've forgotten something, what color does the smoke in a rememberal turn?",
+   "answer": 0,
+   "0": "Red",
+   "1": "Gold",
+   "2": "Blue",
+   "3": "Green"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "After Harry, Ron, and Hermione escape Gringotts into Hogsmeade, who leads them to safety?",
+   "answer": 1,
+   "0": "Neville Longbottom",
+   "1": "Aberforth Dumbledore",
+   "2": "Rubeus Hagrid",
+   "3": "Seamus Finnigan"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How do Harry and Dumbledore travel from Hogwarts to the cave to look for the horcrux?",
+   "answer": 2,
+   "0": "The Hogwarts Express",
+   "1": "They use broomsticks",
+   "2": "They apparate",
+   "3": "Floo Powder"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the Keeper of Keys and Grounds at Hogwarts?",
+   "answer": 3,
+   "0": "Albus Dumbledore",
+   "1": "Mrs. Norris",
+   "2": "Argus Filch",
+   "3": "Rebeus Hagrid"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell does Hermione use to open the cell where Sirius Black is being held in Hogwarts?",
+   "answer": 0,
+   "0": "Bombarda",
+   "1": "Reducto",
+   "2": "Alohomora",
+   "3": "Flipendo"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In whose vault is the Sword of Gryffindor being kept?",
+   "answer": 1,
+   "0": "Lucius Malfoy's",
+   "1": "Bellatrix Lestrange's",
+   "2": "Harry Potter's",
+   "3": "Albus Dumbledore's"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who does Hermione impersonate to infiltrate the Ministry of Magic?",
+   "answer": 2,
+   "0": "Dolores Umbridge",
+   "1": "Bellatrix Lestrange",
+   "2": "Mafalda Hopkirk",
+   "3": "Alecto Carrow"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who gives Katie Bell a cursed necklace?",
+   "answer": 3,
+   "0": "Bellatrix Lestrange",
+   "1": "Severus Snape",
+   "2": "Voldemort",
+   "3": "Draco Malfoy"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "During her time as High Inquisitor at Hogwarts, which professor does Umbridge dismiss?",
+   "answer": 0,
+   "0": "Professor Trelawney",
+   "1": "Professor Snape",
+   "2": "Professor McGonagall",
+   "3": "Rubeus Hagrid"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whom does Hermione attempt to impersonate using Polyjuice Potion in the second book?",
+   "answer": 1,
+   "0": "Pansy Parkinson",
+   "1": "Millicent Bulstrode",
+   "2": "Parvati Patil",
+   "3": "Lavender Brown"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "After discovering that he cannot use his own wand to defeat Harry, whose wand does Voldemort try?",
+   "answer": 2,
+   "0": "Peter Pettigrew's",
+   "1": "Bellatrix Lestrange's",
+   "2": "Lucius Malfoy's",
+   "3": "Narcissa Malfoy's"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Luna Lovegood's nickname given to her by her peers?",
+   "answer": 3,
+   "0": "Lucky Lovegood",
+   "1": "Lucky Luna",
+   "2": "Loony Luna",
+   "3": "Loony Lovegood"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What finishes a boggart off?",
+   "answer": 0,
+   "0": "Laughter",
+   "1": "Fear",
+   "2": "Anger",
+   "3": "Sadness"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Harry use to destroy Ravenclaw's Diadem?",
+   "answer": 1,
+   "0": "Sword of Gryffindor",
+   "1": "A Basilisk Fang",
+   "2": "A spell",
+   "3": "Fiendfyre"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Professor Slughorn's favorite treat?",
+   "answer": 2,
+   "0": "Treacle Tart",
+   "1": "Cockroach Cluster",
+   "2": "Crystallized Pineapple",
+   "3": "Lemon Drops"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which potion allows the drinker to take on the form of someone else?",
+   "answer": 3,
+   "0": "Draught of Likeness",
+   "1": "Likeness Potion",
+   "2": "Imposiserum",
+   "3": "Polyjuice Potion"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Horace Slughorn first disguised as when Harry first meets him?",
+   "answer": 0,
+   "0": "An armchair",
+   "1": "A bookcase",
+   "2": "A toilet",
+   "3": "A sofa"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "On whose grave does Hermione see the Deathly Hallows symbol?",
+   "answer": 1,
+   "0": "Antioch Peverell's",
+   "1": "Ignotus Peverell's",
+   "2": "Cadmus Peverell's",
+   "3": "Gellert Grindelwald's"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Hippogriffs are very proud, what should you never do to them?",
+   "answer": 2,
+   "0": "Touch them",
+   "1": "Ignore them",
+   "2": "Insult them",
+   "3": "Ride them"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does the spell Lacarnum Inflamarae do when Hermione uses it on Snape's robes at the quidditch match?",
+   "answer": 3,
+   "0": "Makes them shrink",
+   "1": "Freezes them solid",
+   "2": "Melts them",
+   "3": "Sets them on fire"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What saves Harry, Ron, and Fang from being eaten by the acromantula in the Forbidden Forest?",
+   "answer": 0,
+   "0": "The flying car",
+   "1": "Grawp",
+   "2": "The Whomping Willow",
+   "3": "A centaur"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the middle initial printed on Lupin's luggage??",
+   "answer": 1,
+   "0": "M",
+   "1": "J",
+   "2": "R",
+   "3": "S"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who tells Harry and Ron that Hagrid didn't open the Chamber of Secrets?",
+   "answer": 2,
+   "0": "Nearly Headless Nick",
+   "1": "Professor Dumbledore",
+   "2": "Aragog",
+   "3": "A painting on the wall"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What did Dumbledore do to an old kettle in his office that transported Harry and the Weasleys to Grimmauld Place?",
+   "answer": 3,
+   "0": "Pulled Floo Powder from it",
+   "1": "Recorded a message in it",
+   "2": "Turned it into an owl",
+   "3": "Turned it into a portkey"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which student does the painting of Ariana Dumbledore bring to Harry, Ron, and Hermione?",
+   "answer": 0,
+   "0": "Neville Longbottom",
+   "1": "Seamus Finnigan",
+   "2": "Luna Lovegood",
+   "3": "Colin Creevey"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the first creature that Hagrid introduces during his very first lesson?",
+   "answer": 1,
+   "0": "Flobberworms",
+   "1": "Hippogriffs",
+   "2": "Unicorns",
+   "3": "Blast-ended skrewts"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "When Harry and Dumbledore are in the cave, what has to be done to the potion in the basin in order to retrieve the horcrux?",
+   "answer": 2,
+   "0": "It must be bottled",
+   "1": "You have to make it",
+   "2": "It has to be drunk",
+   "3": "It must evaporate"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "A potion made from what will revive the petrified Mrs. Norris?",
+   "answer": 3,
+   "0": "Lacewing flies",
+   "1": "Knotgrass",
+   "2": "Fluxweed",
+   "3": "Mandrake"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What charm does Hermione put on her bag to store more things in it?",
+   "answer": 0,
+   "0": "Undetectable Extension Charm",
+   "1": "Expansion Charm",
+   "2": "Black Hole Charm",
+   "3": "Endless Extension Charm"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who gives Hermione a Time-Turner so she can attend more classes?",
+   "answer": 1,
+   "0": "Professor Dumbledore",
+   "1": "Professor McGonagall",
+   "2": "Madam Hooch",
+   "3": "Cornelius Fudge"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which old school friend published an obituary about Dumbledore?",
+   "answer": 0,
+   "0": "Elphias Doge",
+   "1": "Armando Dippet",
+   "2": "Rita Skeeter",
+   "3": "Bathilda Bagshot"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Harry's school supply list says that he can bring an owl, a cat, or a what?",
+   "answer": 1,
+   "0": "Tarantula",
+   "1": "Toad",
+   "2": "Rat",
+   "3": "Lizard"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who leads the charge of Death Eaters and Snatchers towards Hogwarts bridge?",
+   "answer": 2,
+   "0": "Lucius Malfoy",
+   "1": "Bellatrix Lestrange",
+   "2": "Scabior",
+   "3": "Fenrir Greyback"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the password to get into the Gryffindor Common Room on Harry's first day at Hogwarts?",
+   "answer": 3,
+   "0": "Fairy Lights",
+   "1": "Baubles",
+   "2": "Balderdash",
+   "3": "Caput Draconis"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What spell does Draco use against Dumbledore when they're both on the Astronomy Tower?",
+   "answer": 0,
+   "0": "Expelliarmus",
+   "1": "Avada Kedavra",
+   "2": "Stupefy",
+   "3": "Rictusempra"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the original founder of the Order of the Phoenix?",
+   "answer": 1,
+   "0": "Harry Potter",
+   "1": "Albus Dumbledore",
+   "2": "Sirius Black",
+   "3": "James Potter"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What kind of creature did Professor Quirrell say was loose in the dungeons?",
+   "answer": 2,
+   "0": "A giant dog",
+   "1": "A dementor",
+   "2": "A troll",
+   "3": "A giant"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which Death Eater chases Harry and his friends during their escape from the Ministry of Magic?",
+   "answer": 3,
+   "0": "Avery",
+   "1": "Alecto",
+   "2": "Bellatrix",
+   "3": "Yaxley"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "During which year of Harry's time at Hogwarts does Hagrid become a teacher?",
+   "answer": 2,
+   "0": "First",
+   "1": "Second",
+   "2": "Third",
+   "3": "Fourth"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In which book or movie does Hagrid become a teacher? Harry Potter and the ___?",
+   "answer": 2,
+   "0": "Sorceror's Stone",
+   "1": "Chamber of Secrets",
+   "2": "Prisoner of Azkaban",
+   "3": "Goblet of Fire"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What form does Dolores Umbridge's patronous take?",
+   "answer": 1,
+   "0": "An otter",
+   "1": "A cat",
+   "2": "A swan",
+   "3": "A toad"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the study of wands called?",
+   "answer": 0,
+   "0": "Wandlore",
+   "1": "Wanding",
+   "2": "Wand Making",
+   "3": "Wandery"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which eccentric character wears the symbol of the Deathly Hallows around his or her neck?",
+   "answer": 2,
+   "0": "Elphias Doge",
+   "1": "Viktor Krum",
+   "2": "Xenophilius Lovegood",
+   "3": "Luna Lovegood"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which is the first horcrux that was destroyed?",
+   "answer": 3,
+   "0": "Ravenclaw's Diadem",
+   "1": "Helga Hufflepuff's Cup",
+   "2": "Nagini",
+   "3": "Tom Riddle's Diary"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many house points is Neville awarded by Dumbledore for standing up to his friends?",
+   "answer": 1,
+   "0": "Five",
+   "1": "Ten",
+   "2": "Twenty",
+   "3": "Fifty"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "When do witches and wizards lose the Trace?",
+   "answer": 1,
+   "0": "At sixteen",
+   "1": "At seventeen",
+   "2": "At eighteen",
+   "3": "At twenty"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "When do witches and wizards come of age?",
+   "answer": 1,
+   "0": "At sixteen",
+   "1": "At seventeen",
+   "2": "At eighteen",
+   "3": "At twenty"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the make and model of Harry's first broomstick?",
+   "answer": 1,
+   "0": "Cleansweep Seven",
+   "1": "Nimbus 2000",
+   "2": "Nimbus 2001",
+   "3": "Firebolt"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How did Draco Malfoy become the Seeker on the Slytherin Quidditch Team?",
+   "answer": 0,
+   "0": "His father bought broomsticks",
+   "1": "He bribed the captain",
+   "2": "He bullied his way in",
+   "3": "Pure talent"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is Albus Dumbledore's brother?",
+   "answer": 2,
+   "0": "Gellert",
+   "1": "Severus",
+   "2": "Aberforth",
+   "3": "Elphias"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is called an omen of death?",
+   "answer": 0,
+   "0": "The Grim",
+   "1": "A thestral",
+   "2": "A dementor",
+   "3": "A troll"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is Bellatrix Lestrange's sister?",
+   "answer": 1,
+   "0": "Nymphadora Tonks",
+   "1": "Narcissa Malfoy",
+   "2": "Leta Lestrange",
+   "3": "Tina Goldstein"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is Narcissa Malfoy's sister?",
+   "answer": 2,
+   "0": "Nymphadora Tonks",
+   "1": "Leta Lestrange",
+   "2": "Bellatrix Lestrange",
+   "3": "Tina Goldstein"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which kind of students did Salazar Slytherin want to admit to Hogwarts?",
+   "answer": 3,
+   "0": "Only the brave",
+   "1": "Only the smart",
+   "2": "Only the strong",
+   "3": "Only pure blood"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What happens to objects that are stored in Bellatrix Lestrange's vault when you touch them?",
+   "answer": 0,
+   "0": "They multiply",
+   "1": "They melt",
+   "2": "They shrink",
+   "3": "They grow in size"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What did the youngest of the three brothers receive from Death?",
+   "answer": 1,
+   "0": "The Elder Wand",
+   "1": "A Cloak of Invisibility",
+   "2": "The Resurrection Stone",
+   "3": "The Sword of Gryffindor"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What did the middle of the three brothers receive from Death?",
+   "answer": 2,
+   "0": "The Elder Wand",
+   "1": "Invisibility Cloak",
+   "2": "Resurrection Stone",
+   "3": "The Sword of Gryffindor"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What did the eldest of the three brothers receive from Death?",
+   "answer": 0,
+   "0": "The Elder Wand",
+   "1": "Invisibility Cloak",
+   "2": "Resurrection Stone",
+   "3": "The Sword of Gryffindor"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Krum's first name?",
+   "answer": 1,
+   "0": "Argus",
+   "1": "Viktor",
+   "2": "Igor",
+   "3": "Maxim"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What do Harry and Malfoy see a hooded figure doing in the Forbidden Forest?",
+   "answer": 2,
+   "0": "Killing a unicorn",
+   "1": "Fighting a centaur",
+   "2": "Drinking unicorn blood",
+   "3": "Performing a sacrifice"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who grants Harry and Ron special awards for services to the school at Hogwarts?",
+   "answer": 3,
+   "0": "Professor Slughorn",
+   "1": "Professor McGonagall",
+   "2": "Professor Lockhart",
+   "3": "Professor Dumbledore"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell does Harry cast against Voldemort in their battle in the graveyard?",
+   "answer": 3,
+   "0": "Imperio",
+   "1": "Lumos",
+   "2": "Crucio",
+   "3": "Expelliarmus"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which item does Dumbledore leave to Ron in his will?",
+   "answer": 1,
+   "0": "Sword of Gryffindor",
+   "1": "His deluminator",
+   "2": "A golden snitch",
+   "3": "Tales of Beedle the Bard"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "For which team and position does Viktor Krum play quidditch?",
+   "answer": 2,
+   "0": "Bulgaria & Keeper",
+   "1": "Ireland & Keeper",
+   "2": "Bulgaria & Seeker",
+   "3": "Ireland & Seeker"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the effect of the dementor's kiss?",
+   "answer": 1,
+   "0": "Turns you to stone",
+   "1": "Sucks out your soul",
+   "2": "Melts your face",
+   "3": "Instant death"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In the movie, who is the first student to be sorted into a house during Harry's first year?",
+   "answer": 0,
+   "0": "Hermione Granger",
+   "1": "Lavender Brown",
+   "2": "Ron Weasley",
+   "3": "Susan Bones"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell does Hermione use to erase her parents' memory?",
+   "answer": 1,
+   "0": "Alohomora",
+   "1": "Obliviate",
+   "2": "Crucio",
+   "3": "Imperio"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What hangs in the front window of the Knight Bus?",
+   "answer": 2,
+   "0": "Dice",
+   "1": "An air freshener",
+   "2": "A shrunken head",
+   "3": "Prayer beads"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the only way to free a house elf?",
+   "answer": 1,
+   "0": "Tell it to go away",
+   "1": "Give it clothes",
+   "2": "Break the unbreakable vow",
+   "3": "Give it a wand"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which of the Weasleys die at the Battle of Hogwarts?",
+   "answer": 2,
+   "0": "Percy Weasley",
+   "1": "George Weasley",
+   "2": "Fred Weasley",
+   "3": "Ginny Weasley"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In the movie, who discovers Harry after he's been attacked by Malfoy on the train?",
+   "answer": 3,
+   "0": "Hermione Granger",
+   "1": "Ginny Weasley",
+   "2": "Nymphadora Tonks",
+   "3": "Luna Lovegood"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What object serves as a portkey to take the Weasleys to the Quidditch World Cup?",
+   "answer": 0,
+   "0": "An old boot",
+   "1": "A rusty tin can",
+   "2": "A dented tea kettle",
+   "3": "An old tire"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Where does Charlie Weasley live when he's studying dragons?",
+   "answer": 1,
+   "0": "Bulgaria",
+   "1": "Romania",
+   "2": "Norway",
+   "3": "Belgium"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What shape does the boggart take when Harry faces it?",
+   "answer": 2,
+   "0": "A giant spider",
+   "1": "Professor Snape",
+   "2": "A dementor",
+   "3": "Voldemort"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which horcrux was kept in Bellatrix Lestrange's vault?",
+   "answer": 3,
+   "0": "The Sword of Gryffindor",
+   "1": "Ravenclaw's Diadem",
+   "2": "Gaunt's Ring",
+   "3": "Helga Hufflepuff's Cup"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In the movie, who hides the textbook that once belonged to The Half-Blood Prince?",
+   "answer": 0,
+   "0": "Ginny Weasley",
+   "1": "Harry Potter",
+   "2": "Ron Weasley",
+   "3": "Hermione Granger"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Nicholas Flamel's profession?",
+   "answer": 1,
+   "0": "Herbologist",
+   "1": "Alchemist",
+   "2": "Potion maker",
+   "3": "Wand maker"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whom does Voldemort order to kill Snape?",
+   "answer": 2,
+   "0": "Bellatrix Lestrange",
+   "1": "Lucius Malfoy",
+   "2": "Nagini",
+   "3": "Draco Malfoy"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which professor starts the dueling club during Harry's second year at Hogwarts?",
+   "answer": 3,
+   "0": "Professor Slughorn",
+   "1": "Professor Snape",
+   "2": "Professor Flitwick",
+   "3": "Professor Lockhart"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What color is Hagrid's umbrella?",
+   "answer": 0,
+   "0": "Pink",
+   "1": "Blue",
+   "2": "Yellow",
+   "3": "Polka dot"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the author of The Life and Lies of Albus Dumbledore?",
+   "answer": 1,
+   "0": "Albus Dumbledore",
+   "1": "Rita Skeeter",
+   "2": "Bathilda Bagshot",
+   "3": "Barnabas Cuffe"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Sirius's nickname when transformed into a dog?",
+   "answer": 2,
+   "0": "Moony",
+   "1": "Wormtail",
+   "2": "Padfoot",
+   "3": "Prongs"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which student is believed to have been taken by the monster into the Chamber of Secrets?",
+   "answer": 3,
+   "0": "Neville Longbottom",
+   "1": "Seamus Finnigan",
+   "2": "Colin Creevey",
+   "3": "Ginny Weasley"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which subject does Professor Grubby-Plank teach in Harry's fifth year?",
+   "answer": 0,
+   "0": "Care of Magical Creatures",
+   "1": "Potions",
+   "2": "Herbology",
+   "3": "Divination"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many types of balls are used to play Quidditch?",
+   "answer": 1,
+   "0": "Two",
+   "1": "Three",
+   "2": "Four",
+   "3": "Five"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Madame Maxime's first name?",
+   "answer": 2,
+   "0": "Minerva",
+   "1": "Dolores",
+   "2": "Olympe",
+   "3": "Sibyl"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What kind of creature attacks Harry, Ron, and Hermione after returning from the Shrieking Shack?",
+   "answer": 0,
+   "0": "Werewolf",
+   "1": "Hippogriff",
+   "2": "Dementor",
+   "3": "Grindylow"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of the orphanage in which Dumbledore finds Tom Riddle?",
+   "answer": 3,
+   "0": "St. Brutis's",
+   "1": "St. Mary's",
+   "2": "Wood's Orphanage",
+   "3": "Wool's Orphanage"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What subject does Professor Sprout teach?",
+   "answer": 0,
+   "0": "Herbology",
+   "1": "Care of Magical Creatures",
+   "2": "Charms",
+   "3": "Transfiguration"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who uses Petrificus Totalus on Neville in Harry's first year?",
+   "answer": 1,
+   "0": "Draco Malfoy",
+   "1": "Hermione Granger",
+   "2": "Harry Potter",
+   "3": "Ron Weasley"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Professor Umbridge's first name?",
+   "answer": 2,
+   "0": "Pomona",
+   "1": "Charity",
+   "2": "Dolores",
+   "3": "Minerva"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In the movie, what does Quirrel use to put Fluffy to sleep?",
+   "answer": 3,
+   "0": "A self-playing piano",
+   "1": "A violin",
+   "2": "A flute",
+   "3": "A harp"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the Hogwarts matron?",
+   "answer": 0,
+   "0": "Madam Pomfrey",
+   "1": "Madam Hooch",
+   "2": "Professor Sprout",
+   "3": "Professor McGonagall"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the first spell that Harry teaches the D.A.?",
+   "answer": 1,
+   "0": "Patronous Charm",
+   "1": "Disarming Spell",
+   "2": "Knockback Jinx",
+   "3": "Stunning Spell"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which member of the Order of the Phoenix is killed during the escape from Privet Drive?",
+   "answer": 3,
+   "0": "Kingsley Shacklebolt",
+   "1": "Remus Lupin",
+   "2": "Mundungus Fletcher",
+   "3": "Mad-Eye Moody"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Ron try to do to Scabbers on his first trip to Hogwarts?",
+   "answer": 0,
+   "0": "Turn him yellow",
+   "1": "Set him on fire",
+   "2": "Make him bigger",
+   "3": "Turn him into a matchbox"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "During his conversation with Tom Riddle about making Horcruxes, what number horrifies Slughorn?",
+   "answer": 2,
+   "0": "Three",
+   "1": "Five",
+   "2": "Seven",
+   "3": "Thirteen"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the minimum age to participate in the Triwizard Tournament?",
+   "answer": 3,
+   "0": "Fourteen",
+   "1": "Fifteen",
+   "2": "Sixteen",
+   "3": "Seventeen"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is written next to the spell Sectumsempra in Harry's potions book?",
+   "answer": 1,
+   "0": "For nemesis",
+   "1": "For enemies",
+   "2": "For fiends",
+   "3": "For foes"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who disarms Dumbledore making him the owner of the Elder Wand?",
+   "answer": 2,
+   "0": "Harry Potter",
+   "1": "Voldemort",
+   "2": "Draco Malfoy",
+   "3": "Severus Snape"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which member of The Order escorts Ron back to The Burrow from Privet Drive?",
+   "answer": 3,
+   "0": "Mad-Eye Moody",
+   "1": "Mundungus Fletcher",
+   "2": "Remus Lupin",
+   "3": "Nymphadora Tonks"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What type of creature does Harry speak to at the zoo?",
+   "answer": 0,
+   "0": "Snake",
+   "1": "Tiger",
+   "2": "Phoenix",
+   "3": "Hippogriff"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which member of the Durmstrang school was a former Death Eater?",
+   "answer": 1,
+   "0": "Viktor Krum",
+   "1": "Igor Karkaroff",
+   "2": "Gellert Grindelwald",
+   "3": "Poliakoff"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "In which year of Harry's education did Snape become the Defense Against the Dark Arts teacher?",
+   "answer": 2,
+   "0": "Fourth",
+   "1": "Fifth",
+   "2": "Sixth",
+   "3": "Seventh"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whose image appears in the Daily Prophet as Undeseriable No. 1?",
+   "answer": 3,
+   "0": "Voldemort's",
+   "1": "Sirius Black's",
+   "2": "Albus Dumbledore's",
+   "3": "Harry Potter's"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "On what did Harry practice the Patronous Charm?",
+   "answer": 0,
+   "0": "A boggart",
+   "1": "A dementor",
+   "2": "A dummy",
+   "3": "A cushion"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who told Voldemort of the prophecy of his demise?",
+   "answer": 1,
+   "0": "Sirius Black",
+   "1": "Severus Snape",
+   "2": "Peter Pettigrew",
+   "3": "Professor Trelawney"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who teaches the Gryffindor students to dance in preparation for the Yule Ball?",
+   "answer": 2,
+   "0": "Professor Slughorn",
+   "1": "Professor Trelawney",
+   "2": "Professor McGonagall",
+   "3": "Professor Sprout"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell does Harry use on Draco in the girl's bathroom that leaves him covered in blood?",
+   "answer": 3,
+   "0": "Diffindo",
+   "1": "Flipendo",
+   "2": "Stupefy",
+   "3": "Sectumsempra"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What present does Grawp give Hermione when they first meet?",
+   "answer": 0,
+   "0": "A bicycle bell",
+   "1": "A goblin helmet",
+   "2": "Bird eggs",
+   "3": "A deer"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the editor of the Daily Prophet?",
+   "answer": 1,
+   "0": "Rita Skeeter",
+   "1": "Barnabas Cuffe",
+   "2": "Percy Weasley",
+   "3": "Bathilda Bagshot"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who dies during the escape from Malfoy Manor?",
+   "answer": 2,
+   "0": "Griphook",
+   "1": "Ollivander",
+   "2": "Dobby",
+   "3": "Bellatrix Lestrange"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What cursed item is Katie Bell given in The Three Broomsticks?",
+   "answer": 3,
+   "0": "A bottle of whiskey",
+   "1": "A stone ring",
+   "2": "A bludger",
+   "3": "A necklace"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How do you split your soul to create a Horcrux?",
+   "answer": 0,
+   "0": "Kill someone",
+   "1": "Unbreakable vow",
+   "2": "Drink a potion",
+   "3": "Kill your current self"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How do Harry and Ron get to Hogwarts during their second year?",
+   "answer": 1,
+   "0": "Hogwarts Express",
+   "1": "Flying car",
+   "2": "Broomstick",
+   "3": "On a dragon"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What color of light is emitted from the killing curse?",
+   "answer": 2,
+   "0": "Blue",
+   "1": "Gold",
+   "2": "Green",
+   "3": "Red"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Whom does Ron impersonate when he enters the Ministry of Magic?",
+   "answer": 3,
+   "0": "Amos Diggery",
+   "1": "Hortensia Milliphutt",
+   "2": "Pius Thicknesse",
+   "3": "Reg Cattermole"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What kind of creature saves Harry from Voldemort in the Forbidden Forest?",
+   "answer": 0,
+   "0": "Centaur",
+   "1": "Giant",
+   "2": "Unicorn",
+   "3": "Acromantula"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which exam is Harry taking when the Weasleys let off fireworks in the exam room?",
+   "answer": 1,
+   "0": "Defense Against the Dark Arts",
+   "1": "Theory of Charms",
+   "2": "Practical Potion Making",
+   "3": "Theory of Transfiguration"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which of the Unforgivable Curses is used for torture?",
+   "answer": 2,
+   "0": "Sectumsempra",
+   "1": "Imperius Curse",
+   "2": "Cruciatus Curse",
+   "3": "Avada Kedavra"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Griphook want in exchange for helping Harry break into Gringotts?",
+   "answer": 3,
+   "0": "Rowen Ravenclaw's Diadem",
+   "1": "Helga Hufflepuff's Cup",
+   "2": "The Philosopher's Stone",
+   "3": "The Sword of Gryffindor"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who escorts the real Harry Potter during the escape from Privet Drive?",
+   "answer": 0,
+   "0": "Rubeus Hagrid",
+   "1": "Remus Lupin",
+   "2": "Mad-Eye Moody",
+   "3": "Mundungus Fletcher"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who attacks Mr. Weasley when he's on guard duty at the Department of Mysteries?",
+   "answer": 1,
+   "0": "Fenrir Greyback",
+   "1": "Nagini",
+   "2": "Lucius Malfoy",
+   "3": "Bellatrix Lestrange"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the purpose of creating a Horcrux?",
+   "answer": 2,
+   "0": "It increases magic",
+   "1": "It stores memories",
+   "2": "Immortality",
+   "3": "Creates a shield"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which previous headmaster has a portrait in Grimmauld Place?",
+   "answer": 3,
+   "0": "Brutus Scrimgeour",
+   "1": "Walter Aragon",
+   "2": "Armando Dippet",
+   "3": "Phineas Nigellus"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who became the master of the Elder Wand immediately after Albus Dumbledore?",
+   "answer": 0,
+   "0": "Draco Malfoy",
+   "1": "Severus Snape",
+   "2": "Voldemort",
+   "3": "Harry Potter"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What kind of creature do Harry and Ron find dead in the Forbidden Forest?",
+   "answer": 1,
+   "0": "A centaur",
+   "1": "A unicorn",
+   "2": "A troll",
+   "3": "A goblin"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of the love potion that Professor Slughorn introduces to his class?",
+   "answer": 2,
+   "0": "Pepperup Potion",
+   "1": "Felix Felicis",
+   "2": "Amortentia",
+   "3": "Babbling Beverage"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "From whom did Albus Dumbledore win the Elder Wand?",
+   "answer": 3,
+   "0": "Ollivander",
+   "1": "Severus Snape",
+   "2": "Voldemort",
+   "3": "Gellert Grindelwald"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many times has Lockhart won Witch Weekley's Most-Charming-Smile Award?",
+   "answer": 0,
+   "0": "Five times",
+   "1": "Six times",
+   "2": "Seven times",
+   "3": "Eight times"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the only thing that Madame Maxime's horses drink?",
+   "answer": 1,
+   "0": "Firewhisky",
+   "1": "Single-malt whiskey",
+   "2": "Champage",
+   "3": "Pumpkin juice"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who destroys the diadem horcrux?",
+   "answer": 2,
+   "0": "Neville Longbottom",
+   "1": "Ron Weasley",
+   "2": "Harry Potter",
+   "3": "Hermione Granger"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which textbook is property of the Half-Blood Prince?",
+   "answer": 3,
+   "0": "Advanced Rune Translation",
+   "1": "The Monster Book of Monsers",
+   "2": "A History of Magic",
+   "3": "Advanced Potion-Making"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the wrist movement to perform the Levitation Charm?",
+   "answer": 0,
+   "0": "Swish and flick",
+   "1": "Swish and dash",
+   "2": "Dash and jab",
+   "3": "Dash and flick"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What do the Weasley twins use for eavesdropping on the Order meeting?",
+   "answer": 1,
+   "0": "A cup on the wall",
+   "1": "Extendible ears",
+   "2": "Listening spell",
+   "3": "Invisibility Cloak"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "After Dumbledore's death, who writes an unofficial biography on him?",
+   "answer": 3,
+   "0": "Bathilda Bagshot",
+   "1": "Armando Dippet",
+   "2": "Delphias Doge",
+   "3": "Rita Skeeter"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What type of creature is Aragog?",
+   "answer": 2,
+   "0": "Hippogriff",
+   "1": "Thestral",
+   "2": "Acromantula",
+   "3": "Boarhound"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which subject does Professor Slughorn teach?",
+   "answer": 3,
+   "0": "Defense Against the Dark Arts",
+   "1": "Transfiguration",
+   "2": "Care of Magical Creatures",
+   "3": "Potions"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who retrieves the Sword of Gryffindor from the frozen lake?",
+   "answer": 1,
+   "0": "Harry Potter",
+   "1": "Ron Weasley",
+   "2": "Hermione Granger",
+   "3": "Severus Snape"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Gwenog Jones is the caption of which Quidditch team?",
+   "answer": 1,
+   "0": "The Wimbourne Wasps",
+   "1": "The Holyhead Harpies",
+   "2": "Puddlemere United",
+   "3": "The Chudley Cannons"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What does Harry see right before the Knight Bus arrives?",
+   "answer": 2,
+   "0": "A dementor",
+   "1": "A ghost",
+   "2": "A dog",
+   "3": "An acromantula"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who kills Nagini?",
+   "answer": 3,
+   "0": "Severus Snape",
+   "1": "Harry Potter",
+   "2": "Ron Weasley",
+   "3": "Neville Longbottom?"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell does Hermione suggest that Ron use to stop the rain in Yaxley's office?",
+   "answer": 0,
+   "0": "Finite Incantatem",
+   "1": "Dissendium",
+   "2": "Reducio",
+   "3": "Homenum Revelio"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What type of creature is Fang?",
+   "answer": 1,
+   "0": "An acromantula",
+   "1": "A boarhound",
+   "2": "Three-headed dog",
+   "3": "Werewolf"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the thief that Harry sees jumping out of the window of Gegorovitch's wand shop?",
+   "answer": 2,
+   "0": "Voldemort",
+   "1": "Severus Snape",
+   "2": "Gellert Grindelwald",
+   "3": "Draco Malfoy"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How do first-year students arrive at Hogwarts from the train?",
+   "answer": 3,
+   "0": "Trek in the Forbidden Forest",
+   "1": "On horseback",
+   "2": "In a carriage",
+   "3": "On a boat"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who casts a Confundus Charm on Cormac McLaggen during keeper tryouts?",
+   "answer": 0,
+   "0": "Hermione Granger",
+   "1": "Ginny Weasley",
+   "2": "Harry Potter",
+   "3": "Ron Weasley"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is at the core of Lucius Malfoy's wand?",
+   "answer": 1,
+   "0": "Phoenix feather",
+   "1": "Dragon heartstring",
+   "2": "Unicorn hair",
+   "3": "Veela hair"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who led Harry, Ron, Hermione, and Griphook to Bellatrix Lestrange's vault?",
+   "answer": 2,
+   "0": "Burgock",
+   "1": "Gornuk",
+   "2": "Bogrod",
+   "3": "Gnarlak"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many prisoners did Voldemort break out of Azkaban?",
+   "answer": 3,
+   "0": "Six",
+   "1": "Seven",
+   "2": "Eight",
+   "3": "Nine"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which position does Cormac McLaggen try out for on the Gryffindor quidditch team?",
+   "answer": 3,
+   "0": "Seeker",
+   "1": "Chaser",
+   "2": "Beater",
+   "3": "Keeper"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which spell does Harry use to retrieve his broomstick during the first trial in the Triwizard Tournament?",
+   "answer": 0,
+   "0": "The Summoning Charm",
+   "1": "Conjunctivitus Curse",
+   "2": "Stunning Spell",
+   "3": "The Bubble Head Charm"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who is the Slytherin quidditch captain during Harry's second year?",
+   "answer": 1,
+   "0": "Draco Malfoy",
+   "1": "Marcus Flint",
+   "2": "Graham Montague",
+   "3": "Cassius Warrington"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What type of dragon is Norbert?",
+   "answer": 2,
+   "0": "Hungarian Horntail",
+   "1": "Welsh Green",
+   "2": "Norwegian Ridgeback",
+   "3": "Chinese Fireball"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is used to destroy Helga Hufflepuff's Cup?",
+   "answer": 3,
+   "0": "A rock",
+   "1": "A spell",
+   "2": "Sword of Gryffindor",
+   "3": "A Basalisk Fang"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "After Ron eats a box of chocolates laced with love potion, where does Harry take him?",
+   "answer": 0,
+   "0": "To Professor Slughorn",
+   "1": "To Madam Pomfrey",
+   "2": "To Professor Dumbledore",
+   "3": "To Professor McGonagall"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What happens to Harry's arm when Lockhart tries to fix it after the bludger broke it?",
+   "answer": 1,
+   "0": "It was covered with warts",
+   "1": "His bones were removed",
+   "2": "Nothing",
+   "3": "The bones were mended"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What object does Dumbledore use to revisit his memories?",
+   "answer": 2,
+   "0": "A memory charm",
+   "1": "A remembrall",
+   "2": "A pensieve",
+   "3": "Legilimens"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many brothers does Ron have?",
+   "answer": 3,
+   "0": "Two",
+   "1": "Three",
+   "2": "Four",
+   "3": "Five"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What item of clothing does Lucius Malfoy mistakenly give Dobby?",
+   "answer": 0,
+   "0": "A sock",
+   "1": "A hat",
+   "2": "A glove",
+   "3": "A robe"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who sets Hagrid's hut on fire after Dumbledore's death?",
+   "answer": 1,
+   "0": "Voldemort",
+   "1": "Bellatrix Lestrange",
+   "2": "Severus Snape",
+   "3": "Lucius Malfoy"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which class does Hermione storm out of during her third year at Hogwarts?",
+   "answer": 2,
+   "0": "Potions",
+   "1": "Arithmancy",
+   "2": "Divination",
+   "3": "Astronomy"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What happens to Ron whilst disapparating from the Ministry?",
+   "answer": 3,
+   "0": "He gets lost",
+   "1": "He steals a briefcase",
+   "2": "He ends up in Diagon Alley",
+   "3": "He gets splinched"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What color is the Weasley's flying car?",
+   "answer": 0,
+   "0": "Blue",
+   "1": "Black",
+   "2": "Green",
+   "3": "Red"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of Ron's pet rat?",
+   "answer": 2,
+   "0": "Trevor",
+   "1": "Crookshanks",
+   "2": "Scabbers",
+   "3": "Fawkes"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the true name of Ron's pet rat?",
+   "answer": 1,
+   "0": "Paul Pettigrew",
+   "1": "Peter Pettigrew",
+   "2": "Phil Pettigrew",
+   "3": "Perry Pettigrew"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "The students from Beauxbatons Academy arrive at Hogwarts flying in a carriage pulled by what?",
+   "answer": 3,
+   "0": "Dragons",
+   "1": "Unicorns",
+   "2": "Thestrals",
+   "3": "Horses"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What name does Slughorn mistakenly call Ron?",
+   "answer": 0,
+   "0": "Wallenby",
+   "1": "Weatherby",
+   "2": "Wally",
+   "3": "Weasel"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Which goblin takes Harry to his vault for the first time?",
+   "answer": 1,
+   "0": "Ragnok",
+   "1": "Griphook",
+   "2": "Filius",
+   "3": "Gnarlak"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "How many players are on a quidditch team?",
+   "answer": 2,
+   "0": "Five",
+   "1": "Six",
+   "2": "Seven",
+   "3": "Eight"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who leaves chocolates laced with love potion for Harry?",
+   "answer": 3,
+   "0": "Ginny Weasley",
+   "1": "Cho Chang",
+   "2": "Luna Lovegood",
+   "3": "Romilda Vane"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Of which publication is Luna's father the editor?",
+   "answer": 1,
+   "0": "The Daily Prophet",
+   "1": "The Quibbler",
+   "2": "Witch Weekly",
+   "3": "Which Broomstick?"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is written on Dobby's gravestone?",
+   "answer": 2,
+   "0": "Here lies Dobby, a Great Elf.",
+   "1": "Here lies Dobby.",
+   "2": "Here lies Dobby, a Free Elf.",
+   "3": "Here lies Dobby, RIP."
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who originally gave Harry the Marauder's Map?",
+   "answer": 3,
+   "0": "Albus Dumbledore",
+   "1": "Remus Lupin",
+   "2": "Sirius Black",
+   "3": "Fred & George Weasley"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What did Ginny Weasley name her Pygmy Puff?",
+   "answer": 0,
+   "0": "Arnold",
+   "1": "Bertram",
+   "2": "Arty",
+   "3": "Berty"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the spell to disarm an opponent?",
+   "answer": 1,
+   "0": "Stupefy",
+   "1": "Expelliarmus",
+   "2": "Petrificus Totalis",
+   "3": "Immobulus"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is the name of the sweets shop at Hogsmeade?",
+   "answer": 2,
+   "0": "Zonko's",
+   "1": "The Three Broomsticks",
+   "2": "Honeydukes",
+   "3": "Florean Fortescue's"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "At what store does Harry Potter get his wand?",
+   "answer": 3,
+   "0": "Borgin and Burke's",
+   "1": "Madam Mafalda's",
+   "2": "Flourish and Blott's",
+   "3": "Ollivander's"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Who said that they're good enough looking for the both of us?",
+   "answer": 0,
+   "0": "Fleur Delacour",
+   "1": "Draco Malfoy",
+   "2": "Cho Chang",
+   "3": "Ginny Weasley"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Voldemort's mother's maiden name?",
+   "answer": 1,
+   "0": "Riddle",
+   "1": "Gaunt",
+   "2": "Marvolo",
+   "3": "Voldemort"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is Voldemort's mother's first name?",
+   "answer": 2,
+   "0": "Minerva",
+   "1": "Morgana",
+   "2": "Merope",
+   "3": "Marge"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "Of which publication is Luna's father the editor?",
+   "answer": 1,
+   "0": "The Daily Prophet",
+   "1": "The Quibbler",
+   "2": "Witch Weekly",
+   "3": "Which Broomstick?"
+ },
+ {
+   "category": "Harry Potter",
+   "question": "What is written on Dobby's gravestone?",
+   "answer": 2,
+   "0": "Here lies Dobby, a Great Elf.",
+   "1": "Here lies Dobby.",
+   "2": "Here lies Dobby, a Free Elf.",
+   "3": "Here lies Dobby, RIP."
+ }
+]

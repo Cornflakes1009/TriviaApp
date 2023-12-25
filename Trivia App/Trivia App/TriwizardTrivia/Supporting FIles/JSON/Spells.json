@@ -1,0 +1,522 @@
+[
+  {
+    "category": "Spell",
+    "word": "Aberto"
+  },
+  {
+    "category": "Spell",
+    "word": "Accio"
+  },
+  {
+    "category": "Spell",
+    "word": "Aguamenti"
+  },
+  {
+    "category": "Spell",
+    "word": "Alarte Ascendare"
+  },
+  {
+    "category": "Spell",
+    "word": "Alohomora"
+  },
+  {
+    "category": "Spell",
+    "word": "Anapneo"
+  },
+  {
+    "category": "Spell",
+    "word": "Anteoculatia"
+  },
+  {
+    "category": "Spell",
+    "word": "Anti-Cheating Spell"
+  },
+  {
+    "category": "Spell",
+    "word": "Anti-Disapparition Jinx"
+  },
+  {
+    "category": "Spell",
+    "word": "Anti-intruder Jinx"
+  },
+  {
+    "category": "Spell",
+    "word": "Aparecium"
+  },
+  {
+    "category": "Spell",
+    "word": "Appare Vestigium"
+  },
+  {
+    "category": "Spell",
+    "word": "Apparition"
+  },
+  {
+    "category": "Spell",
+    "word": "Aqua Eructo"
+  },
+  {
+    "category": "Spell",
+    "word": "Arresto Momentum"
+  },
+  {
+    "category": "Spell",
+    "word": "Ascendio"
+  },
+  {
+    "category": "Spell",
+    "word": "Avada Kedavra"
+  },
+  {
+    "category": "Spell",
+    "word": "Avifors"
+  },
+  {
+    "category": "Spell",
+    "word": "Avenseguim"
+  },
+  {
+    "category": "Spell",
+    "word": "Avis"
+  },
+  {
+    "category": "Spell",
+    "word": "Babbling Curse"
+  },
+  {
+    "category": "Spell",
+    "word": "Badgering"
+  },
+  {
+    "category": "Spell",
+    "word": "Bat-Bogey Hex"
+  },
+  {
+    "category": "Spell",
+    "word": "Baubillious"
+  },
+  {
+    "category": "Spell",
+    "word": "Bedazzling Hex"
+  },
+  {
+    "category": "Spell",
+    "word": "Bombarda"
+  },
+  {
+    "category": "Spell",
+    "word": "Bombarda Maxima"
+  },
+  {
+    "category": "Spell",
+    "word": "Brackium Emendo"
+  },
+  {
+    "category": "Spell",
+    "word": "Bravery Charm"
+  },
+  {
+    "category": "Spell",
+    "word": "Bubble-Head Charm"
+  },
+  {
+    "category": "Spell",
+    "word": "Calvorio"
+  },
+  {
+    "category": "Spell",
+    "word": "Cantis"
+  },
+  {
+    "category": "Spell",
+    "word": "Capacious extremis"
+  },
+  {
+    "category": "Spell",
+    "word": "Carpe Retractucm"
+  },
+  {
+    "category": "Spell",
+    "word": "Cascading Jinx"
+  },
+  {
+    "category": "Spell",
+    "word": "Cheering Charm"
+  },
+  {
+    "category": "Spell",
+    "word": "Circumrota"
+  },
+  {
+    "category": "Spell",
+    "word": "Cistem Aperio"
+  },
+  {
+    "category": "Spell",
+    "word": "Colloportus"
+  },
+  {
+    "category": "Spell",
+    "word": "Colloshoo"
+  },
+  {
+    "category": "Spell",
+    "word": "Colovaria"
+  },
+  {
+    "category": "Spell",
+    "word": "Confringo"
+  },
+  {
+    "category": "Spell",
+    "word": "Confundo"
+  },
+  {
+    "category": "Spell",
+    "word": "Conjunctivitis Curse"
+  },
+  {
+    "category": "Spell",
+    "word": "Crucio"
+  },
+  {
+    "category": "Spell",
+    "word": "Defodio"
+  },
+  {
+    "category": "Spell",
+    "word": "Deletrius"
+  },
+  {
+    "category": "Spell",
+    "word": "Densaugeo"
+  },
+  {
+    "category": "Spell",
+    "word": "Deprimo"
+  },
+  {
+    "category": "Spell",
+    "word": "Depulso"
+  },
+  {
+    "category": "Spell",
+    "word": "Descendo"
+  },
+  {
+    "category": "Spell",
+    "word": "Diffindo"
+  },
+  {
+    "category": "Spell",
+    "word": "Diminuendo"
+  },
+  {
+    "category": "Spell",
+    "word": "Dissendium"
+  },
+  {
+    "category": "Spell",
+    "word": "Engorgio"
+  },
+  {
+    "category": "Spell",
+    "word": "Episkey"
+  },
+  {
+    "category": "Spell",
+    "word": "Epoximise"
+  },
+  {
+    "category": "Spell",
+    "word": "Erecto"
+  },
+  {
+    "category": "Spell",
+    "word": "Evanesco"
+  },
+  {
+    "category": "Spell",
+    "word": "Everte Statum"
+  },
+  {
+    "category": "Spell",
+    "word": "Expecto Patronum"
+  },
+  {
+    "category": "Spell",
+    "word": "Expelliarmus"
+  },
+  {
+    "category": "Spell",
+    "word": "Expulso"
+  },
+  {
+    "category": "Spell",
+    "word": "Fidelius Charm"
+  },
+  {
+    "category": "Spell",
+    "word": "Fiendfyre"
+  },
+  {
+    "category": "Spell",
+    "word": "Finestra"
+  },
+  {
+    "category": "Spell",
+    "word": "Finite Incantatem"
+  },
+  {
+    "category": "Spell",
+    "word": "Flipendo"
+  },
+  {
+    "category": "Spell",
+    "word": "Furnunculus"
+  },
+  {
+    "category": "Spell",
+    "word": "Hurling Hex"
+  },
+  {
+    "category": "Spell",
+    "word": "Immobulus"
+  },
+  {
+    "category": "Spell",
+    "word": "Impedimenta"
+  },
+  {
+    "category": "Spell",
+    "word": "Imperio"
+  },
+  {
+    "category": "Spell",
+    "word": "Imprevius"
+  },
+  {
+    "category": "Spell",
+    "word": "Incarcerous"
+  },
+  {
+    "category": "Spell",
+    "word": "Incendio"
+  },
+  {
+    "category": "Spell",
+    "word": "Locomotor Wibbly"
+  },
+  {
+    "category": "Spell",
+    "word": "Lacarnum Inflamari"
+  },
+  {
+    "category": "Spell",
+    "word": "Langlock"
+  },
+  {
+    "category": "Spell",
+    "word": "Legilimens"
+  },
+  {
+    "category": "Spell",
+    "word": "Levicorpus"
+  },
+  {
+    "category": "Spell",
+    "word": "Locomotor"
+  },
+  {
+    "category": "Spell",
+    "word": "Lumos"
+  },
+  {
+    "category": "Spell",
+    "word": "Mimblewimble"
+  },
+  {
+    "category": "Spell",
+    "word": "Mobilicorpus"
+  },
+  {
+    "category": "Spell",
+    "word": "Morsmordre"
+  },
+  {
+    "category": "Spell",
+    "word": "Muffliato"
+  },
+  {
+    "category": "Spell",
+    "word": "Nox"
+  },
+  {
+    "category": "Spell",
+    "word": "Nebulus"
+  },
+  {
+    "category": "Spell",
+    "word": "Oculus Reparo"
+  },
+  {
+    "category": "Spell",
+    "word": "Obliviate"
+  },
+  {
+    "category": "Spell",
+    "word": "Obscuro"
+  },
+  {
+    "category": "Spell",
+    "word": "Oppugno"
+  },
+  {
+    "category": "Spell",
+    "word": "Orchideous"
+  },
+  {
+    "category": "Spell",
+    "word": "Oscausi"
+  },
+  {
+    "category": "Spell",
+    "word": "Papyrus Reparo"
+  },
+  {
+    "category": "Spell",
+    "word": "Petrificus Totalus"
+  },
+  {
+    "category": "Spell",
+    "word": "Piertotum Locomotor"
+  },
+  {
+    "category": "Spell",
+    "word": "Point Me"
+  },
+  {
+    "category": "Spell",
+    "word": "Portus"
+  },
+  {
+    "category": "Spell",
+    "word": "Priori Incantato"
+  },
+  {
+    "category": "Spell",
+    "word": "Protego"
+  },
+  {
+    "category": "Spell",
+    "word": "Quietus"
+  },
+  {
+    "category": "Spell",
+    "word": "Reducio"
+  },
+  {
+    "category": "Spell",
+    "word": "Reducto"
+  },
+  {
+    "category": "Spell",
+    "word": "Reverte"
+  },
+  {
+    "category": "Spell",
+    "word": "Relashio"
+  },
+  {
+    "category": "Spell",
+    "word": "Rennervate"
+  },
+  {
+    "category": "Spell",
+    "word": "Reparo"
+  },
+  {
+    "category": "Spell",
+    "word": "Revelio"
+  },
+  {
+    "category": "Spell",
+    "word": "Rictusempra"
+  },
+  {
+    "category": "Spell",
+    "word": "Riddikulus"
+  },
+  {
+    "category": "Spell",
+    "word": "Scourgify"
+  },
+  {
+    "category": "Spell",
+    "word": "Sectumsempra"
+  },
+  {
+    "category": "Spell",
+    "word": "Serpensortia"
+  },
+  {
+    "category": "Spell",
+    "word": "Silencio"
+  },
+  {
+    "category": "Spell",
+    "word": "Skurge"
+  },
+  {
+    "category": "Spell",
+    "word": "Slugulus Eructo"
+  },
+  {
+    "category": "Spell",
+    "word": "Sonorous Charm"
+  },
+  {
+    "category": "Spell",
+    "word": "Sonorus"
+  },
+  {
+    "category": "Spell",
+    "word": "Stinging Jinx"
+  },
+  {
+    "category": "Spell",
+    "word": "Stupefy"
+  },
+  {
+    "category": "Spell",
+    "word": "Surgito"
+  },
+  {
+    "category": "Spell",
+    "word": "Teleportation Spell"
+  },
+  {
+    "category": "Spell",
+    "word": "Tergeo"
+  },
+  {
+    "category": "Spell",
+    "word": "Ventus"
+  },
+  {
+    "category": "Spell",
+    "word": "Vera Verto"
+  },
+  {
+    "category": "Spell",
+    "word": "Verdimillious"
+  },
+  {
+    "category": "Spell",
+    "word": "Waddiwasi"
+  },
+  {
+    "category": "Spell",
+    "word": "Wingardium Leviosa"
+  }
+]

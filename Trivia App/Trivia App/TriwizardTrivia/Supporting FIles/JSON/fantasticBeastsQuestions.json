@@ -1,0 +1,1001 @@
+[
+    {
+      "category": "Fantastic Beasts",
+      "question": "Who is Newt's Muggle friend in Fantastic Beasts?",
+      "answer": 0,
+      "0": "Jacob Kowalski",
+      "1": "Credence",
+      "2": "Tina Goldstein",
+      "3": "Corvus"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What type of creature bites Jacob's neck?",
+      "answer": 1,
+      "0": "Niffler",
+      "1": "Murtlap",
+      "2": "Occamy",
+      "3": "Demiguise"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What type of creature bites Jacob's finger?",
+      "answer": 2,
+      "0": "Niffler",
+      "1": "Murtlap",
+      "2": "Occamy",
+      "3": "Demiguise"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What is the name of the thunderbird that Newt brings to New York?",
+      "answer": 2,
+      "0": "Pickett",
+      "1": "Gnarlak",
+      "2": "Frank",
+      "3": "Bunty"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Where does Frank belong? To the wilds of ___?",
+      "answer": 3,
+      "0": "Colorado",
+      "1": "New Mexico",
+      "2": "Oregon",
+      "3": "Arizona"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Which creatures does Newt say that he managed to save the last two breeding pair in existence?",
+      "answer": 0,
+      "0": "Graphorns",
+      "1": "Bowtruckles",
+      "2": "Ashwinders",
+      "3": "Nifflers"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What type of creature is Pickett?",
+      "answer": 1,
+      "0": "Niffler",
+      "1": "Bowtruckle",
+      "2": "Occamy",
+      "3": "Kappa"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Which creature has eggs made from silver?",
+      "answer": 2,
+      "0": "Ashwinder",
+      "1": "Niffler",
+      "2": "Occamy",
+      "3": "Swooping Evil"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Which mythical creature do Newt and Jacob find at the zoo?",
+      "answer": 3,
+      "0": "Demiguise",
+      "1": "Murtlap",
+      "2": "Occamy",
+      "3": "Erumpet"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Who is Grindelwald impersonating in the first movie?",
+      "answer": 0,
+      "0": "Percival Graves",
+      "1": "Abernathy",
+      "2": "Seraphina Picquery",
+      "3": "Gunnar Grimmson"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What kind of creature saves Tina from being dissolved?",
+      "answer": 1,
+      "0": "Niffler",
+      "1": "Swooping Evil",
+      "2": "Bowtruckle",
+      "3": "Occamy"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What does Grindelwad give Credence to summon him?",
+      "answer": 2,
+      "0": "Wand",
+      "1": "Dark Mark",
+      "2": "Deathly Hollows Necklace",
+      "3": "Coin"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What kind of creature is Dougal?",
+      "answer": 3,
+      "0": "Niffler",
+      "1": "Occamy",
+      "2": "Bowtruckle",
+      "3": "Demiguise"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Who was Tina's informant in the first movie?",
+      "answer": 0,
+      "0": "Gnarlak",
+      "1": "Graves",
+      "2": "Credence",
+      "3": "Mary Lou Barebone"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What does Newt initially offer Gnarlak as payment for information?",
+      "answer": 1,
+      "0": "Pickett",
+      "1": "Gold",
+      "2": "Lunascope",
+      "3": "Niffler"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "After Gnarlak refuses the gold, what does Newt offer him?",
+      "answer": 2,
+      "0": "Pickett",
+      "1": "Gold",
+      "2": "Lunascope",
+      "3": "Niffler"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "After Gnarlak refuses the lunascope, what does Newt offer him?",
+      "answer": 3,
+      "0": "Gold",
+      "1": "Pickett",
+      "2": "Niffler",
+      "3": "Ashwinder egg"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What does Gnarlak want from Newt as payment for information?",
+      "answer": 0,
+      "0": "Pickett",
+      "1": "Gold",
+      "2": "Lunascope",
+      "3": "Niffler"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Which store does Gnarlak tell Newt to check out?",
+      "answer": 0,
+      "0": "Macy's Department Store",
+      "1": "Sears Roebuck",
+      "2": "Tiffany's on Fifth",
+      "3": "JC Penney's"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What is the name of the wizarding school in America?",
+      "answer": 1,
+      "0": "Greylock",
+      "1": "Ilvermorny",
+      "2": "Uagadou",
+      "3": "Castelobruxo"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Which of Credence's sisters was believed to be the obscurial?",
+      "answer": 2,
+      "0": "Charity",
+      "1": "Virtue",
+      "2": "Modesty",
+      "3": "Chastity"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Which creature captures Grindelwald at the end of the first movie?",
+      "answer": 0,
+      "0": "Swooping Evil",
+      "1": "Bowtruckle",
+      "2": "Niffler",
+      "3": "Demiguise"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Whom does Grindelwald impersonate in the second movie?",
+      "answer": 1,
+      "0": "Graves",
+      "1": "Abernathy",
+      "2": "Theseus",
+      "3": "Seraphina Picquery"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Who says 'good gravy no' to Queenie?",
+      "answer": 2,
+      "0": "Jacob Kowalski",
+      "1": "Newt Scamander",
+      "2": "Abernathy",
+      "3": "Tina Goldstein"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What was the name of Grindelwald's pet baby chupacabra?",
+      "answer": 3,
+      "0": "Eduardo",
+      "1": "Roberto",
+      "2": "Angelo",
+      "3": "Antonio"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Who is Newt's brother?",
+      "answer": 0,
+      "0": "Theseus",
+      "1": "Theodore",
+      "2": "Thius",
+      "3": "Tremane"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Who is the old friend to which Dumbledore sends Newt?",
+      "answer": 1,
+      "0": "Percival Graves",
+      "1": "Nicholas Flamel",
+      "2": "Alastor Moody",
+      "3": "Gnarlak"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "In the second movie, who is Newt's assistant?",
+      "answer": 2,
+      "0": "Munty",
+      "1": "Punty",
+      "2": "Bunty",
+      "3": "Dunty"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Who is a maledictus?",
+      "answer": 3,
+      "0": "Credence",
+      "1": "Grindelwald",
+      "2": "Voldemort",
+      "3": "Nagini"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Bowtruckles only nest in trees of what type?",
+      "answer": 0,
+      "0": "Wand quality wood",
+      "1": "Holly",
+      "2": "Yew",
+      "3": "Whomping Willows"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What are cat-like creatures that guard the French Ministry of Magic?",
+      "answer": 1,
+      "0": "Catagot",
+      "1": "Matagot",
+      "2": "Tagacot",
+      "3": "Magacot"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Newt said that Grindelwald doesn't understand the nature of things he considers ___?",
+      "answer": 2,
+      "0": "Small",
+      "1": "Beneath him",
+      "2": "Simple",
+      "3": "Lesser"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What name does Grindelwald say is Credence's true name?",
+      "answer": 3,
+      "0": "Credence Dumbledore",
+      "1": "Corvus Dumbledore",
+      "2": "Aberforth Dumbledore",
+      "3": "Aurelius Dumbledore"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "For which creature does Newt perform a dance?",
+      "answer": 0,
+      "0": "Erumpet",
+      "1": "Thunderbird",
+      "2": "Occamy",
+      "3": "Niffler"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Which creature can grow or shrink to fit its available space?",
+      "answer": 1,
+      "0": "Niffler",
+      "1": "Occamy",
+      "2": "Erumpet",
+      "3": "Thunderbird"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Which is the first fantastic beast that escapes Newt's case?",
+      "answer": 2,
+      "0": "Occamy",
+      "1": "Erumpet",
+      "2": "Niffler",
+      "3": "Thunderbird"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What is Tina's last name?",
+      "answer": 3,
+      "0": "McLaggen",
+      "1": "Lestrange",
+      "2": "Abernathy",
+      "3": "Goldstein"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What is Queenie's last name?",
+      "answer": 0,
+      "0": "Goldstein",
+      "1": "Lestrange",
+      "2": "Abernathy",
+      "3": "McLaggen"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What do Americans call those without magic?",
+      "answer": 1,
+      "0": "Muggles",
+      "1": "No-Maj",
+      "2": "Commoners",
+      "3": "Lowborn"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "How many shots of giggle water did Queenie order?",
+      "answer": 2,
+      "0": "Two",
+      "1": "Four",
+      "2": "Six",
+      "3": "Eight"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Who is shown teaching Defense Against the Dark Arts in the second movie?",
+      "answer": 3,
+      "0": "Professor McGonagall",
+      "1": "Professor Flitwick",
+      "2": "Professor Dippet",
+      "3": "Professor Dumbledore"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What is Newt's niffler's name?",
+      "answer": 0,
+      "0": "Niffler",
+      "1": "Frank",
+      "2": "Pickett",
+      "3": "Dougal"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "In which Hogwarts house was Newt?",
+      "answer": 1,
+      "0": "Gryffindor",
+      "1": "Hufflepuff",
+      "2": "Ravenclaw",
+      "3": "Slytherin"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Which of Newt's friends does he meet on a bench at the bank?",
+      "answer": 2,
+      "0": "Tina Goldstein",
+      "1": "Queenie Goldstein",
+      "2": "Jacob Kowalski",
+      "3": "Albus Dumbledore"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Who was the leader of the New Salem Philanthropic Society?",
+      "answer": 3,
+      "0": "Gellert Grindelwald",
+      "1": "Tina Goldstein",
+      "2": "Percival Graves",
+      "3": "Mary Lou Barebone"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What is the name of Mary Lou Barebone’s adopted teenage son?",
+      "answer": 0,
+      "0": "Credence",
+      "1": "Modesty",
+      "2": "Percival",
+      "3": "Corvus"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What does Credence find under his sister's bed?",
+      "answer": 1,
+      "0": "Fliers",
+      "1": "A wand",
+      "2": "A witch's hat",
+      "3": "A spellbook"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Who claimed his uncle is a house elf?",
+      "answer": 2,
+      "0": "Newt",
+      "1": "Credence",
+      "2": "Jacob",
+      "3": "Corvus"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "How do you catch a demiguise?",
+      "answer": 3,
+      "0": "With an insect",
+      "1": "With shiny items",
+      "2": "With a dance",
+      "3": "By being unpredictable"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "How long was Grindelwald imprisoned by MACUSA?",
+      "answer": 0,
+      "0": "Six Months",
+      "1": "One year",
+      "2": "Two Years",
+      "3": "Ten Years"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Which spell did Dumbledore cast to make the city foggy?",
+      "answer": 1,
+      "0": "Cumulus",
+      "1": "Nebulus",
+      "2": "Stratus",
+      "3": "Cirrus"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "In the flashback with Newt and Leta in Dumbledore's class, what creature do they see?",
+      "answer": 2,
+      "0": "Niffler",
+      "1": "Kappa",
+      "2": "Boggart",
+      "3": "Occamy"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What is the symbol of House Lestrange?",
+      "answer": 3,
+      "0": "Dragon",
+      "1": "Phoenix",
+      "2": "Serpent",
+      "3": "Raven"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Which creature is responsible for Newt's assistant almost losing her finger?",
+      "answer": 0,
+      "0": "Kelpie",
+      "1": "Grindylow",
+      "2": "Nundu",
+      "3": "Demiguise"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Which magazine incorrectly claimed that Newt and Leta were getting married?",
+      "answer": 1,
+      "0": "The Quibbler",
+      "1": "Spellbound",
+      "2": "Wizard's Voice",
+      "3": "Witch Weekly"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "How much did it ultimately cost Newt to be able to illegally leave the country?",
+      "answer": 2,
+      "0": "Twenty Galleons",
+      "1": "Thirty Galleons",
+      "2": "Fifty Galleons",
+      "3": "One Hundred Galleons"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Who stands up to the ministry by saying that Dumbledore is the 'best teacher they got?'",
+      "answer": 3,
+      "0": "Newt",
+      "1": "Leta",
+      "2": "Tina",
+      "3": "McClaggen"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Who is the Head of Magical Law Enforcement at the Ministry of Magic in the second movie?",
+      "answer": 0,
+      "0": "Travers",
+      "1": "Abernathy",
+      "2": "Theseus",
+      "3": "Graves"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Whom does Newt impersonate using polyjuice potion to get into the Ministry?",
+      "answer": 1,
+      "0": "Graves",
+      "1": "Theseus",
+      "2": "Picquery",
+      "3": "Abernathy"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Newt tells Tina that her eyes remind him of what type of creature?",
+      "answer": 2,
+      "0": "Dragon",
+      "1": "Occamy",
+      "2": "Salamander",
+      "3": "Phoenix"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "How did Leta Lestrange's brother die?",
+      "answer": 3,
+      "0": "Murdered by Grindelwald",
+      "1": "A pox",
+      "2": "A curse",
+      "3": "Drowned at sea"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Why can't Dumbledore fight Grindlewald?",
+      "answer": 0,
+      "0": "They made a blood pact",
+      "1": "Ministry won't let him",
+      "2": "Grindlewald is too strong",
+      "3": "They're friends"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What paralyzed Yusuf?",
+      "answer": 1,
+      "0": "Murtlap",
+      "1": "Parasite",
+      "2": "Occamy",
+      "3": "A spell"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What does Newt's suitcase say when he flips the switch before showing the inside to a Muggle?",
+      "answer": 2,
+      "0": "Muggle Safe",
+      "1": "Muggle Ready",
+      "2": "Muggle Worthy",
+      "3": "Muggle Proof"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What did Newt initially tell Tina was the reason for him visiting New York?",
+      "answer": 3,
+      "0": "Special mission",
+      "1": "To release Frank",
+      "2": "To stop Grindelwald",
+      "3": "To buy a Puffskein"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "When Tina and Newt find Jacob in his apartment, where was Niffler hiding?",
+      "answer": 0,
+      "0": "Behind a photo",
+      "1": "Under the bed",
+      "2": "In the sink",
+      "3": "In the oven"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What is the name of the man who brings Mary Lou Barebone to his father with a story for the paper?",
+      "answer": 1,
+      "0": "Morgan Shaw",
+      "1": "Langdon Shaw",
+      "2": "Henry Shaw",
+      "3": "Ignotus Shaw"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What is the name of Tina's landlord?",
+      "answer": 2,
+      "0": "Mr. Esposito",
+      "1": "Mr. Elizondo",
+      "2": "Mrs. Esposito",
+      "3": "Mrs. Elizondo"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "How did Tina's and Queenie's parrents die?",
+      "answer": 3,
+      "0": "Fighting Grindelwald",
+      "1": "Sinking ship",
+      "2": "Explosion",
+      "3": "Dragon Pox"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Who is the last bowtruckle that Newt mentions in this sequence? Titus, Finn, Poppy, Marlow, and ___?",
+      "answer": 0,
+      "0": "Tom",
+      "1": "Frank",
+      "2": "Pickett",
+      "3": "Yara"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "To which creatures does Newt ask Jacob to give some pellets?",
+      "answer": 1,
+      "0": "Occamies",
+      "1": "Mooncalves",
+      "2": "Kelpies",
+      "3": "Graphorns"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "On the corner of which street does Credence tell Mary Lou Barebone would be a good place for a meeting?",
+      "answer": 2,
+      "0": "30th Street",
+      "1": "30st Street",
+      "2": "32nd Street",
+      "3": "33rd Street"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What kind of dragons did Newt work with during the war?",
+      "answer": 3,
+      "0": "Peruvian Vipertooth",
+      "1": "Romanian Longhorn",
+      "2": "Swedish Short-Snout",
+      "3": "Ukrainian Ironbellies"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Which creature licks Jacob's face in the first movie?",
+      "answer": 0,
+      "0": "Erumpet",
+      "1": "Occamy",
+      "2": "Niffler",
+      "3": "Mooncalf"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "On which front did Newt say he was stationed in the war?",
+      "answer": 1,
+      "0": "Northern",
+      "1": "Eastern",
+      "2": "Western",
+      "3": "Southern"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Who was the senator for New York?",
+      "answer": 2,
+      "0": "Morgan Shaw",
+      "1": "Langdon Shaw",
+      "2": "Henry Shaw Jr.",
+      "3": "Frank Shaw"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "How old was the obscurial that Newt met in Sudan when she died?",
+      "answer": 3,
+      "0": "Five",
+      "1": "Six",
+      "2": "Seven",
+      "3": "Eight"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "From whom does Queenie take charge of Jacob to perform his obliviation?",
+      "answer": 0,
+      "0": "Sam",
+      "1": "Mike",
+      "2": "Bart",
+      "3": "Luke"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "With whom does Queenie blackmail Sam in order to take Jacob away from him?",
+      "answer": 1,
+      "0": "Tina",
+      "1": "Ruby",
+      "2": "Sherry",
+      "3": "Opal"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What does the poster leading to Gnarlak's club say? Enchanting, Beguiling, ___?",
+      "answer": 2,
+      "0": "Bewitching",
+      "1": "Intoxicating",
+      "2": "Alluring",
+      "3": "Entrancing"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What was the second drink that Queenie ordered at Gnarlak's club?",
+      "answer": 3,
+      "0": "Giggle Water",
+      "1": "Daisyroot Draught",
+      "2": "Firewhiskey",
+      "3": "Lobe-Blaster"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What is Tina's real first name as seen on her wanted posters?",
+      "answer": 0,
+      "0": "Porpentina",
+      "1": "Celestina",
+      "2": "Christina",
+      "3": "Ernestina"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "In what month did the first movie take place?",
+      "answer": 1,
+      "0": "October",
+      "1": "November",
+      "2": "December",
+      "3": "January"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What color is Queenie's hair?",
+      "answer": 2,
+      "0": "Blonde",
+      "1": "Brunette",
+      "2": "Red",
+      "3": "Black"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Who was Jacob's assistant at the bakery?",
+      "answer": 3,
+      "0": "Harold",
+      "1": "Harry",
+      "2": "Herm",
+      "3": "Henry"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "When Queenie visits Jacob in his bakery, what color is her outfit?",
+      "answer": 0,
+      "0": "Pink",
+      "1": "Blue",
+      "2": "Green",
+      "3": "Violet"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What pulls the carriage hauling Grindelwald to Europe?",
+      "answer": 1,
+      "0": "Winged Horses",
+      "1": "Thestrals",
+      "2": "Thunderbirds",
+      "3": "Hippogriffs"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What spell did Newt use on Jacob to lift the enchantment that was put on him by Queenie?",
+      "answer": 2,
+      "0": "Finite",
+      "1": "Protego",
+      "2": "Surgito",
+      "3": "Reducto"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "When Queenie leaves Jacob right after Newt lifted the enchantment, where did she go?",
+      "answer": 3,
+      "0": "London",
+      "1": "New York",
+      "2": "Madrid",
+      "3": "Paris"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Which magical creature's enclosure does the leader of the circus tell Credence to clean?",
+      "answer": 0,
+      "0": "The Kappa's",
+      "1": "The Occamy's",
+      "2": "The Zouwu's",
+      "3": "Nagini's"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What is the year on the skull from which Grindelwald smokes to produce visions?",
+      "answer": 1,
+      "0": "1897",
+      "1": "1898",
+      "2": "1899",
+      "3": "1900"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Who said 'You really think he can kill the great - can kill Albus Dumbledore?'",
+      "answer": 2,
+      "0": "Krafft",
+      "1": "Nagel",
+      "2": "Krall",
+      "3": "MacDuff"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "How did Newt and Jacob get to France?",
+      "answer": 3,
+      "0": "Boat",
+      "1": "Apparation",
+      "2": "Broomstick",
+      "3": "Portkey"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What spell did Leta cast on the girl gossiping?",
+      "answer": 0,
+      "0": "Oscausi",
+      "1": "Petrificus Totalis",
+      "2": "Stupify",
+      "3": "Incarcerous"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What kind of chick did Newt say needed him when Leta asked why he wasn't going home for the holidays?",
+      "answer": 1,
+      "0": "Phoenix",
+      "1": "Raven",
+      "2": "Owl",
+      "3": "Eagle"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "When in Dumbledore's class, what did Newt fear more than anything else?",
+      "answer": 2,
+      "0": "Death",
+      "1": "Being part of the Ministry",
+      "2": "Having to work in an office",
+      "3": "Public speaking"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Who is Yusuf's and Leta's mother?",
+      "answer": 3,
+      "0": "Lyanna",
+      "1": "Louella",
+      "2": "Louisa",
+      "3": "Laurena"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What spell did many witches and wizards cast in a circle to stop the spread of Grindelwald's blue fire?",
+      "answer": 0,
+      "0": "Finite",
+      "1": "Surgito",
+      "2": "Protego",
+      "3": "Reducto"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Who suggests that Newt take off his shirt before interacting with the kelpie?",
+      "answer": 1,
+      "0": "Tina",
+      "1": "Bunty",
+      "2": "Jacob",
+      "3": "Queenie"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "While harvesting wood for wands, what do you give bowtruckles to distract them?",
+      "answer": 2,
+      "0": "Maggots",
+      "1": "Wood roaches",
+      "2": "Wood lice",
+      "3": "Dung beetles"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What is the name of the banker that rejects Jacob's loan request?",
+      "answer": 3,
+      "0": "Mr. Gladstone",
+      "1": "Mr. Branson",
+      "2": "Mr. Poe",
+      "3": "Mr. Bingley"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What pastry does Jacob try to get Mr. Bingley to try?",
+      "answer": 0,
+      "0": "Paczki",
+      "1": "Babka",
+      "2": "Faworki",
+      "3": "Makowki"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What is the name of the goblin bellboy at MACUSA?",
+      "answer": 1,
+      "0": "Gnarlak",
+      "1": "Red",
+      "2": "Ragnok",
+      "3": "Blue"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "For what law did Tina take Newt into custody?",
+      "answer": 2,
+      "0": "1A",
+      "1": "2A",
+      "2": "3A",
+      "3": "4A"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "According to her MACUSA ID card, what is Tina's middle name?",
+      "answer": 3,
+      "0": "Elizabeth",
+      "1": "Eleanor",
+      "2": "Ellaria",
+      "3": "Esther"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "In which building is MACUSA hidden?",
+      "answer": 0,
+      "0": "Woolworth Building",
+      "1": "Chrysler Building",
+      "2": "Victoria Tower",
+      "3": "The Empire State Building"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "To which department did Tina tell Red to send the elevator?",
+      "answer": 1,
+      "0": "Law Enforcement",
+      "1": "Major Investigation",
+      "2": "Penalty and Law Breaking",
+      "3": "Criminal Activity"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "At the start of the series, where does Jacob work?",
+      "answer": 2,
+      "0": "Bakery",
+      "1": "Bank",
+      "2": "Canning Factory",
+      "3": "Automobile Factory"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "What is the first thing that we see demiguise steal while invisible?",
+      "answer": 3,
+      "0": "Sucker",
+      "1": "Chocolate",
+      "2": "Purse",
+      "3": "Apple"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "In the first movie, what food does Queenie make because she reads from Jacob's mind that he prefers it?",
+      "answer": 0,
+      "0": "Strudel",
+      "1": "Pie",
+      "2": "Cake",
+      "3": "Streusel"
+    },
+    {
+      "category": "Fantastic Beasts",
+      "question": "Where did Newt find Frank chained up?",
+      "answer": 1,
+      "0": "Arizona",
+      "1": "Egypt",
+      "2": "Sudan",
+      "3": "Papua New Guinea"
+    }
+   ]

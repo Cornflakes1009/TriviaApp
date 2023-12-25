@@ -7,6 +7,57 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D91CA7D02B2C25C400263266 /* GameButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91CA7CF2B2C25C400263266 /* GameButton.swift */; };
+		D91CA7D22B2C275B00263266 /* HARRYP__.TTF in Resources */ = {isa = PBXBuildFile; fileRef = D91CA7D12B2C275B00263266 /* HARRYP__.TTF */; };
+		D91CA7D42B2DBAFB00263266 /* HomeScreenButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91CA7D32B2DBAFB00263266 /* HomeScreenButton.swift */; };
+		D93239A02B32AEC6009DB51E /* SettingsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D932399F2B32AEC6009DB51E /* SettingsVC.swift */; };
+		D93239A12B32AEC6009DB51E /* SettingsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D932399F2B32AEC6009DB51E /* SettingsVC.swift */; };
+		D93239A22B32AEC6009DB51E /* SettingsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D932399F2B32AEC6009DB51E /* SettingsVC.swift */; };
+		D93239A32B32AEC6009DB51E /* SettingsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D932399F2B32AEC6009DB51E /* SettingsVC.swift */; };
+		D93239A42B32AEC6009DB51E /* SettingsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D932399F2B32AEC6009DB51E /* SettingsVC.swift */; };
+		D93239A52B32AEC6009DB51E /* SettingsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D932399F2B32AEC6009DB51E /* SettingsVC.swift */; };
+		D93239A82B32B2BB009DB51E /* BackButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239A72B32B2BB009DB51E /* BackButton.swift */; };
+		D93239A92B32B2BB009DB51E /* BackButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239A72B32B2BB009DB51E /* BackButton.swift */; };
+		D93239AA2B32B2BB009DB51E /* BackButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239A72B32B2BB009DB51E /* BackButton.swift */; };
+		D93239AB2B32B2BB009DB51E /* BackButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239A72B32B2BB009DB51E /* BackButton.swift */; };
+		D93239AC2B32B2BB009DB51E /* BackButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239A72B32B2BB009DB51E /* BackButton.swift */; };
+		D93239AD2B32B2BB009DB51E /* BackButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239A72B32B2BB009DB51E /* BackButton.swift */; };
+		D93239AF2B32B9E6009DB51E /* GearButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239AE2B32B9E6009DB51E /* GearButton.swift */; };
+		D93239B02B32B9E6009DB51E /* GearButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239AE2B32B9E6009DB51E /* GearButton.swift */; };
+		D93239B12B32B9E6009DB51E /* GearButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239AE2B32B9E6009DB51E /* GearButton.swift */; };
+		D93239B22B32B9E6009DB51E /* GearButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239AE2B32B9E6009DB51E /* GearButton.swift */; };
+		D93239B32B32B9E6009DB51E /* GearButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239AE2B32B9E6009DB51E /* GearButton.swift */; };
+		D93239B42B32B9E6009DB51E /* GearButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239AE2B32B9E6009DB51E /* GearButton.swift */; };
+		D93239B72B32CA0D009DB51E /* ModeSelectVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239B62B32CA0D009DB51E /* ModeSelectVC.swift */; };
+		D93239B82B32CA0D009DB51E /* ModeSelectVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239B62B32CA0D009DB51E /* ModeSelectVC.swift */; };
+		D93239B92B32CA0D009DB51E /* ModeSelectVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239B62B32CA0D009DB51E /* ModeSelectVC.swift */; };
+		D93239BA2B32CA0D009DB51E /* ModeSelectVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239B62B32CA0D009DB51E /* ModeSelectVC.swift */; };
+		D93239BB2B32CA0D009DB51E /* ModeSelectVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239B62B32CA0D009DB51E /* ModeSelectVC.swift */; };
+		D93239BC2B32CA0D009DB51E /* ModeSelectVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239B62B32CA0D009DB51E /* ModeSelectVC.swift */; };
+		D93239C52B36E81F009DB51E /* ClassicVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239C42B36E81F009DB51E /* ClassicVC.swift */; };
+		D93239C62B36E81F009DB51E /* ClassicVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239C42B36E81F009DB51E /* ClassicVC.swift */; };
+		D93239C72B36E81F009DB51E /* ClassicVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239C42B36E81F009DB51E /* ClassicVC.swift */; };
+		D93239C82B36E81F009DB51E /* ClassicVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239C42B36E81F009DB51E /* ClassicVC.swift */; };
+		D93239C92B36E81F009DB51E /* ClassicVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239C42B36E81F009DB51E /* ClassicVC.swift */; };
+		D93239CA2B36E81F009DB51E /* ClassicVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239C42B36E81F009DB51E /* ClassicVC.swift */; };
+		D93239CC2B36E839009DB51E /* BlitzVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239CB2B36E839009DB51E /* BlitzVC.swift */; };
+		D93239CD2B36E839009DB51E /* BlitzVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239CB2B36E839009DB51E /* BlitzVC.swift */; };
+		D93239CE2B36E839009DB51E /* BlitzVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239CB2B36E839009DB51E /* BlitzVC.swift */; };
+		D93239CF2B36E839009DB51E /* BlitzVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239CB2B36E839009DB51E /* BlitzVC.swift */; };
+		D93239D02B36E839009DB51E /* BlitzVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239CB2B36E839009DB51E /* BlitzVC.swift */; };
+		D93239D12B36E839009DB51E /* BlitzVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239CB2B36E839009DB51E /* BlitzVC.swift */; };
+		D93239D32B36E84A009DB51E /* SurvivalVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239D22B36E84A009DB51E /* SurvivalVC.swift */; };
+		D93239D42B36E84A009DB51E /* SurvivalVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239D22B36E84A009DB51E /* SurvivalVC.swift */; };
+		D93239D52B36E84A009DB51E /* SurvivalVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239D22B36E84A009DB51E /* SurvivalVC.swift */; };
+		D93239D62B36E84A009DB51E /* SurvivalVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239D22B36E84A009DB51E /* SurvivalVC.swift */; };
+		D93239D72B36E84A009DB51E /* SurvivalVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239D22B36E84A009DB51E /* SurvivalVC.swift */; };
+		D93239D82B36E84A009DB51E /* SurvivalVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239D22B36E84A009DB51E /* SurvivalVC.swift */; };
+		D93239DA2B36E85B009DB51E /* HangmanVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239D92B36E85B009DB51E /* HangmanVC.swift */; };
+		D93239DB2B36E85B009DB51E /* HangmanVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239D92B36E85B009DB51E /* HangmanVC.swift */; };
+		D93239DC2B36E85B009DB51E /* HangmanVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239D92B36E85B009DB51E /* HangmanVC.swift */; };
+		D93239DD2B36E85B009DB51E /* HangmanVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239D92B36E85B009DB51E /* HangmanVC.swift */; };
+		D93239DE2B36E85B009DB51E /* HangmanVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239D92B36E85B009DB51E /* HangmanVC.swift */; };
+		D93239DF2B36E85B009DB51E /* HangmanVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93239D92B36E85B009DB51E /* HangmanVC.swift */; };
 		D952774A2B25AE4C0089B91D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95277492B25AE4C0089B91D /* AppDelegate.swift */; };
 		D952774C2B25AE4C0089B91D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D952774B2B25AE4C0089B91D /* SceneDelegate.swift */; };
 		D952774E2B25AE4C0089B91D /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D952774D2B25AE4C0089B91D /* HomeVC.swift */; };
@@ -46,14 +97,37 @@
 		D95277B72B25C03D0089B91D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95277492B25AE4C0089B91D /* AppDelegate.swift */; };
 		D95277B82B25C03D0089B91D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D952774B2B25AE4C0089B91D /* SceneDelegate.swift */; };
 		D95277BB2B25C03D0089B91D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D95277542B25AE4E0089B91D /* LaunchScreen.storyboard */; };
-		D95277BC2B25C03D0089B91D /* sparkle-trivia.plist in Resources */ = {isa = PBXBuildFile; fileRef = D95277A82B25B3CE0089B91D /* sparkle-trivia.plist */; };
 		D95277BD2B25C03D0089B91D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D95277AC2B25BE4F0089B91D /* README.md */; };
 		D95277BE2B25C03D0089B91D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D95277522B25AE4E0089B91D /* Assets.xcassets */; };
-		D95277C52B25C0EB0089B91D /* TriwizardTrivia.plist in Resources */ = {isa = PBXBuildFile; fileRef = D95277C32B25C03D0089B91D /* TriwizardTrivia.plist */; };
 		D95277C72B25C1160089B91D /* AppConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95277C62B25C1160089B91D /* AppConstants.swift */; };
 		D95277C82B25C2870089B91D /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D952774D2B25AE4C0089B91D /* HomeVC.swift */; };
 		D95277C92B25C2880089B91D /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D952774D2B25AE4C0089B91D /* HomeVC.swift */; };
 		D95277CB2B25C3920089B91D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D95277CA2B25C3920089B91D /* Assets.xcassets */; };
+		D95277D02B2816BA0089B91D /* smoke1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D95277CC2B28162F0089B91D /* smoke1.mp4 */; };
+		D95277D12B2816C00089B91D /* smoke.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D95277CD2B28162F0089B91D /* smoke.mp4 */; };
+		D95277D42B28504D0089B91D /* background_music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D95277D22B2850470089B91D /* background_music.mp3 */; };
+		D9566AA72B3959C300FE356D /* HelpButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9566AA62B3959C300FE356D /* HelpButton.swift */; };
+		D9566AA82B3959C300FE356D /* HelpButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9566AA62B3959C300FE356D /* HelpButton.swift */; };
+		D9566AA92B3959C300FE356D /* HelpButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9566AA62B3959C300FE356D /* HelpButton.swift */; };
+		D9566AAA2B3959C300FE356D /* HelpButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9566AA62B3959C300FE356D /* HelpButton.swift */; };
+		D9566AAB2B3959C300FE356D /* HelpButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9566AA62B3959C300FE356D /* HelpButton.swift */; };
+		D9566AAC2B3959C300FE356D /* HelpButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9566AA62B3959C300FE356D /* HelpButton.swift */; };
+		D9566AB02B39652400FE356D /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9566AAF2B39652400FE356D /* Question.swift */; };
+		D9566AB12B39652400FE356D /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9566AAF2B39652400FE356D /* Question.swift */; };
+		D9566AB22B39652400FE356D /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9566AAF2B39652400FE356D /* Question.swift */; };
+		D9566AB32B39652400FE356D /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9566AAF2B39652400FE356D /* Question.swift */; };
+		D9566AB42B39652400FE356D /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9566AAF2B39652400FE356D /* Question.swift */; };
+		D9566AB52B39652400FE356D /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9566AAF2B39652400FE356D /* Question.swift */; };
+		D9566AB62B39685D00FE356D /* Potions.json in Resources */ = {isa = PBXBuildFile; fileRef = D9566A962B39545700FE356D /* Potions.json */; };
+		D9566AB72B39685D00FE356D /* harryPotterSoloQuestions.json in Resources */ = {isa = PBXBuildFile; fileRef = D9566A992B39545700FE356D /* harryPotterSoloQuestions.json */; };
+		D9566AB82B39685D00FE356D /* harryPotterTriviaQuestions.json in Resources */ = {isa = PBXBuildFile; fileRef = D9566A9B2B39545800FE356D /* harryPotterTriviaQuestions.json */; };
+		D9566AB92B39685D00FE356D /* Characters.json in Resources */ = {isa = PBXBuildFile; fileRef = D9566A922B39545600FE356D /* Characters.json */; };
+		D9566ABA2B39685D00FE356D /* Death Eaters.json in Resources */ = {isa = PBXBuildFile; fileRef = D9566A972B39545700FE356D /* Death Eaters.json */; };
+		D9566ABB2B39685D00FE356D /* Locations.json in Resources */ = {isa = PBXBuildFile; fileRef = D9566A9A2B39545800FE356D /* Locations.json */; };
+		D9566ABC2B39685D00FE356D /* fantasticBeastsQuestions.json in Resources */ = {isa = PBXBuildFile; fileRef = D9566A982B39545700FE356D /* fantasticBeastsQuestions.json */; };
+		D9566ABD2B39685D00FE356D /* Magical Beasts.json in Resources */ = {isa = PBXBuildFile; fileRef = D9566A932B39545600FE356D /* Magical Beasts.json */; };
+		D9566ABE2B39685D00FE356D /* Spells.json in Resources */ = {isa = PBXBuildFile; fileRef = D9566A942B39545600FE356D /* Spells.json */; };
+		D9566ABF2B39685D00FE356D /* Order Members.json in Resources */ = {isa = PBXBuildFile; fileRef = D9566A952B39545700FE356D /* Order Members.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -74,6 +148,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D91CA7CF2B2C25C400263266 /* GameButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameButton.swift; sourceTree = "<group>"; };
+		D91CA7D12B2C275B00263266 /* HARRYP__.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = HARRYP__.TTF; sourceTree = "<group>"; };
+		D91CA7D32B2DBAFB00263266 /* HomeScreenButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreenButton.swift; sourceTree = "<group>"; };
+		D932399F2B32AEC6009DB51E /* SettingsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsVC.swift; sourceTree = "<group>"; };
+		D93239A72B32B2BB009DB51E /* BackButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackButton.swift; sourceTree = "<group>"; };
+		D93239AE2B32B9E6009DB51E /* GearButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GearButton.swift; sourceTree = "<group>"; };
+		D93239B62B32CA0D009DB51E /* ModeSelectVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModeSelectVC.swift; sourceTree = "<group>"; };
+		D93239C42B36E81F009DB51E /* ClassicVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassicVC.swift; sourceTree = "<group>"; };
+		D93239CB2B36E839009DB51E /* BlitzVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlitzVC.swift; sourceTree = "<group>"; };
+		D93239D22B36E84A009DB51E /* SurvivalVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SurvivalVC.swift; sourceTree = "<group>"; };
+		D93239D92B36E85B009DB51E /* HangmanVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HangmanVC.swift; sourceTree = "<group>"; };
 		D95277462B25AE4C0089B91D /* Trivia App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Trivia App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D95277492B25AE4C0089B91D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D952774B2B25AE4C0089B91D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -98,6 +183,21 @@
 		D95277C32B25C03D0089B91D /* TriwizardTrivia.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = TriwizardTrivia.plist; path = "/Users/HaroldDavidson/TriviaApp/Trivia App/TriwizardTrivia.plist"; sourceTree = "<absolute>"; };
 		D95277C62B25C1160089B91D /* AppConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConstants.swift; sourceTree = "<group>"; };
 		D95277CA2B25C3920089B91D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D95277CC2B28162F0089B91D /* smoke1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = smoke1.mp4; path = "/Users/HaroldDavidson/TriviaApp/Trivia App/Trivia App/TriwizardTrivia/smoke1.mp4"; sourceTree = "<absolute>"; };
+		D95277CD2B28162F0089B91D /* smoke.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = smoke.mp4; path = "/Users/HaroldDavidson/TriviaApp/Trivia App/Trivia App/TriwizardTrivia/smoke.mp4"; sourceTree = "<absolute>"; };
+		D95277D22B2850470089B91D /* background_music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = background_music.mp3; sourceTree = "<group>"; };
+		D9566A922B39545600FE356D /* Characters.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Characters.json; sourceTree = "<group>"; };
+		D9566A932B39545600FE356D /* Magical Beasts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Magical Beasts.json"; sourceTree = "<group>"; };
+		D9566A942B39545600FE356D /* Spells.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Spells.json; sourceTree = "<group>"; };
+		D9566A952B39545700FE356D /* Order Members.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Order Members.json"; sourceTree = "<group>"; };
+		D9566A962B39545700FE356D /* Potions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Potions.json; sourceTree = "<group>"; };
+		D9566A972B39545700FE356D /* Death Eaters.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Death Eaters.json"; sourceTree = "<group>"; };
+		D9566A982B39545700FE356D /* fantasticBeastsQuestions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = fantasticBeastsQuestions.json; sourceTree = "<group>"; };
+		D9566A992B39545700FE356D /* harryPotterSoloQuestions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = harryPotterSoloQuestions.json; sourceTree = "<group>"; };
+		D9566A9A2B39545800FE356D /* Locations.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Locations.json; sourceTree = "<group>"; };
+		D9566A9B2B39545800FE356D /* harryPotterTriviaQuestions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = harryPotterTriviaQuestions.json; sourceTree = "<group>"; };
+		D9566AA62B3959C300FE356D /* HelpButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelpButton.swift; sourceTree = "<group>"; };
+		D9566AAF2B39652400FE356D /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +246,56 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D91CA7CE2B2C25A400263266 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				D91CA7CF2B2C25C400263266 /* GameButton.swift */,
+				D91CA7D32B2DBAFB00263266 /* HomeScreenButton.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		D93239A62B32B2A4009DB51E /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				D93239A72B32B2BB009DB51E /* BackButton.swift */,
+				D93239AE2B32B9E6009DB51E /* GearButton.swift */,
+				D9566AA62B3959C300FE356D /* HelpButton.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		D93239B52B32C9D2009DB51E /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				D952774D2B25AE4C0089B91D /* HomeVC.swift */,
+				D932399F2B32AEC6009DB51E /* SettingsVC.swift */,
+				D93239B62B32CA0D009DB51E /* ModeSelectVC.swift */,
+				D93239C42B36E81F009DB51E /* ClassicVC.swift */,
+				D93239CB2B36E839009DB51E /* BlitzVC.swift */,
+				D93239D22B36E84A009DB51E /* SurvivalVC.swift */,
+				D93239D92B36E85B009DB51E /* HangmanVC.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		D93239E02B3952FA009DB51E /* JSON */ = {
+			isa = PBXGroup;
+			children = (
+				D9566A922B39545600FE356D /* Characters.json */,
+				D9566A972B39545700FE356D /* Death Eaters.json */,
+				D9566A982B39545700FE356D /* fantasticBeastsQuestions.json */,
+				D9566A992B39545700FE356D /* harryPotterSoloQuestions.json */,
+				D9566A9B2B39545800FE356D /* harryPotterTriviaQuestions.json */,
+				D9566A9A2B39545800FE356D /* Locations.json */,
+				D9566A932B39545600FE356D /* Magical Beasts.json */,
+				D9566A952B39545700FE356D /* Order Members.json */,
+				D9566A962B39545700FE356D /* Potions.json */,
+				D9566A942B39545600FE356D /* Spells.json */,
+			);
+			path = JSON;
+			sourceTree = "<group>";
+		};
 		D952773D2B25AE4B0089B91D = {
 			isa = PBXGroup;
 			children = (
@@ -172,7 +322,9 @@
 		D95277482B25AE4C0089B91D /* Trivia App */ = {
 			isa = PBXGroup;
 			children = (
-				D952774D2B25AE4C0089B91D /* HomeVC.swift */,
+				D9566AAE2B39651500FE356D /* Models */,
+				D93239B52B32C9D2009DB51E /* Controllers */,
+				D93239A62B32B2A4009DB51E /* Views */,
 				D95277C42B25C0570089B91D /* TriwizardTrivia */,
 				D952778D2B25B00F0089B91D /* Sparkle Trivia */,
 				D952778A2B25AFED0089B91D /* po-tay-toes */,
@@ -233,11 +385,33 @@
 		D95277C42B25C0570089B91D /* TriwizardTrivia */ = {
 			isa = PBXGroup;
 			children = (
+				D91CA7CE2B2C25A400263266 /* Views */,
+				D95277D52B2856F10089B91D /* Supporting FIles */,
 				D95277C62B25C1160089B91D /* AppConstants.swift */,
 				D95277C32B25C03D0089B91D /* TriwizardTrivia.plist */,
-				D95277CA2B25C3920089B91D /* Assets.xcassets */,
 			);
 			path = TriwizardTrivia;
+			sourceTree = "<group>";
+		};
+		D95277D52B2856F10089B91D /* Supporting FIles */ = {
+			isa = PBXGroup;
+			children = (
+				D93239E02B3952FA009DB51E /* JSON */,
+				D91CA7D12B2C275B00263266 /* HARRYP__.TTF */,
+				D95277D22B2850470089B91D /* background_music.mp3 */,
+				D95277CD2B28162F0089B91D /* smoke.mp4 */,
+				D95277CC2B28162F0089B91D /* smoke1.mp4 */,
+				D95277CA2B25C3920089B91D /* Assets.xcassets */,
+			);
+			path = "Supporting FIles";
+			sourceTree = "<group>";
+		};
+		D9566AAE2B39651500FE356D /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				D9566AAF2B39652400FE356D /* Question.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -447,11 +621,23 @@
 			buildActionMask = 2147483647;
 			files = (
 				D95277BB2B25C03D0089B91D /* LaunchScreen.storyboard in Resources */,
-				D95277C52B25C0EB0089B91D /* TriwizardTrivia.plist in Resources */,
-				D95277BC2B25C03D0089B91D /* sparkle-trivia.plist in Resources */,
+				D9566AB72B39685D00FE356D /* harryPotterSoloQuestions.json in Resources */,
+				D95277D42B28504D0089B91D /* background_music.mp3 in Resources */,
+				D9566AB92B39685D00FE356D /* Characters.json in Resources */,
 				D95277BD2B25C03D0089B91D /* README.md in Resources */,
 				D95277CB2B25C3920089B91D /* Assets.xcassets in Resources */,
+				D9566ABB2B39685D00FE356D /* Locations.json in Resources */,
+				D9566AB62B39685D00FE356D /* Potions.json in Resources */,
+				D91CA7D22B2C275B00263266 /* HARRYP__.TTF in Resources */,
+				D95277D02B2816BA0089B91D /* smoke1.mp4 in Resources */,
 				D95277BE2B25C03D0089B91D /* Assets.xcassets in Resources */,
+				D9566ABD2B39685D00FE356D /* Magical Beasts.json in Resources */,
+				D9566ABE2B39685D00FE356D /* Spells.json in Resources */,
+				D95277D12B2816C00089B91D /* smoke.mp4 in Resources */,
+				D9566AB82B39685D00FE356D /* harryPotterTriviaQuestions.json in Resources */,
+				D9566ABA2B39685D00FE356D /* Death Eaters.json in Resources */,
+				D9566ABC2B39685D00FE356D /* fantasticBeastsQuestions.json in Resources */,
+				D9566ABF2B39685D00FE356D /* Order Members.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -463,9 +649,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				D952774E2B25AE4C0089B91D /* HomeVC.swift in Sources */,
+				D93239C52B36E81F009DB51E /* ClassicVC.swift in Sources */,
+				D93239B72B32CA0D009DB51E /* ModeSelectVC.swift in Sources */,
 				D952774A2B25AE4C0089B91D /* AppDelegate.swift in Sources */,
+				D93239A82B32B2BB009DB51E /* BackButton.swift in Sources */,
+				D9566AB02B39652400FE356D /* Question.swift in Sources */,
+				D93239D32B36E84A009DB51E /* SurvivalVC.swift in Sources */,
 				D952774C2B25AE4C0089B91D /* SceneDelegate.swift in Sources */,
+				D93239CC2B36E839009DB51E /* BlitzVC.swift in Sources */,
+				D93239AF2B32B9E6009DB51E /* GearButton.swift in Sources */,
+				D93239DA2B36E85B009DB51E /* HangmanVC.swift in Sources */,
 				D95277932B25B2410089B91D /* Extensions.swift in Sources */,
+				D9566AA72B3959C300FE356D /* HelpButton.swift in Sources */,
+				D93239A02B32AEC6009DB51E /* SettingsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -474,9 +670,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				D95277972B25B26B0089B91D /* AppDelegate.swift in Sources */,
+				D93239C62B36E81F009DB51E /* ClassicVC.swift in Sources */,
+				D93239B82B32CA0D009DB51E /* ModeSelectVC.swift in Sources */,
 				D95277C82B25C2870089B91D /* HomeVC.swift in Sources */,
+				D93239A92B32B2BB009DB51E /* BackButton.swift in Sources */,
+				D9566AB12B39652400FE356D /* Question.swift in Sources */,
+				D93239D42B36E84A009DB51E /* SurvivalVC.swift in Sources */,
 				D95277612B25AE4F0089B91D /* Trivia_AppTests.swift in Sources */,
+				D93239CD2B36E839009DB51E /* BlitzVC.swift in Sources */,
+				D93239B02B32B9E6009DB51E /* GearButton.swift in Sources */,
+				D93239DB2B36E85B009DB51E /* HangmanVC.swift in Sources */,
 				D95277942B25B2410089B91D /* Extensions.swift in Sources */,
+				D9566AA82B3959C300FE356D /* HelpButton.swift in Sources */,
+				D93239A12B32AEC6009DB51E /* SettingsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -484,10 +690,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9566AB22B39652400FE356D /* Question.swift in Sources */,
+				D93239A22B32AEC6009DB51E /* SettingsVC.swift in Sources */,
 				D95277982B25B26B0089B91D /* AppDelegate.swift in Sources */,
+				D93239CE2B36E839009DB51E /* BlitzVC.swift in Sources */,
 				D95277C92B25C2880089B91D /* HomeVC.swift in Sources */,
+				D93239D52B36E84A009DB51E /* SurvivalVC.swift in Sources */,
+				D93239B92B32CA0D009DB51E /* ModeSelectVC.swift in Sources */,
 				D952776B2B25AE4F0089B91D /* Trivia_AppUITests.swift in Sources */,
+				D93239C72B36E81F009DB51E /* ClassicVC.swift in Sources */,
+				D9566AA92B3959C300FE356D /* HelpButton.swift in Sources */,
 				D95277952B25B2410089B91D /* Extensions.swift in Sources */,
+				D93239DC2B36E85B009DB51E /* HangmanVC.swift in Sources */,
+				D93239AA2B32B2BB009DB51E /* BackButton.swift in Sources */,
+				D93239B12B32B9E6009DB51E /* GearButton.swift in Sources */,
 				D952776D2B25AE4F0089B91D /* Trivia_AppUITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -496,10 +712,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9566AB32B39652400FE356D /* Question.swift in Sources */,
+				D93239A32B32AEC6009DB51E /* SettingsVC.swift in Sources */,
 				D95277962B25B2410089B91D /* Extensions.swift in Sources */,
+				D93239CF2B36E839009DB51E /* BlitzVC.swift in Sources */,
 				D952777B2B25AE580089B91D /* HomeVC.swift in Sources */,
+				D93239D62B36E84A009DB51E /* SurvivalVC.swift in Sources */,
+				D93239BA2B32CA0D009DB51E /* ModeSelectVC.swift in Sources */,
 				D952777C2B25AE580089B91D /* AppDelegate.swift in Sources */,
+				D93239C82B36E81F009DB51E /* ClassicVC.swift in Sources */,
+				D9566AAA2B3959C300FE356D /* HelpButton.swift in Sources */,
 				D952777D2B25AE580089B91D /* SceneDelegate.swift in Sources */,
+				D93239DD2B36E85B009DB51E /* HangmanVC.swift in Sources */,
+				D93239AB2B32B2BB009DB51E /* BackButton.swift in Sources */,
+				D93239B22B32B9E6009DB51E /* GearButton.swift in Sources */,
 				D952778E2B25B0190089B91D /* AppConstants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -508,10 +734,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9566AB42B39652400FE356D /* Question.swift in Sources */,
+				D93239A42B32AEC6009DB51E /* SettingsVC.swift in Sources */,
 				D952779B2B25B3CE0089B91D /* Extensions.swift in Sources */,
+				D93239D02B36E839009DB51E /* BlitzVC.swift in Sources */,
 				D95277A92B25B5A80089B91D /* AppConstants.swift in Sources */,
+				D93239D72B36E84A009DB51E /* SurvivalVC.swift in Sources */,
+				D93239BB2B32CA0D009DB51E /* ModeSelectVC.swift in Sources */,
 				D952779C2B25B3CE0089B91D /* HomeVC.swift in Sources */,
+				D93239C92B36E81F009DB51E /* ClassicVC.swift in Sources */,
+				D9566AAB2B3959C300FE356D /* HelpButton.swift in Sources */,
 				D952779D2B25B3CE0089B91D /* AppDelegate.swift in Sources */,
+				D93239DE2B36E85B009DB51E /* HangmanVC.swift in Sources */,
+				D93239AC2B32B2BB009DB51E /* BackButton.swift in Sources */,
+				D93239B32B32B9E6009DB51E /* GearButton.swift in Sources */,
 				D952779E2B25B3CE0089B91D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -520,10 +756,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9566AAC2B3959C300FE356D /* HelpButton.swift in Sources */,
+				D93239D82B36E84A009DB51E /* SurvivalVC.swift in Sources */,
+				D93239D12B36E839009DB51E /* BlitzVC.swift in Sources */,
+				D9566AB52B39652400FE356D /* Question.swift in Sources */,
 				D95277B42B25C03D0089B91D /* Extensions.swift in Sources */,
+				D93239CA2B36E81F009DB51E /* ClassicVC.swift in Sources */,
+				D91CA7D02B2C25C400263266 /* GameButton.swift in Sources */,
+				D93239A52B32AEC6009DB51E /* SettingsVC.swift in Sources */,
 				D95277B62B25C03D0089B91D /* HomeVC.swift in Sources */,
+				D93239B42B32B9E6009DB51E /* GearButton.swift in Sources */,
 				D95277B72B25C03D0089B91D /* AppDelegate.swift in Sources */,
+				D93239DF2B36E85B009DB51E /* HangmanVC.swift in Sources */,
+				D93239AD2B32B2BB009DB51E /* BackButton.swift in Sources */,
+				D91CA7D42B2DBAFB00263266 /* HomeScreenButton.swift in Sources */,
 				D95277B82B25C03D0089B91D /* SceneDelegate.swift in Sources */,
+				D93239BC2B32CA0D009DB51E /* ModeSelectVC.swift in Sources */,
 				D95277C72B25C1160089B91D /* AppConstants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -819,7 +1067,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				OTHER_SWIFT_FLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.harolddavidson.Trivia-App";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.harolddavidson.po-tay-toes";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -847,7 +1095,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				OTHER_SWIFT_FLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.harolddavidson.Trivia-App";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.harolddavidson.po-tay-toes";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -875,7 +1123,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				OTHER_SWIFT_FLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.harolddavidson.Trivia-App";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.harolddavidson.sparkle-trivia";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -903,7 +1151,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				OTHER_SWIFT_FLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.harolddavidson.Trivia-App";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.harolddavidson.sparkle-trivia";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -923,15 +1171,15 @@
 				INFOPLIST_FILE = TriwizardTrivia.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
 				OTHER_SWIFT_FLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.harolddavidson.Trivia-App";
+				PRODUCT_BUNDLE_IDENTIFIER = com.harolddavidson.TriwizardTrivia;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -951,15 +1199,15 @@
 				INFOPLIST_FILE = TriwizardTrivia.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
 				OTHER_SWIFT_FLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.harolddavidson.Trivia-App";
+				PRODUCT_BUNDLE_IDENTIFIER = com.harolddavidson.TriwizardTrivia;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;

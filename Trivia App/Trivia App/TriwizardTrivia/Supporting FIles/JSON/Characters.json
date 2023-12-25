@@ -1,0 +1,858 @@
+[
+  {
+    "category": "Character",
+    "word": "Hannah Abbott"
+  },
+  {
+    "category": "Character",
+    "word": "Ludo Bagman"
+  },
+  {
+    "category": "Character",
+    "word": "Bathilda Bagshot"
+  },
+  {
+    "category": "Character",
+    "word": "Katie Bell"
+  },
+  {
+    "category": "Character",
+    "word": "Cuthbert Binns"
+  },
+  {
+    "category": "Character",
+    "word": "Phineas Nigellus Black"
+  },
+  {
+    "category": "Character",
+    "word": "Walburga Black"
+  },
+  {
+    "category": "Character",
+    "word": "Sirius Black"
+  },
+  {
+    "category": "Character",
+    "word": "Amelia Bones"
+  },
+  {
+    "category": "Character",
+    "word": "Susan Bones"
+  },
+  {
+    "category": "Character",
+    "word": "Terry Boot"
+  },
+  {
+    "category": "Character",
+    "word": "Lavender Brown"
+  },
+  {
+    "category": "Character",
+    "word": "Millicent Bulstrode"
+  },
+  {
+    "category": "Character",
+    "word": "Charity Burbage"
+  },
+  {
+    "category": "Character",
+    "word": "Frank Bryce"
+  },
+  {
+    "category": "Character",
+    "word": "Alecto Carrow"
+  },
+  {
+    "category": "Character",
+    "word": "Amycus Carrow"
+  },
+  {
+    "category": "Character",
+    "word": "Reginald Cattermole"
+  },
+  {
+    "category": "Character",
+    "word": "Mary Cattermole"
+  },
+  {
+    "category": "Character",
+    "word": "Cho Chang"
+  },
+  {
+    "category": "Character",
+    "word": "Penelope Clearwater"
+  },
+  {
+    "category": "Character",
+    "word": "Mrs. Cole"
+  },
+  {
+    "category": "Character",
+    "word": "Michael Corner"
+  },
+  {
+    "category": "Character",
+    "word": "Crabbe"
+  },
+  {
+    "category": "Character",
+    "word": "Vincent Crabbe"
+  },
+  {
+    "category": "Character",
+    "word": "Colin Creevey"
+  },
+  {
+    "category": "Character",
+    "word": "Dennis Creevey"
+  },
+  {
+    "category": "Character",
+    "word": "Dirk Cresswell"
+  },
+  {
+    "category": "Character",
+    "word": "Barty Crouch Sr."
+  },
+  {
+    "category": "Character",
+    "word": "Barty Crouch Jr."
+  },
+  {
+    "category": "Character",
+    "word": "Roger Davies"
+  },
+  {
+    "category": "Character",
+    "word": "John Dawlish"
+  },
+  {
+    "category": "Character",
+    "word": "Fleur Delacour"
+  },
+  {
+    "category": "Character",
+    "word": "Gabrielle Delacour"
+  },
+  {
+    "category": "Character",
+    "word": "Dedalus Diggle"
+  },
+  {
+    "category": "Character",
+    "word": "Amos Diggory"
+  },
+  {
+    "category": "Character",
+    "word": "Cedric Diggory"
+  },
+  {
+    "category": "Character",
+    "word": "Elphias Doge"
+  },
+  {
+    "category": "Character",
+    "word": "Antonin Dolohov"
+  },
+  {
+    "category": "Character",
+    "word": "Aberforth Dumbledore"
+  },
+  {
+    "category": "Character",
+    "word": "Albus Dumbledore"
+  },
+  {
+    "category": "Character",
+    "word": "Ariana Dumbledore"
+  },
+  {
+    "category": "Character",
+    "word": "Kendra Dumbledore"
+  },
+  {
+    "category": "Character",
+    "word": "Percival Dumbledore"
+  },
+  {
+    "category": "Character",
+    "word": "Dudley Dursley"
+  },
+  {
+    "category": "Character",
+    "word": "Marge Dursley"
+  },
+  {
+    "category": "Character",
+    "word": "Petunia Dursley"
+  },
+  {
+    "category": "Character",
+    "word": "Vernon Dursley"
+  },
+  {
+    "category": "Character",
+    "word": "Marietta Edgecombe"
+  },
+  {
+    "category": "Character",
+    "word": "Arabella Figg"
+  },
+  {
+    "category": "Character",
+    "word": "Argus Filch"
+  },
+  {
+    "category": "Character",
+    "word": "Justin Finch-Fletchley"
+  },
+  {
+    "category": "Character",
+    "word": "Seamus Finnigan"
+  },
+  {
+    "category": "Character",
+    "word": "Nicolas Flamel"
+  },
+  {
+    "category": "Character",
+    "word": "Marcus Flint"
+  },
+  {
+    "category": "Character",
+    "word": "Mundungus Fletcher"
+  },
+  {
+    "category": "Character",
+    "word": "Filius Flitwick"
+  },
+  {
+    "category": "Character",
+    "word": "Florean Fortescue"
+  },
+  {
+    "category": "Character",
+    "word": "Cornelius Fudge"
+  },
+  {
+    "category": "Character",
+    "word": "Marvolo Gaunt"
+  },
+  {
+    "category": "Character",
+    "word": "Merope Gaunt"
+  },
+  {
+    "category": "Character",
+    "word": "Morfin Gaunt"
+  },
+  {
+    "category": "Character",
+    "word": "Anthony Goldstein"
+  },
+  {
+    "category": "Character",
+    "word": "Goyle"
+  },
+  {
+    "category": "Character",
+    "word": "Gregory Goyle"
+  },
+  {
+    "category": "Character",
+    "word": "Hermione Granger"
+  },
+  {
+    "category": "Character",
+    "word": "Astoria Greengrass"
+  },
+  {
+    "category": "Character",
+    "word": "Gregorvitch"
+  },
+  {
+    "category": "Character",
+    "word": "Fenrir Greyback"
+  },
+  {
+    "category": "Character",
+    "word": "Gellert Grindelwald"
+  },
+  {
+    "category": "Character",
+    "word": "Grubbly Plank"
+  },
+  {
+    "category": "Character",
+    "word": "Godric Gryffindor"
+  },
+  {
+    "category": "Character",
+    "word": "Rubeus Hagrid"
+  },
+  {
+    "category": "Character",
+    "word": "Rolanda Hooch"
+  },
+  {
+    "category": "Character",
+    "word": "Mafalda Hopkirk"
+  },
+  {
+    "category": "Character",
+    "word": "Helga Hufflepuff"
+  },
+  {
+    "category": "Character",
+    "word": "Angelina Johnson"
+  },
+  {
+    "category": "Character",
+    "word": "Lee Jordan"
+  },
+  {
+    "category": "Character",
+    "word": "Bertha Jorkins"
+  },
+  {
+    "category": "Character",
+    "word": "Igor Karkaroff"
+  },
+  {
+    "category": "Character",
+    "word": "Viktor Krum"
+  },
+  {
+    "category": "Character",
+    "word": "Silvanus Kettleburn"
+  },
+  {
+    "category": "Character",
+    "word": "Bellatrix Lestrange"
+  },
+  {
+    "category": "Character",
+    "word": "Rabastan Lestrange"
+  },
+  {
+    "category": "Character",
+    "word": "Rodolphus Lestrange"
+  },
+  {
+    "category": "Character",
+    "word": "Gilderoy Lockhart"
+  },
+  {
+    "category": "Character",
+    "word": "Alice Longbottom"
+  },
+  {
+    "category": "Character",
+    "word": "Frank Longbottom"
+  },
+  {
+    "category": "Character",
+    "word": "Augusta Longbottom"
+  },
+  {
+    "category": "Character",
+    "word": "Neville Longbottom"
+  },
+  {
+    "category": "Character",
+    "word": "Luna Lovegood"
+  },
+  {
+    "category": "Character",
+    "word": "Xenophilius Lovegood"
+  },
+  {
+    "category": "Character",
+    "word": "Remus Lupin"
+  },
+  {
+    "category": "Character",
+    "word": "Teddy Lupin"
+  },
+  {
+    "category": "Character",
+    "word": "Walden Macnair"
+  },
+  {
+    "category": "Character",
+    "word": "Draco Malfoy"
+  },
+  {
+    "category": "Character",
+    "word": "Lucius Malfoy"
+  },
+  {
+    "category": "Character",
+    "word": "Narcissa Malfoy"
+  },
+  {
+    "category": "Character",
+    "word": "Scorpius Malfoy"
+  },
+  {
+    "category": "Character",
+    "word": "Madam Malkin"
+  },
+  {
+    "category": "Character",
+    "word": "Griselda Marchbanks"
+  },
+  {
+    "category": "Character",
+    "word": "Olympe Maxime"
+  },
+  {
+    "category": "Character",
+    "word": "Ernie Macmillan"
+  },
+  {
+    "category": "Character",
+    "word": "Minerva McGonagall"
+  },
+  {
+    "category": "Character",
+    "word": "Eloise Midgen"
+  },
+  {
+    "category": "Character",
+    "word": "Cormac McLaggen"
+  },
+  {
+    "category": "Character",
+    "word": "Graham Montague"
+  },
+  {
+    "category": "Character",
+    "word": "Alastor Moody"
+  },
+  {
+    "category": "Character",
+    "word": "Theodore Nott"
+  },
+  {
+    "category": "Character",
+    "word": "Nott Sr."
+  },
+  {
+    "category": "Character",
+    "word": "Bob Ogden"
+  },
+  {
+    "category": "Character",
+    "word": "Garrick Ollivander"
+  },
+  {
+    "category": "Character",
+    "word": "Pansy Parkinson"
+  },
+  {
+    "category": "Character",
+    "word": "Padma Patil"
+  },
+  {
+    "category": "Character",
+    "word": "Parvati Patil"
+  },
+  {
+    "category": "Character",
+    "word": "Peter Pettigrew"
+  },
+  {
+    "category": "Character",
+    "word": "Antioch Peverell"
+  },
+  {
+    "category": "Character",
+    "word": "Cadmus Peverell"
+  },
+  {
+    "category": "Character",
+    "word": "Ignotus Peverell"
+  },
+  {
+    "category": "Character",
+    "word": "Irma Pince"
+  },
+  {
+    "category": "Character",
+    "word": "Sturgis Podmore"
+  },
+  {
+    "category": "Character",
+    "word": "Poppy Pomfrey"
+  },
+  {
+    "category": "Character",
+    "word": "Harry Potter"
+  },
+  {
+    "category": "Character",
+    "word": "James Potter"
+  },
+  {
+    "category": "Character",
+    "word": "Lily Potter"
+  },
+  {
+    "category": "Character",
+    "word": "Albus Severus Potter"
+  },
+  {
+    "category": "Character",
+    "word": "James Sirius Potter"
+  },
+  {
+    "category": "Character",
+    "word": "Lily Luna Potter"
+  },
+  {
+    "category": "Character",
+    "word": "Quirinus Quirrell"
+  },
+  {
+    "category": "Character",
+    "word": "Helena Ravenclaw"
+  },
+  {
+    "category": "Character",
+    "word": "The Grey Lady"
+  },
+  {
+    "category": "Character",
+    "word": "Rowena Ravenclaw"
+  },
+  {
+    "category": "Character",
+    "word": "Mary Riddle"
+  },
+  {
+    "category": "Character",
+    "word": "Thomas Riddle"
+  },
+  {
+    "category": "Character",
+    "word": "Demelza Robins"
+  },
+  {
+    "category": "Character",
+    "word": "Augustus Rookwood"
+  },
+  {
+    "category": "Character",
+    "word": "Thorfinn Rowle"
+  },
+  {
+    "category": "Character",
+    "word": "Albert Runcorn"
+  },
+  {
+    "category": "Character",
+    "word": "Newt Scamander"
+  },
+  {
+    "category": "Character",
+    "word": "Rufus Scrimgeour"
+  },
+  {
+    "category": "Character",
+    "word": "Kingsley Shacklebolt"
+  },
+  {
+    "category": "Character",
+    "word": "Stan Shunpike"
+  },
+  {
+    "category": "Character",
+    "word": "Aurora Sinistra"
+  },
+  {
+    "category": "Character",
+    "word": "Rita Skeeter"
+  },
+  {
+    "category": "Character",
+    "word": "Horace Slughorn"
+  },
+  {
+    "category": "Character",
+    "word": "Salazar Slytherin"
+  },
+  {
+    "category": "Character",
+    "word": "Zacharias Smith"
+  },
+  {
+    "category": "Character",
+    "word": "Severus Snape"
+  },
+  {
+    "category": "Character",
+    "word": "Alicia Spinnet"
+  },
+  {
+    "category": "Character",
+    "word": "Pomona Sprout"
+  },
+  {
+    "category": "Character",
+    "word": "Pius Thicknesse"
+  },
+  {
+    "category": "Character",
+    "word": "Dean Thomas"
+  },
+  {
+    "category": "Character",
+    "word": "Andromeda Tonks"
+  },
+  {
+    "category": "Character",
+    "word": "Nymphadora Tonks"
+  },
+  {
+    "category": "Character",
+    "word": "Ted Tonks"
+  },
+  {
+    "category": "Character",
+    "word": "Sybill Trelawney"
+  },
+  {
+    "category": "Character",
+    "word": "Wilkie Twycross"
+  },
+  {
+    "category": "Character",
+    "word": "Dolores Umbridge"
+  },
+  {
+    "category": "Character",
+    "word": "Emmeline Vance"
+  },
+  {
+    "category": "Character",
+    "word": "Romilda Vane"
+  },
+  {
+    "category": "Character",
+    "word": "Septima Vector"
+  },
+  {
+    "category": "Character",
+    "word": "Lord Voldemort"
+  },
+  {
+    "category": "Character",
+    "word": "Myrtle Warren"
+  },
+  {
+    "category": "Character",
+    "word": "Moaning Myrtle"
+  },
+  {
+    "category": "Character",
+    "word": "Arthur Weasley"
+  },
+  {
+    "category": "Character",
+    "word": "Bill Weasley"
+  },
+  {
+    "category": "Character",
+    "word": "Charlie Weasley"
+  },
+  {
+    "category": "Character",
+    "word": "Fred Weasley"
+  },
+  {
+    "category": "Character",
+    "word": "George Weasley"
+  },
+  {
+    "category": "Character",
+    "word": "Ginny Weasley"
+  },
+  {
+    "category": "Character",
+    "word": "Hugo Weasley"
+  },
+  {
+    "category": "Character",
+    "word": "Rose Weasley"
+  },
+  {
+    "category": "Character",
+    "word": "Molly Weasley"
+  },
+  {
+    "category": "Character",
+    "word": "Percy Weasley"
+  },
+  {
+    "category": "Character",
+    "word": "Ron Weasley"
+  },
+  {
+    "category": "Character",
+    "word": "Oliver Wood"
+  },
+  {
+    "category": "Character",
+    "word": "Corban Yaxley"
+  },
+  {
+    "category": "Character",
+    "word": "Blaise Zabini"
+  },
+  {
+    "category": "Character",
+    "word": "Aragog"
+  },
+  {
+    "category": "Character",
+    "word": "Bane"
+  },
+  {
+    "category": "Character",
+    "word": "Beedle the Bard"
+  },
+  {
+    "category": "Character",
+    "word": "The Bloody Baron"
+  },
+  {
+    "category": "Character",
+    "word": "Bogrod"
+  },
+  {
+    "category": "Character",
+    "word": "Buckbeak"
+  },
+  {
+    "category": "Character",
+    "word": "Sir Cadogan"
+  },
+  {
+    "category": "Character",
+    "word": "Crookshanks"
+  },
+  {
+    "category": "Character",
+    "word": "Dobby"
+  },
+  {
+    "category": "Character",
+    "word": "Errol"
+  },
+  {
+    "category": "Character",
+    "word": "Fang"
+  },
+  {
+    "category": "Character",
+    "word": "The Fat Friar"
+  },
+  {
+    "category": "Character",
+    "word": "The Fat Lady"
+  },
+  {
+    "category": "Character",
+    "word": "Fawkes"
+  },
+  {
+    "category": "Character",
+    "word": "Firenze"
+  },
+  {
+    "category": "Character",
+    "word": "Fluffy"
+  },
+  {
+    "category": "Character",
+    "word": "Gornuk"
+  },
+  {
+    "category": "Character",
+    "word": "Grawp"
+  },
+  {
+    "category": "Character",
+    "word": "Griphook"
+  },
+  {
+    "category": "Character",
+    "word": "Hedwig"
+  },
+  {
+    "category": "Character",
+    "word": "Hokey"
+  },
+  {
+    "category": "Character",
+    "word": "Kreacher"
+  },
+  {
+    "category": "Character",
+    "word": "Magorian"
+  },
+  {
+    "category": "Character",
+    "word": "Great-Aunt Muriel"
+  },
+  {
+    "category": "Character",
+    "word": "Nagini"
+  },
+  {
+    "category": "Character",
+    "word": "Nearly Headless Nick"
+  },
+  {
+    "category": "Character",
+    "word": "Norbert"
+  },
+  {
+    "category": "Character",
+    "word": "Peeves"
+  },
+  {
+    "category": "Character",
+    "word": "Pigwidgeon"
+  },
+  {
+    "category": "Character",
+    "word": "Madam Rosmerta"
+  },
+  {
+    "category": "Character",
+    "word": "Ronan"
+  },
+  {
+    "category": "Character",
+    "word": "Scabbers"
+  },
+  {
+    "category": "Character",
+    "word": "Scabior"
+  },
+  {
+    "category": "Character",
+    "word": "Travers"
+  },
+  {
+    "category": "Character",
+    "word": "Trevor"
+  },
+  {
+    "category": "Character",
+    "word": "Winky"
+  }
+]

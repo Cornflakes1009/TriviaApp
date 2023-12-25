@@ -6,14 +6,31 @@
 //
 
 import UIKit
+import AVFoundation
+
+var backgroundMusic: AVAudioPlayer?
+
+let prodAdMobsKey = AppConstants.prodAdMobsKey
+let testingAdMobsKey = AppConstants.testingAdMobsKey
+
+let path = Bundle.main.path(forResource: "background_music.mp3", ofType: nil)!
+let url = URL(fileURLWithPath: path)
+
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        
+        do {
+            backgroundMusic = try AVAudioPlayer(contentsOf: url)
+            backgroundMusic?.numberOfLoops = -1
+            backgroundMusic?.play()
+        } catch {
+            // couldn't load file :(
+            print("failed")
+        }
+        
         return true
     }
 
