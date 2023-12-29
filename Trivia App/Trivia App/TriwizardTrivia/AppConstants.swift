@@ -32,12 +32,18 @@ struct AppConstants {
     static let appName = "TriwizardTrivia"
     static let showCategories = [("Harry Potter", "example.json"), ("Fantastic Beasts", "example2.json")]
     
+    // JSON Files
+    static let classicTrivia = "harryPotterSoloQuestions.json"
+    static let hangmanJSONList = ["Characters.json", "Death Eaters.json", "Locations.json", "Magical Beasts.json", "Order Members.json", "Potions.json", "Spells.json"]
+    
     static let gameCategories: [GameCategory] = [
-        GameCategory(name: "Classic", vc: ClassicVC()),
+        GameCategory(name: "Classic", vc: NumberOfQuestionsSelectVC()),
         GameCategory(name: "Blitz", vc: BlitzVC()),
         GameCategory(name: "Survival", vc: SurvivalVC()),
         GameCategory(name: "Potions Class", vc: HangmanVC())
     ]
+    
+    static let questionNumberOptions: [(String, Int)] = [("Fifteen", 15), ("Twenty-Five", 25), ("Fifty", 50), ("One Hundred", 100)]
     
     static let hangmanCategories: [HangmanCategories] = [
         HangmanCategories(name: "Characters", file: "Characters.json"),

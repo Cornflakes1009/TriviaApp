@@ -1,34 +1,37 @@
 //
-//  HomeScreenButton.swift
-//  TriwizardTrivia
+//  GameButton.swift
+//  sparkle-trivia
 //
-//  Created by HaroldDavidson on 12/16/23.
+//  Created by HaroldDavidson on 12/26/23.
 //
+
 
 import UIKit
 
-class HomeScreenButton: UIButton {
+class GameButton: UIButton {
     override init(frame: CGRect) {
         super.init(frame: frame)
     }
     
-    init(title: String, fontColor: UIColor) {
+    init(title: String, backgroundColor: UIColor = UIColor.rgb(red: 125, green: 25, blue: 21, alpha: 1), fontColor: UIColor) {
         super.init(frame: .zero)
-        var configuration = UIButton.Configuration.plain()
-        configuration.contentInsets = NSDirectionalEdgeInsets(top: 5, leading: 0, bottom: 0, trailing: 0)
-        configuration.title = title
-        
-        self.configuration = configuration
-        //setTitle(title, for: .normal)
-        setTitleColor(.white, for: .normal)
-        titleLabel?.font = AppConstants.instructionLabelFont
+        setTitle(title, for: .normal)
+        self.setTitleColor(fontColor, for: .normal)
+        self.backgroundColor = UIColor.rgb(red: 125, green: 25, blue: 21, alpha: 1)
+        layer.cornerRadius = 5
+        titleLabel?.font = AppConstants.buttonFont
+        setTitleShadowColor(.black, for: .normal)
+        titleLabel?.layer.shadowRadius = 3.0
+        titleLabel?.layer.shadowOpacity = 1.0
+        titleLabel?.layer.shadowOffset = CGSize(width: 4, height: 4)
+        titleLabel?.layer.masksToBounds = false
+        titleLabel?.font = AppConstants.buttonFont
+        isEnabled = true
+        layer.shadowColor = UIColor(red: 0, green: 0, blue: 0, alpha: 0.95).cgColor
         layer.shadowOffset = CGSize(width: 0, height: 3)
         layer.shadowOpacity = 1.0
         layer.shadowRadius = 10.0
         layer.masksToBounds = false
-//        layer.borderColor = CGColor(red: 255/255, green: 255/255, blue: 255/255, alpha: 1)
-//        layer.borderWidth = 1
-//        layer.cornerRadius = 5
         translatesAutoresizingMaskIntoConstraints = false
     }
     
@@ -52,4 +55,5 @@ class HomeScreenButton: UIButton {
         vibrate()
     }
 }
+
 

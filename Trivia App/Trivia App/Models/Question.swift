@@ -7,17 +7,31 @@
 
 import Foundation
 
-//@Observable
-class ClassicModelData {
+class QuestionModelData {
     var json = ""
     var questions: [Question]
-    init(json: String) {
+    init(json: String, numberOfQuestions: Int) {
         self.json = json
-        self.questions = load(self.json)
+        self.questions = loadQuestions(self.json)
+        self.questions = Array(questions.prefix(numberOfQuestions))
+        questions = randomizeAnswers(questions: questions)
+    }
+    
+    fileprivate func randomizeAnswers(questions: [Question]) -> [Question] {
+        self.questions = questions.shuffled()
+        for var question in self.questions {
+            var answerArray = [question.optionZero, question.optionOne, question.optionTwo, question.optionThree]
+            let answer = answerArray[question.answer ?? 0]
+            answerArray.shuffle()
+            question.answer = answerArray.firstIndex(where: {
+                $0 == answer
+            })
+        }
+        return questions
     }
 }
 
-func load<T: Decodable>(_ filename: String) -> T {
+func loadQuestions<T: Decodable>(_ filename: String) -> T {
     let data: Data
     guard let file = Bundle.main.url(forResource: filename, withExtension: nil)
     else {
@@ -39,9 +53,9 @@ func load<T: Decodable>(_ filename: String) -> T {
 struct Question: Codable {
     let category: String?
     let question: String?
-    let answer: Int?
-    let optionZero: Int?
-    let optionOne: Int?
-    let optionTwo: Int?
-    let optionThree: Int?
+    var answer: Int?
+    let optionZero: String?
+    let optionOne: String?
+    let optionTwo: String?
+    let optionThree: String?
 }

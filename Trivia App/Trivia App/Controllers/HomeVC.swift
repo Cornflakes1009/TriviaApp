@@ -51,8 +51,17 @@ class HomeVC: UIViewController {
     }()
     
     fileprivate let creditsButton = HomeScreenButton(title: "Credits", fontColor: AppConstants.labelColor)
-    fileprivate let scoresButton = HomeScreenButton(title: "Scores", fontColor: AppConstants.labelColor)
+    fileprivate let scoresButton = HomeScreenButton(title: "Leaderboards", fontColor: AppConstants.labelColor)
     fileprivate let contactButton = HomeScreenButton(title: "Contact", fontColor: AppConstants.labelColor)
+    
+    fileprivate let horizontalStackView = {
+        let sv = UIStackView()
+        sv.distribution = .fill
+        sv.distribution = .fillEqually
+        sv.axis = .horizontal
+        sv.spacing = 10
+        return sv
+    }()
     
     // MARK: - Lifecycle Methods
     override func viewDidLoad() {
@@ -90,7 +99,7 @@ class HomeVC: UIViewController {
     fileprivate func setUpUI() {
         gearButton.delegate = self
         
-        var views: [UIView] = [appTitleLabel, gearButton]
+        var views: [UIView] = [appTitleLabel, gearButton, horizontalStackView]
         view.backgroundColor = AppConstants.backgroundColor
         playBackgroundVideo()
         
@@ -118,6 +127,7 @@ class HomeVC: UIViewController {
         // If an app has more than one category, show all of the categories. Otherwise, show a play button.
         if AppConstants.showCategories.count > 1 {
             setUpCategoryStackView()
+            setUpHorizontalStackView()
             NSLayoutConstraint.activate([
                 categoryStackView.centerYAnchor.constraint(equalTo: view.centerYAnchor),
                 categoryStackView.leadingAnchor.constraint(equalTo: view.leadingAnchor, constant: 20),
@@ -155,6 +165,21 @@ class HomeVC: UIViewController {
             button.addTarget(self, action: #selector(categoryTapped(_:)), for: .touchUpInside)
             button.heightAnchor.constraint(equalToConstant: 75).isActive = true
         }
+    }
+    
+    fileprivate func setUpHorizontalStackView() {
+        let views = [scoresButton]
+        views.forEach { view in
+            horizontalStackView.addArrangedSubview(view)
+        }
+        
+        NSLayoutConstraint.activate([
+            horizontalStackView.topAnchor.constraint(equalTo: categoryStackView.bottomAnchor, constant: 20),
+            horizontalStackView.leftAnchor.constraint(equalTo: categoryStackView.leftAnchor, constant: 20),
+            horizontalStackView.rightAnchor.constraint(equalTo: categoryStackView.rightAnchor, constant: -20),
+            
+        ])
+        
     }
     
     // MARK: - Notifications

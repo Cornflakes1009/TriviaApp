@@ -25,7 +25,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         do {
             backgroundMusic = try AVAudioPlayer(contentsOf: url)
             backgroundMusic?.numberOfLoops = -1
-            backgroundMusic?.play()
+            //backgroundMusic?.play()
         } catch {
             // couldn't load file :(
             print("failed")

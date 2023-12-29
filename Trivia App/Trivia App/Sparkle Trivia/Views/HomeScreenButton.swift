@@ -1,8 +1,8 @@
 //
 //  HomeScreenButton.swift
-//  TriwizardTrivia
+//  sparkle-trivia
 //
-//  Created by HaroldDavidson on 12/16/23.
+//  Created by HaroldDavidson on 12/26/23.
 //
 
 import UIKit
@@ -52,4 +52,5 @@ class HomeScreenButton: UIButton {
         vibrate()
     }
 }
+
 
