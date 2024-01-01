@@ -18,7 +18,7 @@ import UIKit
 struct AppConstants {
     static let backgroundColor = UIColor.rgb(red: 50, green: 50, blue: 50, alpha: 1)
     static let gryffindorColor = UIColor.rgb(red: 125, green: 25, blue: 21, alpha: 1)
-    static let labelColor       = UIColor.white
+    static let labelColor      = UIColor.white
     static let backgroundImage = UIImage(named: "")
     static let backgroundVideo = "smoke"
     static let backgroundMusic = ""

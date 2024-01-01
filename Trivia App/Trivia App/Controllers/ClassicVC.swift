@@ -13,15 +13,17 @@ class ClassicVC: UIViewController {
     var player: AVPlayer?
     
     fileprivate var questions: QuestionModelData?
-    //fileprivate var questions = QuestionModelData(json: AppConstants.classicTrivia, numberOfQuestions: 0).questions
     var selectedNumberOfQuestions = 0
     fileprivate var questionIndex = 0
     fileprivate var score = 0
                               
     fileprivate let gearButton = GearButton()
     fileprivate let backButton = BackButton()
+    fileprivate let helpButton = HelpButton()
     
     fileprivate var gameButtons = [GameButton]()
+    
+    fileprivate let exitView = ExitView(frame: CGRect(x: 0, y: 0, width: 300, height: 300))
     
     fileprivate let questionLabel = {
         let label = UILabel()
@@ -55,10 +57,7 @@ class ClassicVC: UIViewController {
     }
     
     override func viewDidAppear(_ animated: Bool) {
-        // making the question label fade in
-        UIView.animate(withDuration: 3.5) {
-            self.questionLabel.alpha = 1
-        }
+ 
     }
     
     // MARK: - Setting Up UI
@@ -68,9 +67,9 @@ class ClassicVC: UIViewController {
         
         playBackgroundVideo()
         updateUI()
-        setUpQuestionStackView()
+        setUpAnswerStackView()
         
-        let views: [UIView] = [backButton, gearButton, questionLabel, questionStackView, bannerView]
+        let views: [UIView] = [backButton, gearButton, helpButton, questionLabel, questionStackView, bannerView]
         views.forEach({
             $0.translatesAutoresizingMaskIntoConstraints = false
             view.addSubview($0)
@@ -87,6 +86,11 @@ class ClassicVC: UIViewController {
             gearButton.heightAnchor.constraint(equalToConstant: 50),
             gearButton.widthAnchor.constraint(equalToConstant: 50),
             
+            helpButton.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor, constant: 0),
+            helpButton.rightAnchor.constraint(equalTo: gearButton.leftAnchor, constant: 0),
+            helpButton.heightAnchor.constraint(equalToConstant: 50),
+            helpButton.widthAnchor.constraint(equalToConstant: 50),
+            
             questionLabel.topAnchor.constraint(equalTo: backButton.bottomAnchor, constant: 20),
             questionLabel.leftAnchor.constraint(equalTo: backButton.leftAnchor, constant: 20),
             questionLabel.rightAnchor.constraint(equalTo: view.rightAnchor, constant: -20),
@@ -99,13 +103,12 @@ class ClassicVC: UIViewController {
             bannerView.rightAnchor.constraint(equalTo: view.rightAnchor),
             bannerView.heightAnchor.constraint(equalToConstant: 50),
             bannerView.bottomAnchor.constraint(equalTo: view.safeAreaLayoutGuide.bottomAnchor),
-            
         ])
     }
     
-    fileprivate func setUpQuestionStackView() {
-        for (index, category) in AppConstants.gameCategories.enumerated() {
-            let button = GameButton(title: category.name, fontColor: .white)
+    fileprivate func setUpAnswerStackView() {
+        for index in 1...4 {
+            let button = GameButton(title: "", fontColor: .white)
             button.tag = index
             questionStackView.addArrangedSubview(button)
             button.addTarget(self, action: #selector(modeCategoryTapped(_:)), for: .touchUpInside)
@@ -115,16 +118,24 @@ class ClassicVC: UIViewController {
     }
     
     fileprivate func updateUI() {
-        questionLabel.text = questions?.questions[questionIndex].question
-        
-        for (index, button) in gameButtons.enumerated() {
-            
+        DispatchQueue.main.async { [self] in
+            let answers = [questions?.questions[self.questionIndex].optionZero, questions?.questions[self.questionIndex].optionOne, questions?.questions[self.questionIndex].optionTwo, questions?.questions[self.questionIndex].optionThree]
+            for (index, button) in gameButtons.enumerated() {
+                UIView.animate(withDuration: 0.8, delay: 0.0, options:[.allowUserInteraction, .curveEaseInOut], animations: { [self] in button.titleLabel?.alpha = 0
+                    questionLabel.alpha = 0
+                }, completion: { [self]_ in
+                    button.setTitle(answers[index], for: .normal)
+                    questionLabel.text = questions?.questions[questionIndex].question
+                    UIView.animate(withDuration: 0.8, delay: 0.0, options:[.allowUserInteraction, .curveEaseInOut], animations: { [self] in button.titleLabel?.alpha = 1
+                        questionLabel.alpha = 1
+                    }, completion: nil)
+                })
+            }
         }
     }
     
     fileprivate func getQuestions(num: Int) {
         questions = QuestionModelData(json: AppConstants.classicTrivia, numberOfQuestions: num)
-        dump(questions)
     }
     
     // MARK: - Background Video
@@ -153,17 +164,15 @@ class ClassicVC: UIViewController {
     @objc func modeCategoryTapped(_ sender: UIButton) {
         // check if question index before incrementing - should transition to results screen if questionIndex == selectedNumberOfQuestions.
         questionIndex += 1
-        UIView.animate(withDuration: 1, delay: 0.0, options:[.allowUserInteraction, .curveEaseInOut], animations: { self.questionLabel.alpha = 0 }, completion: {_ in
-            self.updateUI()
-            UIView.animate(withDuration: 1, delay: 0.0, options:[.allowUserInteraction, .curveEaseInOut], animations: { self.questionLabel.alpha = 1 }, completion: nil)
-        })
+        self.updateUI()
         
     }
 }
 
 extension ClassicVC: BackButtonDelegate {
     func backButtonTapped() {
-        self.navigationController?.popViewController(animated: true)
+        view.addSubview(exitView)
+        //self.navigationController?.popViewController(animated: true)
     }
 }
 

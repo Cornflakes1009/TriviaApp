@@ -13,21 +13,25 @@ class QuestionModelData {
     init(json: String, numberOfQuestions: Int) {
         self.json = json
         self.questions = loadQuestions(self.json)
-        self.questions = Array(questions.prefix(numberOfQuestions))
-        questions = randomizeAnswers(questions: questions)
+        questions = randomizeAnswers(questions: questions, numberOfQuestions: numberOfQuestions)
     }
     
-    fileprivate func randomizeAnswers(questions: [Question]) -> [Question] {
+    fileprivate func randomizeAnswers(questions: [Question], numberOfQuestions: Int) -> [Question] {
         self.questions = questions.shuffled()
+        self.questions = Array(self.questions.prefix(numberOfQuestions))
         for var question in self.questions {
             var answerArray = [question.optionZero, question.optionOne, question.optionTwo, question.optionThree]
             let answer = answerArray[question.answer ?? 0]
             answerArray.shuffle()
+            question.optionZero = answerArray[0]
+            question.optionOne = answerArray[1]
+            question.optionTwo = answerArray[2]
+            question.optionThree = answerArray[3]
             question.answer = answerArray.firstIndex(where: {
                 $0 == answer
             })
         }
-        return questions
+        return self.questions
     }
 }
 
@@ -54,8 +58,8 @@ struct Question: Codable {
     let category: String?
     let question: String?
     var answer: Int?
-    let optionZero: String?
-    let optionOne: String?
-    let optionTwo: String?
-    let optionThree: String?
+    var optionZero: String?
+    var optionOne: String?
+    var optionTwo: String?
+    var optionThree: String?
 }
