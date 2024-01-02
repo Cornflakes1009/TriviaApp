@@ -21,7 +21,7 @@ struct AppConstants {
     static let labelColor      = UIColor.white
     static let backgroundImage = UIImage(named: "")
     static let backgroundVideo = "smoke"
-    static let backgroundMusic = ""
+    static let backgroundMusic = "background_music.mp3"
     
     static let prodAdMobsKey = "ca-app-pub-6504174477930496/1611814353"
     static let testingAdMobsKey = "ca-app-pub-3940256099942544/2934735716"

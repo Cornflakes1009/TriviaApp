@@ -16,22 +16,12 @@ class NumberOfQuestionsSelectVC: UIViewController {
     fileprivate let backButton = BackButton()
     fileprivate let helpButton = HelpButton()
     
-    var titleLabel = {
-        let label = UILabel()
-        //label.text = AppConstants.appName
-        label.numberOfLines = 0
-        label.textAlignment = .center
-        label.font = AppConstants.titleFont
-        label.textColor = .white
-        label.alpha = 0
-        return label
-    }()
-    
     fileprivate let instructionLabel = {
         let label = UILabel()
         label.text = "Select the Number of Questions"
         label.font = AppConstants.instructionLabelFont
         label.textAlignment = .center
+        label.numberOfLines = 0
         label.textColor = AppConstants.labelColor
         return label
     }()
@@ -52,10 +42,11 @@ class NumberOfQuestionsSelectVC: UIViewController {
     }
     
     override func viewDidAppear(_ animated: Bool) {
-        // making the title label fade in
-        UIView.animate(withDuration: 4.5) {
-            self.titleLabel.alpha = 1
-        }
+        player?.play()
+    }
+    
+    override func viewDidDisappear(_ animated: Bool) {
+        player?.pause()
     }
     
     // MARK: - Setting Up UI
@@ -66,7 +57,7 @@ class NumberOfQuestionsSelectVC: UIViewController {
         
         playBackgroundVideo()
         setUpCategoryStackView()
-        let views: [UIView] = [backButton, gearButton, helpButton, titleLabel, instructionLabel, modeCategoryStackView]
+        let views: [UIView] = [backButton, gearButton, helpButton, instructionLabel, modeCategoryStackView]
         views.forEach({
             $0.translatesAutoresizingMaskIntoConstraints = false
             view.addSubview($0)
@@ -88,26 +79,19 @@ class NumberOfQuestionsSelectVC: UIViewController {
             helpButton.heightAnchor.constraint(equalToConstant: 50),
             helpButton.widthAnchor.constraint(equalToConstant: 50),
             
-            titleLabel.topAnchor.constraint(equalTo: gearButton.bottomAnchor, constant: 20),
-            titleLabel.leadingAnchor.constraint(equalTo: view.leadingAnchor, constant: 20),
-            titleLabel.trailingAnchor.constraint(equalTo: view.trailingAnchor, constant: -20),
-            
-            instructionLabel.topAnchor.constraint(equalTo: titleLabel.bottomAnchor, constant: 20),
+            instructionLabel.topAnchor.constraint(equalTo: backButton.bottomAnchor, constant: 20),
             instructionLabel.leadingAnchor.constraint(equalTo: view.leadingAnchor, constant: 20),
             instructionLabel.trailingAnchor.constraint(equalTo: view.trailingAnchor, constant: -20),
             
             modeCategoryStackView.topAnchor.constraint(equalTo: instructionLabel.bottomAnchor, constant: 20),
             modeCategoryStackView.leadingAnchor.constraint(equalTo: view.leadingAnchor, constant: 20),
             modeCategoryStackView.trailingAnchor.constraint(equalTo: view.trailingAnchor, constant: -20),
-            
-            
-            
         ])
     }
     
     fileprivate func setUpCategoryStackView() {
         for (option, index) in AppConstants.questionNumberOptions {
-            let button = GameButton(title: option, fontColor: .white)
+            let button = GameButton(title: option, fontColor: AppConstants.labelColor)
             button.tag = index
             modeCategoryStackView.addArrangedSubview(button)
             button.addTarget(self, action: #selector(modeCategoryTapped(_:)), for: .touchUpInside)

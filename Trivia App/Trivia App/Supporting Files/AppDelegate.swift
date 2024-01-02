@@ -13,7 +13,7 @@ var backgroundMusic: AVAudioPlayer?
 let prodAdMobsKey = AppConstants.prodAdMobsKey
 let testingAdMobsKey = AppConstants.testingAdMobsKey
 
-let path = Bundle.main.path(forResource: "background_music.mp3", ofType: nil)!
+let path = Bundle.main.path(forResource: AppConstants.backgroundMusic, ofType: nil)!
 let url = URL(fileURLWithPath: path)
 
 
@@ -25,7 +25,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         do {
             backgroundMusic = try AVAudioPlayer(contentsOf: url)
             backgroundMusic?.numberOfLoops = -1
-            //backgroundMusic?.play()
+            backgroundMusic?.play()
         } catch {
             // couldn't load file :(
             print("failed")

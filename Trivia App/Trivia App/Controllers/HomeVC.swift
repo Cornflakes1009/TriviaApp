@@ -25,7 +25,7 @@ class HomeVC: UIViewController {
         label.numberOfLines = 0
         label.textAlignment = .center
         label.font = AppConstants.titleFont
-        label.textColor = .white
+        label.textColor = AppConstants.labelColor
         label.alpha = 0
         return label
     }()
@@ -160,7 +160,7 @@ class HomeVC: UIViewController {
     
     fileprivate func setUpCategoryStackView() {
         for category in AppConstants.showCategories {
-            let button = GameButton(title: category.0, fontColor: .white)
+            let button = GameButton(title: category.0, fontColor: AppConstants.labelColor)
             categoryStackView.addArrangedSubview(button)
             button.addTarget(self, action: #selector(categoryTapped(_:)), for: .touchUpInside)
             button.heightAnchor.constraint(equalToConstant: 75).isActive = true

@@ -1,20 +1,20 @@
 //
-//  ExitView.swift
+//  WrongAnswer.swift
 //  Trivia App
 //
-//  Created by HaroldDavidson on 1/1/24.
+//  Created by HaroldDavidson on 1/2/24.
 //
 
 import UIKit
 
-protocol ExitViewDelegate {
+protocol WrongAnswerViewelegate {
     func exitTapped()
     func cancelTapped()
 }
 
-class ExitView: UIView {
+class WrongAnswerView: UIView {
     
-    var delegate: ExitViewDelegate?
+    var delegate: WrongAnswerViewelegate?
     
     let exitLabel = {
         let lbl = UILabel()
@@ -83,3 +83,4 @@ class ExitView: UIView {
         self.delegate?.exitTapped()
     }
 }
+

@@ -22,7 +22,7 @@ class ModeSelectVC: UIViewController {
         label.numberOfLines = 0
         label.textAlignment = .center
         label.font = AppConstants.titleFont
-        label.textColor = .white
+        label.textColor = AppConstants.labelColor
         label.alpha = 0
         return label
     }()
@@ -107,7 +107,7 @@ class ModeSelectVC: UIViewController {
     
     fileprivate func setUpCategoryStackView() {
         for (index, category) in AppConstants.gameCategories.enumerated() {
-            let button = GameButton(title: category.name, fontColor: .white)
+            let button = GameButton(title: category.name, fontColor: AppConstants.labelColor)
             button.tag = index
             modeCategoryStackView.addArrangedSubview(button)
             button.addTarget(self, action: #selector(modeCategoryTapped(_:)), for: .touchUpInside)

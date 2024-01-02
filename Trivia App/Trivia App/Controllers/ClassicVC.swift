@@ -16,7 +16,7 @@ class ClassicVC: UIViewController {
     var selectedNumberOfQuestions = 0
     fileprivate var questionIndex = 0
     fileprivate var score = 0
-                              
+    
     fileprivate let gearButton = GearButton()
     fileprivate let backButton = BackButton()
     fileprivate let helpButton = HelpButton()
@@ -25,11 +25,19 @@ class ClassicVC: UIViewController {
     
     fileprivate let exitView = ExitView(frame: CGRect(x: 0, y: 0, width: 300, height: 300))
     
+    fileprivate let scoreLabel = {
+        let label = UILabel()
+        label.font = AppConstants.instructionLabelFont
+        label.textColor = AppConstants.labelColor
+        label.alpha = 0
+        return label
+    }()
+    
     fileprivate let questionLabel = {
         let label = UILabel()
         label.numberOfLines = 0
         label.font = AppConstants.instructionLabelFont
-        label.textColor = .white
+        label.textColor = AppConstants.labelColor
         label.alpha = 0
         return label
     }()
@@ -52,24 +60,27 @@ class ClassicVC: UIViewController {
     // MARK: - Lifecycle Methods
     override func viewDidLoad() {
         super.viewDidLoad()
-        setUpUI()
         getQuestions(num: selectedNumberOfQuestions)
+        setUpUI()
     }
     
     override func viewDidAppear(_ animated: Bool) {
- 
+        
     }
     
     // MARK: - Setting Up UI
     fileprivate func setUpUI() {
         backButton.delegate = self
         gearButton.delegate = self
+        exitView.delegate = self
+        
+        exitView.alpha = 0
         
         playBackgroundVideo()
         updateUI()
         setUpAnswerStackView()
         
-        let views: [UIView] = [backButton, gearButton, helpButton, questionLabel, questionStackView, bannerView]
+        let views: [UIView] = [backButton, gearButton, helpButton, scoreLabel, questionLabel, questionStackView, bannerView]
         views.forEach({
             $0.translatesAutoresizingMaskIntoConstraints = false
             view.addSubview($0)
@@ -91,6 +102,10 @@ class ClassicVC: UIViewController {
             helpButton.heightAnchor.constraint(equalToConstant: 50),
             helpButton.widthAnchor.constraint(equalToConstant: 50),
             
+            scoreLabel.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor, constant: 5),
+            scoreLabel.centerXAnchor.constraint(equalTo: view.centerXAnchor),
+            //scoreLabel.rightAnchor.constraint(equalTo: helpButton.leftAnchor, constant: -20),
+            
             questionLabel.topAnchor.constraint(equalTo: backButton.bottomAnchor, constant: 20),
             questionLabel.leftAnchor.constraint(equalTo: backButton.leftAnchor, constant: 20),
             questionLabel.rightAnchor.constraint(equalTo: view.rightAnchor, constant: -20),
@@ -107,11 +122,11 @@ class ClassicVC: UIViewController {
     }
     
     fileprivate func setUpAnswerStackView() {
-        for index in 1...4 {
-            let button = GameButton(title: "", fontColor: .white)
+        for index in 0...3 {
+            let button = GameButton(title: "", fontColor: AppConstants.labelColor)
             button.tag = index
             questionStackView.addArrangedSubview(button)
-            button.addTarget(self, action: #selector(modeCategoryTapped(_:)), for: .touchUpInside)
+            button.addTarget(self, action: #selector(answerButtonTapped(_:)), for: .touchUpInside)
             button.heightAnchor.constraint(equalToConstant: 75).isActive = true
             gameButtons.append(button)
         }
@@ -123,11 +138,15 @@ class ClassicVC: UIViewController {
             for (index, button) in gameButtons.enumerated() {
                 UIView.animate(withDuration: 0.8, delay: 0.0, options:[.allowUserInteraction, .curveEaseInOut], animations: { [self] in button.titleLabel?.alpha = 0
                     questionLabel.alpha = 0
+                    //scoreLabel.text = "\(score)/\(questions?.questions.count ?? 0)"
+                    scoreLabel.alpha = 0
                 }, completion: { [self]_ in
                     button.setTitle(answers[index], for: .normal)
                     questionLabel.text = questions?.questions[questionIndex].question
                     UIView.animate(withDuration: 0.8, delay: 0.0, options:[.allowUserInteraction, .curveEaseInOut], animations: { [self] in button.titleLabel?.alpha = 1
                         questionLabel.alpha = 1
+                        scoreLabel.text = "\(score)/\(questions?.questions.count ?? 0)"
+                        scoreLabel.alpha = 1
                     }, completion: nil)
                 })
             }
@@ -161,9 +180,21 @@ class ClassicVC: UIViewController {
         player!.seek(to: CMTime.zero)
     }
     
-    @objc func modeCategoryTapped(_ sender: UIButton) {
-        // check if question index before incrementing - should transition to results screen if questionIndex == selectedNumberOfQuestions.
+    @objc func answerButtonTapped(_ sender: UIButton) {
+        if sender.tag == questions?.questions[questionIndex].answer {
+            score += 1
+        } else {
+            // TODO: show incorrect view
+        }
+        
+        
+        
         questionIndex += 1
+        if questionIndex + 1 == questions?.questions.count {
+            let vc = ResultsVC()
+            vc.score = score
+            self.navigationController?.pushViewController(vc, animated: true)
+        }
         self.updateUI()
         
     }
@@ -171,7 +202,17 @@ class ClassicVC: UIViewController {
 
 extension ClassicVC: BackButtonDelegate {
     func backButtonTapped() {
+        UIView.animate(withDuration: 1.2) {
+            self.exitView.alpha = 1
+        }
+        
         view.addSubview(exitView)
+        NSLayoutConstraint.activate([
+            exitView.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor, constant: 20),
+            exitView.leftAnchor.constraint(equalTo: view.leftAnchor, constant: 20),
+            exitView.rightAnchor.constraint(equalTo: view.rightAnchor, constant: -20),
+            exitView.bottomAnchor.constraint(equalTo: view.bottomAnchor, constant: -20),
+        ])
         //self.navigationController?.popViewController(animated: true)
     }
 }
@@ -181,4 +222,20 @@ extension ClassicVC: GearButtonDelegate {
         let vc = SettingsVC()
         self.navigationController?.pushViewController(vc, animated: true)
     }
+}
+
+extension ClassicVC: ExitViewDelegate {
+    func exitTapped() {
+        self.navigationController?.popViewController(animated: true)
+    }
+    
+    func cancelTapped() {
+        UIView.animate(withDuration: 1.2, delay: 0.0, options:[.allowUserInteraction, .curveEaseInOut], animations: { [self] in
+            self.exitView.alpha = 0
+        }, completion: {_ in
+            self.exitView.removeFromSuperview()
+        })
+    }
+    
+    
 }

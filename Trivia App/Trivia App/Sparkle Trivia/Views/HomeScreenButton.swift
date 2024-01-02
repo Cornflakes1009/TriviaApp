@@ -20,7 +20,7 @@ class HomeScreenButton: UIButton {
         
         self.configuration = configuration
         //setTitle(title, for: .normal)
-        setTitleColor(.white, for: .normal)
+        setTitleColor(AppConstants.labelColor, for: .normal)
         titleLabel?.font = AppConstants.instructionLabelFont
         layer.shadowOffset = CGSize(width: 0, height: 3)
         layer.shadowOpacity = 1.0
