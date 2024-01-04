@@ -149,12 +149,12 @@
 		D9E473A32B43E7C500AAEBFF /* ResultsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E4739F2B43E7C500AAEBFF /* ResultsVC.swift */; };
 		D9E473A42B43E7C500AAEBFF /* ResultsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E4739F2B43E7C500AAEBFF /* ResultsVC.swift */; };
 		D9E473A52B43E7C500AAEBFF /* ResultsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E4739F2B43E7C500AAEBFF /* ResultsVC.swift */; };
-		D9E473A72B43FDC500AAEBFF /* WrongAnswer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E473A62B43FDC500AAEBFF /* WrongAnswer.swift */; };
-		D9E473A82B43FDC500AAEBFF /* WrongAnswer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E473A62B43FDC500AAEBFF /* WrongAnswer.swift */; };
-		D9E473A92B43FDC500AAEBFF /* WrongAnswer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E473A62B43FDC500AAEBFF /* WrongAnswer.swift */; };
-		D9E473AA2B43FDC500AAEBFF /* WrongAnswer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E473A62B43FDC500AAEBFF /* WrongAnswer.swift */; };
-		D9E473AB2B43FDC500AAEBFF /* WrongAnswer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E473A62B43FDC500AAEBFF /* WrongAnswer.swift */; };
-		D9E473AC2B43FDC500AAEBFF /* WrongAnswer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E473A62B43FDC500AAEBFF /* WrongAnswer.swift */; };
+		D9E473A72B43FDC500AAEBFF /* WrongAnswerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E473A62B43FDC500AAEBFF /* WrongAnswerView.swift */; };
+		D9E473A82B43FDC500AAEBFF /* WrongAnswerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E473A62B43FDC500AAEBFF /* WrongAnswerView.swift */; };
+		D9E473A92B43FDC500AAEBFF /* WrongAnswerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E473A62B43FDC500AAEBFF /* WrongAnswerView.swift */; };
+		D9E473AA2B43FDC500AAEBFF /* WrongAnswerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E473A62B43FDC500AAEBFF /* WrongAnswerView.swift */; };
+		D9E473AB2B43FDC500AAEBFF /* WrongAnswerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E473A62B43FDC500AAEBFF /* WrongAnswerView.swift */; };
+		D9E473AC2B43FDC500AAEBFF /* WrongAnswerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E473A62B43FDC500AAEBFF /* WrongAnswerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -230,7 +230,7 @@
 		D9E473912B3D295D00AAEBFF /* NumberOfQuestionsSelectVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfQuestionsSelectVC.swift; sourceTree = "<group>"; };
 		D9E473982B43525400AAEBFF /* ExitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExitView.swift; sourceTree = "<group>"; };
 		D9E4739F2B43E7C500AAEBFF /* ResultsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsVC.swift; sourceTree = "<group>"; };
-		D9E473A62B43FDC500AAEBFF /* WrongAnswer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WrongAnswer.swift; sourceTree = "<group>"; };
+		D9E473A62B43FDC500AAEBFF /* WrongAnswerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WrongAnswerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -295,7 +295,7 @@
 				D93239AE2B32B9E6009DB51E /* GearButton.swift */,
 				D9566AA62B3959C300FE356D /* HelpButton.swift */,
 				D9E473982B43525400AAEBFF /* ExitView.swift */,
-				D9E473A62B43FDC500AAEBFF /* WrongAnswer.swift */,
+				D9E473A62B43FDC500AAEBFF /* WrongAnswerView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -713,7 +713,7 @@
 				D9566AA72B3959C300FE356D /* HelpButton.swift in Sources */,
 				D9E473992B43525400AAEBFF /* ExitView.swift in Sources */,
 				D93239A02B32AEC6009DB51E /* SettingsVC.swift in Sources */,
-				D9E473A72B43FDC500AAEBFF /* WrongAnswer.swift in Sources */,
+				D9E473A72B43FDC500AAEBFF /* WrongAnswerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -738,7 +738,7 @@
 				D9566AA82B3959C300FE356D /* HelpButton.swift in Sources */,
 				D9E4739A2B43525400AAEBFF /* ExitView.swift in Sources */,
 				D93239A12B32AEC6009DB51E /* SettingsVC.swift in Sources */,
-				D9E473A82B43FDC500AAEBFF /* WrongAnswer.swift in Sources */,
+				D9E473A82B43FDC500AAEBFF /* WrongAnswerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -748,7 +748,7 @@
 			files = (
 				D9566AB22B39652400FE356D /* Question.swift in Sources */,
 				D9E473A22B43E7C500AAEBFF /* ResultsVC.swift in Sources */,
-				D9E473A92B43FDC500AAEBFF /* WrongAnswer.swift in Sources */,
+				D9E473A92B43FDC500AAEBFF /* WrongAnswerView.swift in Sources */,
 				D93239A22B32AEC6009DB51E /* SettingsVC.swift in Sources */,
 				D9E4739B2B43525400AAEBFF /* ExitView.swift in Sources */,
 				D95277982B25B26B0089B91D /* AppDelegate.swift in Sources */,
@@ -774,7 +774,7 @@
 			files = (
 				D9566AB32B39652400FE356D /* Question.swift in Sources */,
 				D9E473A32B43E7C500AAEBFF /* ResultsVC.swift in Sources */,
-				D9E473AA2B43FDC500AAEBFF /* WrongAnswer.swift in Sources */,
+				D9E473AA2B43FDC500AAEBFF /* WrongAnswerView.swift in Sources */,
 				D93239A32B32AEC6009DB51E /* SettingsVC.swift in Sources */,
 				D9E4739C2B43525400AAEBFF /* ExitView.swift in Sources */,
 				D95277962B25B2410089B91D /* Extensions.swift in Sources */,
@@ -806,7 +806,7 @@
 				D952779B2B25B3CE0089B91D /* Extensions.swift in Sources */,
 				D93239D02B36E839009DB51E /* BlitzVC.swift in Sources */,
 				D95277A92B25B5A80089B91D /* AppConstants.swift in Sources */,
-				D9E473AB2B43FDC500AAEBFF /* WrongAnswer.swift in Sources */,
+				D9E473AB2B43FDC500AAEBFF /* WrongAnswerView.swift in Sources */,
 				D93239D72B36E84A009DB51E /* SurvivalVC.swift in Sources */,
 				D93239BB2B32CA0D009DB51E /* ModeSelectVC.swift in Sources */,
 				D9E4739D2B43525400AAEBFF /* ExitView.swift in Sources */,
@@ -834,7 +834,7 @@
 				D95277B42B25C03D0089B91D /* Extensions.swift in Sources */,
 				D93239CA2B36E81F009DB51E /* ClassicVC.swift in Sources */,
 				D91CA7D02B2C25C400263266 /* GameButton.swift in Sources */,
-				D9E473AC2B43FDC500AAEBFF /* WrongAnswer.swift in Sources */,
+				D9E473AC2B43FDC500AAEBFF /* WrongAnswerView.swift in Sources */,
 				D93239A52B32AEC6009DB51E /* SettingsVC.swift in Sources */,
 				D95277B62B25C03D0089B91D /* HomeVC.swift in Sources */,
 				D9E4739E2B43525400AAEBFF /* ExitView.swift in Sources */,

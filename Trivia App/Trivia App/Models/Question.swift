@@ -17,6 +17,20 @@ class QuestionModelData {
     }
     
     fileprivate func randomizeAnswers(questions: [Question], numberOfQuestions: Int) -> [Question] {
+        
+//        Finding the longest answer text to test against
+//        self.questions = self.questions.sorted(by: { $0.optionZero!.count > $1.optionZero!.count })
+//        print(self.questions[0].optionZero!)
+//        
+//        self.questions = self.questions.sorted(by: { $0.optionOne!.count > $1.optionOne!.count })
+//        print(self.questions[0].optionOne!)
+//        
+//        self.questions = self.questions.sorted(by: { $0.optionTwo!.count > $1.optionTwo!.count })
+//        print(self.questions[0].optionTwo!)
+//        
+//        self.questions = self.questions.sorted(by: { $0.optionThree!.count > $1.optionThree!.count })
+//        print(self.questions[0].optionThree!)
+        
         self.questions = questions.shuffled()
         self.questions = Array(self.questions.prefix(numberOfQuestions))
         for var question in self.questions {

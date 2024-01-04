@@ -25,7 +25,7 @@ class ClassicVC: UIViewController {
     
     fileprivate let exitView = ExitView(frame: CGRect(x: 0, y: 0, width: 300, height: 300))
     
-    fileprivate let scoreLabel = {
+    fileprivate let questionIndexLabel = {
         let label = UILabel()
         label.font = AppConstants.instructionLabelFont
         label.textColor = AppConstants.labelColor
@@ -65,7 +65,11 @@ class ClassicVC: UIViewController {
     }
     
     override func viewDidAppear(_ animated: Bool) {
-        
+        playBackgroundVideo()
+    }
+    
+    override func viewDidDisappear(_ animated: Bool) {
+        player?.pause()
     }
     
     // MARK: - Setting Up UI
@@ -76,11 +80,10 @@ class ClassicVC: UIViewController {
         
         exitView.alpha = 0
         
-        playBackgroundVideo()
         updateUI()
         setUpAnswerStackView()
         
-        let views: [UIView] = [backButton, gearButton, helpButton, scoreLabel, questionLabel, questionStackView, bannerView]
+        let views: [UIView] = [backButton, gearButton, helpButton, questionIndexLabel, questionLabel, questionStackView, bannerView]
         views.forEach({
             $0.translatesAutoresizingMaskIntoConstraints = false
             view.addSubview($0)
@@ -102,9 +105,8 @@ class ClassicVC: UIViewController {
             helpButton.heightAnchor.constraint(equalToConstant: 50),
             helpButton.widthAnchor.constraint(equalToConstant: 50),
             
-            scoreLabel.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor, constant: 5),
-            scoreLabel.centerXAnchor.constraint(equalTo: view.centerXAnchor),
-            //scoreLabel.rightAnchor.constraint(equalTo: helpButton.leftAnchor, constant: -20),
+            questionIndexLabel.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor, constant: 5),
+            questionIndexLabel.centerXAnchor.constraint(equalTo: view.centerXAnchor),
             
             questionLabel.topAnchor.constraint(equalTo: backButton.bottomAnchor, constant: 20),
             questionLabel.leftAnchor.constraint(equalTo: backButton.leftAnchor, constant: 20),
@@ -125,6 +127,7 @@ class ClassicVC: UIViewController {
         for index in 0...3 {
             let button = GameButton(title: "", fontColor: AppConstants.labelColor)
             button.tag = index
+            button.titleLabel?.font = AppConstants.questionFont
             questionStackView.addArrangedSubview(button)
             button.addTarget(self, action: #selector(answerButtonTapped(_:)), for: .touchUpInside)
             button.heightAnchor.constraint(equalToConstant: 75).isActive = true
@@ -138,15 +141,15 @@ class ClassicVC: UIViewController {
             for (index, button) in gameButtons.enumerated() {
                 UIView.animate(withDuration: 0.8, delay: 0.0, options:[.allowUserInteraction, .curveEaseInOut], animations: { [self] in button.titleLabel?.alpha = 0
                     questionLabel.alpha = 0
-                    //scoreLabel.text = "\(score)/\(questions?.questions.count ?? 0)"
-                    scoreLabel.alpha = 0
+                    questionIndexLabel.alpha = 0
                 }, completion: { [self]_ in
                     button.setTitle(answers[index], for: .normal)
+                    button.setTitle("Himself with the Sorcerer's Stone", for: .normal)
                     questionLabel.text = questions?.questions[questionIndex].question
                     UIView.animate(withDuration: 0.8, delay: 0.0, options:[.allowUserInteraction, .curveEaseInOut], animations: { [self] in button.titleLabel?.alpha = 1
                         questionLabel.alpha = 1
-                        scoreLabel.text = "\(score)/\(questions?.questions.count ?? 0)"
-                        scoreLabel.alpha = 1
+                        questionIndexLabel.text = "\(questionIndex + 1)/\(questions?.questions.count ?? 0)"
+                        questionIndexLabel.alpha = 1
                     }, completion: nil)
                 })
             }
@@ -184,19 +187,24 @@ class ClassicVC: UIViewController {
         if sender.tag == questions?.questions[questionIndex].answer {
             score += 1
         } else {
-            // TODO: show incorrect view
+            let wrongAnswerView = WrongAnswerView(question: questions!.questions[questionIndex])
+            view.addSubview(wrongAnswerView)
+            NSLayoutConstraint.activate([
+                wrongAnswerView.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor, constant: 20),
+                wrongAnswerView.leftAnchor.constraint(equalTo: view.leftAnchor, constant: 20),
+                wrongAnswerView.rightAnchor.constraint(equalTo: view.rightAnchor, constant: -20),
+                wrongAnswerView.bottomAnchor.constraint(equalTo: view.bottomAnchor, constant: -20),
+            ])
         }
         
-        
-        
-        questionIndex += 1
         if questionIndex + 1 == questions?.questions.count {
             let vc = ResultsVC()
             vc.score = score
             self.navigationController?.pushViewController(vc, animated: true)
+        } else {
+            questionIndex += 1
+            self.updateUI()
         }
-        self.updateUI()
-        
     }
 }
 
@@ -213,7 +221,6 @@ extension ClassicVC: BackButtonDelegate {
             exitView.rightAnchor.constraint(equalTo: view.rightAnchor, constant: -20),
             exitView.bottomAnchor.constraint(equalTo: view.bottomAnchor, constant: -20),
         ])
-        //self.navigationController?.popViewController(animated: true)
     }
 }
 
@@ -236,6 +243,4 @@ extension ClassicVC: ExitViewDelegate {
             self.exitView.removeFromSuperview()
         })
     }
-    
-    
 }

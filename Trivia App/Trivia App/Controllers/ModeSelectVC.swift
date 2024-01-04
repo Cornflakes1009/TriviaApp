@@ -23,7 +23,7 @@ class ModeSelectVC: UIViewController {
         label.textAlignment = .center
         label.font = AppConstants.titleFont
         label.textColor = AppConstants.labelColor
-        label.alpha = 0
+        //label.alpha = 0
         return label
     }()
     
@@ -53,9 +53,9 @@ class ModeSelectVC: UIViewController {
     
     override func viewDidAppear(_ animated: Bool) {
         // making the title label fade in
-        UIView.animate(withDuration: 4.5) {
-            self.titleLabel.alpha = 1
-        }
+//        UIView.animate(withDuration: 4.5) {
+//            self.titleLabel.alpha = 1
+//        }
     }
     
     // MARK: - Setting Up UI

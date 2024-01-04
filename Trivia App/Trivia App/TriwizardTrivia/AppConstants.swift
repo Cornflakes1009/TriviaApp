@@ -27,6 +27,7 @@ struct AppConstants {
     static let testingAdMobsKey = "ca-app-pub-3940256099942544/2934735716"
     static var titleFont = UIFont(name: "Harry P", size: 70)
     static var buttonFont = UIFont(name: "Papyrus", size: 30)
+    static var questionFont = UIFont(name: "Papyrus", size: 22)
     static var instructionLabelFont = UIFont(name: "Papyrus", size: 30)
     
     static let appName = "TriwizardTrivia"
