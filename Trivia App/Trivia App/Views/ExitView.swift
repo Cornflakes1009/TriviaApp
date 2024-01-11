@@ -48,9 +48,7 @@ class ExitView: UIView {
         setupView()
     }
     
-    //common func to init our view
     private func setupView() {
-        
         self.translatesAutoresizingMaskIntoConstraints = false
         let views: [UIView] = [exitLabel, cancelButton, exitButton]
         views.forEach({
@@ -70,8 +68,6 @@ class ExitView: UIView {
             exitButton.centerYAnchor.constraint(equalTo: self.centerYAnchor),
             exitButton.leftAnchor.constraint(equalTo: cancelButton.rightAnchor, constant: 20),
             exitButton.rightAnchor.constraint(equalTo: self.rightAnchor, constant: -20),
-            
-            
         ])
     }
     

@@ -17,7 +17,7 @@ class WrongAnswerView: UIView {
     
     let incorrectLabel = {
         let lbl = UILabel()
-        lbl.text = "Sorry, the correct answer to: "
+        //lbl.text = "Sorry, the correct answer to: "
         lbl.font = AppConstants.instructionLabelFont
         lbl.textColor = AppConstants.labelColor
         lbl.numberOfLines = 0
@@ -43,6 +43,7 @@ class WrongAnswerView: UIView {
     
     let nextQuestionButton = {
         let button = GameButton(title: "Next Question", fontColor: AppConstants.labelColor)
+        button.addTarget(nil, action: #selector(nextQuestionTapped), for: .touchUpInside)
         return button
     }()
     
@@ -57,18 +58,17 @@ class WrongAnswerView: UIView {
         setupView()
     }
     
-    convenience init(question: Question) {
+    convenience init(question: Question?) {
         self.init()
-        self.frame = CGRect(x: 0, y: 0, width: 300, height: 300)
-        let options = [question.optionZero, question.optionOne, question.optionTwo, question.optionThree]
-        incorrectLabel.text = "\(incorrectLabel.text ?? "") \(question.question ?? "") was:"
-        //questionLabel.text = question.question
-        answerLabel.text = options[question.answer ?? 0]
+//        let options = [question?.optionZero, question?.optionOne, question?.optionTwo, question?.optionThree]
+//        incorrectLabel.text = "\(incorrectLabel.text ?? "") \(question?.question ?? "") was:"
+//        answerLabel.text = options[question?.answer ?? 0]
     }
     
     //common func to init our view
     private func setupView() {
         self.backgroundColor = .black
+        self.frame = CGRect(x: 0, y: 0, width: 300, height: 300)
         self.translatesAutoresizingMaskIntoConstraints = false
         
         let views: [UIView] = [incorrectLabel, nextQuestionButton, answerLabel]

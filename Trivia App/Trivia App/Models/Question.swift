@@ -33,7 +33,12 @@ class QuestionModelData {
         
         self.questions = questions.shuffled()
         self.questions = Array(self.questions.prefix(numberOfQuestions))
+//        var longestQuestion = ""
         for var question in self.questions {
+//            finding the longest question
+//            if question.question?.count ?? 0 > longestQuestion.count {
+//                longestQuestion = question.question ?? ""
+//            }
             var answerArray = [question.optionZero, question.optionOne, question.optionTwo, question.optionThree]
             let answer = answerArray[question.answer ?? 0]
             answerArray.shuffle()
@@ -45,6 +50,7 @@ class QuestionModelData {
                 $0 == answer
             })
         }
+//        print(longestQuestion)
         return self.questions
     }
 }

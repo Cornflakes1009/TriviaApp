@@ -20,6 +20,7 @@ class ClassicVC: UIViewController {
     fileprivate let gearButton = GearButton()
     fileprivate let backButton = BackButton()
     fileprivate let helpButton = HelpButton()
+    fileprivate var wrongAnswerView = WrongAnswerView(question: nil)
     
     fileprivate var gameButtons = [GameButton]()
     
@@ -60,7 +61,8 @@ class ClassicVC: UIViewController {
     // MARK: - Lifecycle Methods
     override func viewDidLoad() {
         super.viewDidLoad()
-        getQuestions(num: selectedNumberOfQuestions)
+        //getQuestions(num: selectedNumberOfQuestions)
+        questions = QuestionModelData(json: AppConstants.classicTrivia, numberOfQuestions: selectedNumberOfQuestions)
         setUpUI()
     }
     
@@ -77,6 +79,7 @@ class ClassicVC: UIViewController {
         backButton.delegate = self
         gearButton.delegate = self
         exitView.delegate = self
+        wrongAnswerView.delegate = self
         
         exitView.alpha = 0
         
@@ -139,14 +142,14 @@ class ClassicVC: UIViewController {
         DispatchQueue.main.async { [self] in
             let answers = [questions?.questions[self.questionIndex].optionZero, questions?.questions[self.questionIndex].optionOne, questions?.questions[self.questionIndex].optionTwo, questions?.questions[self.questionIndex].optionThree]
             for (index, button) in gameButtons.enumerated() {
-                UIView.animate(withDuration: 0.8, delay: 0.0, options:[.allowUserInteraction, .curveEaseInOut], animations: { [self] in button.titleLabel?.alpha = 0
+                UIView.animate(withDuration: 0.6, delay: 0.0, options:[.allowUserInteraction, .curveEaseInOut], animations: { [self] in button.titleLabel?.alpha = 0
                     questionLabel.alpha = 0
                     questionIndexLabel.alpha = 0
                 }, completion: { [self]_ in
                     button.setTitle(answers[index], for: .normal)
-                    button.setTitle("Himself with the Sorcerer's Stone", for: .normal)
+                    //button.setTitle("Himself with the Sorcerer's Stone", for: .normal)
                     questionLabel.text = questions?.questions[questionIndex].question
-                    UIView.animate(withDuration: 0.8, delay: 0.0, options:[.allowUserInteraction, .curveEaseInOut], animations: { [self] in button.titleLabel?.alpha = 1
+                    UIView.animate(withDuration: 0.6, delay: 0.0, options:[.allowUserInteraction, .curveEaseInOut], animations: { [self] in button.titleLabel?.alpha = 1
                         questionLabel.alpha = 1
                         questionIndexLabel.text = "\(questionIndex + 1)/\(questions?.questions.count ?? 0)"
                         questionIndexLabel.alpha = 1
@@ -156,9 +159,20 @@ class ClassicVC: UIViewController {
         }
     }
     
-    fileprivate func getQuestions(num: Int) {
-        questions = QuestionModelData(json: AppConstants.classicTrivia, numberOfQuestions: num)
+//    fileprivate func getQuestions(num: Int) {
+//        questions = QuestionModelData(json: AppConstants.classicTrivia, numberOfQuestions: num)
+//    }
+    func increaseQuestionIndex() {
+        if questionIndex + 1 == questions?.questions.count {
+            let vc = ResultsVC()
+            vc.score = score
+            self.navigationController?.pushViewController(vc, animated: true)
+        } else {
+            questionIndex += 1
+            self.updateUI()
+        }
     }
+    
     
     // MARK: - Background Video
     func playBackgroundVideo() {
@@ -187,7 +201,12 @@ class ClassicVC: UIViewController {
         if sender.tag == questions?.questions[questionIndex].answer {
             score += 1
         } else {
-            let wrongAnswerView = WrongAnswerView(question: questions!.questions[questionIndex])
+            wrongAnswerView.delegate = self
+            let question = questions?.questions[questionIndex]
+            let options = [question?.optionZero, question?.optionOne, question?.optionTwo, question?.optionThree]
+            wrongAnswerView.incorrectLabel.text = "Sorry, the correct answer to:  \(question?.question ?? "") was:"
+            wrongAnswerView.answerLabel.text = options[question?.answer ?? 0]
+            
             view.addSubview(wrongAnswerView)
             NSLayoutConstraint.activate([
                 wrongAnswerView.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor, constant: 20),
@@ -195,16 +214,11 @@ class ClassicVC: UIViewController {
                 wrongAnswerView.rightAnchor.constraint(equalTo: view.rightAnchor, constant: -20),
                 wrongAnswerView.bottomAnchor.constraint(equalTo: view.bottomAnchor, constant: -20),
             ])
+            return
         }
         
-        if questionIndex + 1 == questions?.questions.count {
-            let vc = ResultsVC()
-            vc.score = score
-            self.navigationController?.pushViewController(vc, animated: true)
-        } else {
-            questionIndex += 1
-            self.updateUI()
-        }
+        increaseQuestionIndex()
+        
     }
 }
 
@@ -242,5 +256,12 @@ extension ClassicVC: ExitViewDelegate {
         }, completion: {_ in
             self.exitView.removeFromSuperview()
         })
+    }
+}
+
+extension ClassicVC: WrongAnswerViewDelegate {
+    func nextQuestionTapped() {
+        increaseQuestionIndex()
+        wrongAnswerView.removeFromSuperview()
     }
 }

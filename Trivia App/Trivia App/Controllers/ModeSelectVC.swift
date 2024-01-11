@@ -18,7 +18,6 @@ class ModeSelectVC: UIViewController {
     
     var titleLabel = {
         let label = UILabel()
-        //label.text = AppConstants.appName
         label.numberOfLines = 0
         label.textAlignment = .center
         label.font = AppConstants.titleFont
