@@ -137,7 +137,6 @@ class ModeSelectVC: UIViewController {
         player!.seek(to: CMTime.zero)
     }
     
-    // TODO: maybe pass in an index here instead
     @objc func modeCategoryTapped(_ sender: UIButton) {
         let vc = AppConstants.gameCategories[sender.tag].vc
         self.navigationController?.pushViewController(vc, animated: true)

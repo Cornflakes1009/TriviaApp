@@ -62,7 +62,7 @@ class ClassicVC: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         //getQuestions(num: selectedNumberOfQuestions)
-        questions = QuestionModelData(json: AppConstants.classicTrivia, numberOfQuestions: selectedNumberOfQuestions)
+        questions = QuestionModelData(json: AppConstants.jsonList[AppConstants.jsonIndex], numberOfQuestions: selectedNumberOfQuestions)
         setUpUI()
     }
     
@@ -165,7 +165,7 @@ class ClassicVC: UIViewController {
     func increaseQuestionIndex() {
         if questionIndex + 1 == questions?.questions.count {
             let vc = ResultsVC()
-            vc.score = score
+            vc.score = "\(score)/\(questions?.questions.count ?? 0)"
             self.navigationController?.pushViewController(vc, animated: true)
         } else {
             questionIndex += 1

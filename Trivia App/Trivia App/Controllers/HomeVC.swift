@@ -159,10 +159,11 @@ class HomeVC: UIViewController {
     }
     
     fileprivate func setUpCategoryStackView() {
-        for category in AppConstants.showCategories {
+        for (index, category) in AppConstants.showCategories.enumerated() {
             let button = GameButton(title: category.0, fontColor: AppConstants.labelColor)
             categoryStackView.addArrangedSubview(button)
             button.addTarget(self, action: #selector(categoryTapped(_:)), for: .touchUpInside)
+            button.tag = index
             button.heightAnchor.constraint(equalToConstant: 75).isActive = true
         }
     }
@@ -243,6 +244,7 @@ class HomeVC: UIViewController {
     
     @objc func categoryTapped(_ sender: UIButton) {
         let vc = ModeSelectVC()
+        AppConstants.jsonIndex = sender.tag
         vc.titleLabel.text = sender.titleLabel?.text
         self.navigationController?.pushViewController(vc, animated: true)
     }

@@ -26,15 +26,18 @@ struct AppConstants {
     static let prodAdMobsKey = "ca-app-pub-6504174477930496/1611814353"
     static let testingAdMobsKey = "ca-app-pub-3940256099942544/2934735716"
     static var titleFont = UIFont(name: "Harry P", size: 70)
+    static var finalScoreFont = UIFont(name: "Harry P", size: 100)
     static var buttonFont = UIFont(name: "Papyrus", size: 30)
     static var questionFont = UIFont(name: "Papyrus", size: 22)
+   // static var questionFont = UIFont(name: "Hagrid2", size: 22)
     static var instructionLabelFont = UIFont(name: "Papyrus", size: 30)
     
     static let appName = "TriwizardTrivia"
     static let showCategories = [("Harry Potter", "example.json"), ("Fantastic Beasts", "example2.json")]
     
     // JSON Files
-    static let classicTrivia = "harryPotterSoloQuestions.json"
+    static var jsonIndex = 0
+    static let jsonList = ["harryPotterSoloQuestions.json", "fantasticBeastsQuestions.json"]
     static let hangmanJSONList = ["Characters.json", "Death Eaters.json", "Locations.json", "Magical Beasts.json", "Order Members.json", "Potions.json", "Spells.json"]
     
     static let gameCategories: [GameCategory] = [

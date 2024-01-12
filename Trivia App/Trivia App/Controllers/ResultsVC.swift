@@ -10,7 +10,7 @@ import AVFoundation
 
 class ResultsVC: UIViewController {
     var player: AVPlayer?
-    var score: Int = 0
+    var score = ""
     
     fileprivate let gearButton = GearButton()
     fileprivate let helpButton = HelpButton()
@@ -19,7 +19,7 @@ class ResultsVC: UIViewController {
         let label = UILabel()
         label.numberOfLines = 0
         label.textAlignment = .center
-        label.font = AppConstants.titleFont
+        label.font = AppConstants.finalScoreFont
         label.textColor = AppConstants.labelColor
         label.text = "Game Over"
         return label
@@ -28,7 +28,7 @@ class ResultsVC: UIViewController {
     fileprivate let scoreLabel = {
         let label = UILabel()
         label.numberOfLines = 0
-        label.font = AppConstants.instructionLabelFont
+        label.font = AppConstants.finalScoreFont
         label.textColor = AppConstants.labelColor
         label.alpha = 0
         return label
@@ -36,19 +36,21 @@ class ResultsVC: UIViewController {
     
     fileprivate let backToMenuButton = {
         let btn = GameButton(title: "Back to Menu", fontColor: AppConstants.labelColor)
-        btn.addTarget(self, action: #selector(backToMenuTapped), for: .touchUpInside)
+        btn.addTarget(nil, action: #selector(backToMenuTapped), for: .touchUpInside)
         return btn
     }()
     
     // MARK: - Lifecycle Methods
     override func viewDidLoad() {
         super.viewDidLoad()
-
         setUpUI()
     }
     
     override func viewDidAppear(_ animated: Bool) {
         playBackgroundVideo()
+        UIView.animate(withDuration: 4.5) {
+            self.scoreLabel.alpha = 1
+        }
     }
     
     override func viewDidDisappear(_ animated: Bool) {
@@ -56,6 +58,7 @@ class ResultsVC: UIViewController {
     }
 
     fileprivate func setUpUI() {
+        scoreLabel.text = score
         let views = [gearButton, helpButton, titleLabel, scoreLabel, backToMenuButton]
         views.forEach({
             $0.translatesAutoresizingMaskIntoConstraints = false
@@ -76,6 +79,9 @@ class ResultsVC: UIViewController {
             titleLabel.topAnchor.constraint(equalTo: gearButton.bottomAnchor, constant: 20),
             titleLabel.leadingAnchor.constraint(equalTo: view.leadingAnchor, constant: 20),
             titleLabel.trailingAnchor.constraint(equalTo: view.trailingAnchor, constant: -20),
+            
+            scoreLabel.centerXAnchor.constraint(equalTo: view.centerXAnchor),
+            scoreLabel.centerYAnchor.constraint(equalTo: view.centerYAnchor),
         
             backToMenuButton.leftAnchor.constraint(equalTo: view.leftAnchor, constant: 20),
             backToMenuButton.rightAnchor.constraint(equalTo: view.rightAnchor, constant: -20),

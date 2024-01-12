@@ -131,6 +131,7 @@
 		D9566AC22B3BF75B00FE356D /* GameButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9566AC12B3BF75B00FE356D /* GameButton.swift */; };
 		D9566AC42B3BF79300FE356D /* HomeScreenButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9566AC32B3BF79300FE356D /* HomeScreenButton.swift */; };
 		D9566AC52B3BF81700FE356D /* background_music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D95277D22B2850470089B91D /* background_music.mp3 */; };
+		D9C161212B50FEC10030574E /* hagrid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D9C161202B50FEC10030574E /* hagrid.ttf */; };
 		D9E473922B3D295D00AAEBFF /* NumberOfQuestionsSelectVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E473912B3D295D00AAEBFF /* NumberOfQuestionsSelectVC.swift */; };
 		D9E473932B3D295D00AAEBFF /* NumberOfQuestionsSelectVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E473912B3D295D00AAEBFF /* NumberOfQuestionsSelectVC.swift */; };
 		D9E473942B3D295D00AAEBFF /* NumberOfQuestionsSelectVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E473912B3D295D00AAEBFF /* NumberOfQuestionsSelectVC.swift */; };
@@ -227,6 +228,7 @@
 		D9566AAF2B39652400FE356D /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 		D9566AC12B3BF75B00FE356D /* GameButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameButton.swift; sourceTree = "<group>"; };
 		D9566AC32B3BF79300FE356D /* HomeScreenButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreenButton.swift; sourceTree = "<group>"; };
+		D9C161202B50FEC10030574E /* hagrid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = hagrid.ttf; sourceTree = "<group>"; };
 		D9E473912B3D295D00AAEBFF /* NumberOfQuestionsSelectVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfQuestionsSelectVC.swift; sourceTree = "<group>"; };
 		D9E473982B43525400AAEBFF /* ExitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExitView.swift; sourceTree = "<group>"; };
 		D9E4739F2B43E7C500AAEBFF /* ResultsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsVC.swift; sourceTree = "<group>"; };
@@ -436,6 +438,7 @@
 			children = (
 				D93239E02B3952FA009DB51E /* JSON */,
 				D91CA7D12B2C275B00263266 /* HARRYP__.TTF */,
+				D9C161202B50FEC10030574E /* hagrid.ttf */,
 				D95277D22B2850470089B91D /* background_music.mp3 */,
 				D95277CD2B28162F0089B91D /* smoke.mp4 */,
 				D95277CC2B28162F0089B91D /* smoke1.mp4 */,
@@ -676,6 +679,7 @@
 				D95277CB2B25C3920089B91D /* Assets.xcassets in Resources */,
 				D9566ABB2B39685D00FE356D /* Locations.json in Resources */,
 				D9566AB62B39685D00FE356D /* Potions.json in Resources */,
+				D9C161212B50FEC10030574E /* hagrid.ttf in Resources */,
 				D91CA7D22B2C275B00263266 /* HARRYP__.TTF in Resources */,
 				D95277D02B2816BA0089B91D /* smoke1.mp4 in Resources */,
 				D95277BE2B25C03D0089B91D /* Assets.xcassets in Resources */,

@@ -6,7 +6,7 @@
       "optionZero": "Jacob Kowalski",
       "optionOne": "Credence",
       "optionTwo": "Tina Goldstein",
-      "3": "Corvus"
+      "optionThree": "Corvus"
     },
     {
       "category": "Fantastic Beasts",
@@ -15,7 +15,7 @@
       "optionZero": "Niffler",
       "optionOne": "Murtlap",
       "optionTwo": "Occamy",
-      "3": "Demiguise"
+      "optionThree": "Demiguise"
     },
     {
       "category": "Fantastic Beasts",
@@ -24,7 +24,7 @@
       "optionZero": "Niffler",
       "optionOne": "Murtlap",
       "optionTwo": "Occamy",
-      "3": "Demiguise"
+      "optionThree": "Demiguise"
     },
     {
       "category": "Fantastic Beasts",
@@ -33,7 +33,7 @@
       "optionZero": "Pickett",
       "optionOne": "Gnarlak",
       "optionTwo": "Frank",
-      "3": "Bunty"
+      "optionThree": "Bunty"
     },
     {
       "category": "Fantastic Beasts",
@@ -42,7 +42,7 @@
       "optionZero": "Colorado",
       "optionOne": "New Mexico",
       "optionTwo": "Oregon",
-      "3": "Arizona"
+      "optionThree": "Arizona"
     },
     {
       "category": "Fantastic Beasts",
@@ -51,7 +51,7 @@
       "optionZero": "Graphorns",
       "optionOne": "Bowtruckles",
       "optionTwo": "Ashwinders",
-      "3": "Nifflers"
+      "optionThree": "Nifflers"
     },
     {
       "category": "Fantastic Beasts",
@@ -60,7 +60,7 @@
       "optionZero": "Niffler",
       "optionOne": "Bowtruckle",
       "optionTwo": "Occamy",
-      "3": "Kappa"
+      "optionThree": "Kappa"
     },
     {
       "category": "Fantastic Beasts",
@@ -69,7 +69,7 @@
       "optionZero": "Ashwinder",
       "optionOne": "Niffler",
       "optionTwo": "Occamy",
-      "3": "Swooping Evil"
+      "optionThree": "Swooping Evil"
     },
     {
       "category": "Fantastic Beasts",
@@ -78,7 +78,7 @@
       "optionZero": "Demiguise",
       "optionOne": "Murtlap",
       "optionTwo": "Occamy",
-      "3": "Erumpet"
+      "optionThree": "Erumpet"
     },
     {
       "category": "Fantastic Beasts",
@@ -87,7 +87,7 @@
       "optionZero": "Percival Graves",
       "optionOne": "Abernathy",
       "optionTwo": "Seraphina Picquery",
-      "3": "Gunnar Grimmson"
+      "optionThree": "Gunnar Grimmson"
     },
     {
       "category": "Fantastic Beasts",
@@ -96,7 +96,7 @@
       "optionZero": "Niffler",
       "optionOne": "Swooping Evil",
       "optionTwo": "Bowtruckle",
-      "3": "Occamy"
+      "optionThree": "Occamy"
     },
     {
       "category": "Fantastic Beasts",
@@ -105,7 +105,7 @@
       "optionZero": "Wand",
       "optionOne": "Dark Mark",
       "optionTwo": "Deathly Hollows Necklace",
-      "3": "Coin"
+      "optionThree": "Coin"
     },
     {
       "category": "Fantastic Beasts",
@@ -114,7 +114,7 @@
       "optionZero": "Niffler",
       "optionOne": "Occamy",
       "optionTwo": "Bowtruckle",
-      "3": "Demiguise"
+      "optionThree": "Demiguise"
     },
     {
       "category": "Fantastic Beasts",
@@ -123,7 +123,7 @@
       "optionZero": "Gnarlak",
       "optionOne": "Graves",
       "optionTwo": "Credence",
-      "3": "Mary Lou Barebone"
+      "optionThree": "Mary Lou Barebone"
     },
     {
       "category": "Fantastic Beasts",
@@ -132,7 +132,7 @@
       "optionZero": "Pickett",
       "optionOne": "Gold",
       "optionTwo": "Lunascope",
-      "3": "Niffler"
+      "optionThree": "Niffler"
     },
     {
       "category": "Fantastic Beasts",
@@ -141,7 +141,7 @@
       "optionZero": "Pickett",
       "optionOne": "Gold",
       "optionTwo": "Lunascope",
-      "3": "Niffler"
+      "optionThree": "Niffler"
     },
     {
       "category": "Fantastic Beasts",
@@ -150,7 +150,7 @@
       "optionZero": "Gold",
       "optionOne": "Pickett",
       "optionTwo": "Niffler",
-      "3": "Ashwinder egg"
+      "optionThree": "Ashwinder egg"
     },
     {
       "category": "Fantastic Beasts",
@@ -159,7 +159,7 @@
       "optionZero": "Pickett",
       "optionOne": "Gold",
       "optionTwo": "Lunascope",
-      "3": "Niffler"
+      "optionThree": "Niffler"
     },
     {
       "category": "Fantastic Beasts",
@@ -168,7 +168,7 @@
       "optionZero": "Macy's Department Store",
       "optionOne": "Sears Roebuck",
       "optionTwo": "Tiffany's on Fifth",
-      "3": "JC Penney's"
+      "optionThree": "JC Penney's"
     },
     {
       "category": "Fantastic Beasts",
@@ -177,7 +177,7 @@
       "optionZero": "Greylock",
       "optionOne": "Ilvermorny",
       "optionTwo": "Uagadou",
-      "3": "Castelobruxo"
+      "optionThree": "Castelobruxo"
     },
     {
       "category": "Fantastic Beasts",
@@ -186,7 +186,7 @@
       "optionZero": "Charity",
       "optionOne": "Virtue",
       "optionTwo": "Modesty",
-      "3": "Chastity"
+      "optionThree": "Chastity"
     },
     {
       "category": "Fantastic Beasts",
@@ -195,7 +195,7 @@
       "optionZero": "Swooping Evil",
       "optionOne": "Bowtruckle",
       "optionTwo": "Niffler",
-      "3": "Demiguise"
+      "optionThree": "Demiguise"
     },
     {
       "category": "Fantastic Beasts",
@@ -204,7 +204,7 @@
       "optionZero": "Graves",
       "optionOne": "Abernathy",
       "optionTwo": "Theseus",
-      "3": "Seraphina Picquery"
+      "optionThree": "Seraphina Picquery"
     },
     {
       "category": "Fantastic Beasts",
@@ -213,7 +213,7 @@
       "optionZero": "Jacob Kowalski",
       "optionOne": "Newt Scamander",
       "optionTwo": "Abernathy",
-      "3": "Tina Goldstein"
+      "optionThree": "Tina Goldstein"
     },
     {
       "category": "Fantastic Beasts",
@@ -222,7 +222,7 @@
       "optionZero": "Eduardo",
       "optionOne": "Roberto",
       "optionTwo": "Angelo",
-      "3": "Antonio"
+      "optionThree": "Antonio"
     },
     {
       "category": "Fantastic Beasts",
@@ -231,7 +231,7 @@
       "optionZero": "Theseus",
       "optionOne": "Theodore",
       "optionTwo": "Thius",
-      "3": "Tremane"
+      "optionThree": "Tremane"
     },
     {
       "category": "Fantastic Beasts",
@@ -240,7 +240,7 @@
       "optionZero": "Percival Graves",
       "optionOne": "Nicholas Flamel",
       "optionTwo": "Alastor Moody",
-      "3": "Gnarlak"
+      "optionThree": "Gnarlak"
     },
     {
       "category": "Fantastic Beasts",
@@ -249,7 +249,7 @@
       "optionZero": "Munty",
       "optionOne": "Punty",
       "optionTwo": "Bunty",
-      "3": "Dunty"
+      "optionThree": "Dunty"
     },
     {
       "category": "Fantastic Beasts",
@@ -258,7 +258,7 @@
       "optionZero": "Credence",
       "optionOne": "Grindelwald",
       "optionTwo": "Voldemort",
-      "3": "Nagini"
+      "optionThree": "Nagini"
     },
     {
       "category": "Fantastic Beasts",
@@ -267,7 +267,7 @@
       "optionZero": "Wand quality wood",
       "optionOne": "Holly",
       "optionTwo": "Yew",
-      "3": "Whomping Willows"
+      "optionThree": "Whomping Willows"
     },
     {
       "category": "Fantastic Beasts",
@@ -276,7 +276,7 @@
       "optionZero": "Catagot",
       "optionOne": "Matagot",
       "optionTwo": "Tagacot",
-      "3": "Magacot"
+      "optionThree": "Magacot"
     },
     {
       "category": "Fantastic Beasts",
@@ -285,7 +285,7 @@
       "optionZero": "Small",
       "optionOne": "Beneath him",
       "optionTwo": "Simple",
-      "3": "Lesser"
+      "optionThree": "Lesser"
     },
     {
       "category": "Fantastic Beasts",
@@ -294,7 +294,7 @@
       "optionZero": "Credence Dumbledore",
       "optionOne": "Corvus Dumbledore",
       "optionTwo": "Aberforth Dumbledore",
-      "3": "Aurelius Dumbledore"
+      "optionThree": "Aurelius Dumbledore"
     },
     {
       "category": "Fantastic Beasts",
@@ -303,7 +303,7 @@
       "optionZero": "Erumpet",
       "optionOne": "Thunderbird",
       "optionTwo": "Occamy",
-      "3": "Niffler"
+      "optionThree": "Niffler"
     },
     {
       "category": "Fantastic Beasts",
@@ -312,7 +312,7 @@
       "optionZero": "Niffler",
       "optionOne": "Occamy",
       "optionTwo": "Erumpet",
-      "3": "Thunderbird"
+      "optionThree": "Thunderbird"
     },
     {
       "category": "Fantastic Beasts",
@@ -321,7 +321,7 @@
       "optionZero": "Occamy",
       "optionOne": "Erumpet",
       "optionTwo": "Niffler",
-      "3": "Thunderbird"
+      "optionThree": "Thunderbird"
     },
     {
       "category": "Fantastic Beasts",
@@ -330,7 +330,7 @@
       "optionZero": "McLaggen",
       "optionOne": "Lestrange",
       "optionTwo": "Abernathy",
-      "3": "Goldstein"
+      "optionThree": "Goldstein"
     },
     {
       "category": "Fantastic Beasts",
@@ -339,7 +339,7 @@
       "optionZero": "Goldstein",
       "optionOne": "Lestrange",
       "optionTwo": "Abernathy",
-      "3": "McLaggen"
+      "optionThree": "McLaggen"
     },
     {
       "category": "Fantastic Beasts",
@@ -348,7 +348,7 @@
       "optionZero": "Muggles",
       "optionOne": "No-Maj",
       "optionTwo": "Commoners",
-      "3": "Lowborn"
+      "optionThree": "Lowborn"
     },
     {
       "category": "Fantastic Beasts",
@@ -357,7 +357,7 @@
       "optionZero": "Two",
       "optionOne": "Four",
       "optionTwo": "Six",
-      "3": "Eight"
+      "optionThree": "Eight"
     },
     {
       "category": "Fantastic Beasts",
@@ -366,7 +366,7 @@
       "optionZero": "Professor McGonagall",
       "optionOne": "Professor Flitwick",
       "optionTwo": "Professor Dippet",
-      "3": "Professor Dumbledore"
+      "optionThree": "Professor Dumbledore"
     },
     {
       "category": "Fantastic Beasts",
@@ -375,7 +375,7 @@
       "optionZero": "Niffler",
       "optionOne": "Frank",
       "optionTwo": "Pickett",
-      "3": "Dougal"
+      "optionThree": "Dougal"
     },
     {
       "category": "Fantastic Beasts",
@@ -384,7 +384,7 @@
       "optionZero": "Gryffindor",
       "optionOne": "Hufflepuff",
       "optionTwo": "Ravenclaw",
-      "3": "Slytherin"
+      "optionThree": "Slytherin"
     },
     {
       "category": "Fantastic Beasts",
@@ -393,7 +393,7 @@
       "optionZero": "Tina Goldstein",
       "optionOne": "Queenie Goldstein",
       "optionTwo": "Jacob Kowalski",
-      "3": "Albus Dumbledore"
+      "optionThree": "Albus Dumbledore"
     },
     {
       "category": "Fantastic Beasts",
@@ -402,7 +402,7 @@
       "optionZero": "Gellert Grindelwald",
       "optionOne": "Tina Goldstein",
       "optionTwo": "Percival Graves",
-      "3": "Mary Lou Barebone"
+      "optionThree": "Mary Lou Barebone"
     },
     {
       "category": "Fantastic Beasts",
@@ -411,7 +411,7 @@
       "optionZero": "Credence",
       "optionOne": "Modesty",
       "optionTwo": "Percival",
-      "3": "Corvus"
+      "optionThree": "Corvus"
     },
     {
       "category": "Fantastic Beasts",
@@ -420,7 +420,7 @@
       "optionZero": "Fliers",
       "optionOne": "A wand",
       "optionTwo": "A witch's hat",
-      "3": "A spellbook"
+      "optionThree": "A spellbook"
     },
     {
       "category": "Fantastic Beasts",
@@ -429,7 +429,7 @@
       "optionZero": "Newt",
       "optionOne": "Credence",
       "optionTwo": "Jacob",
-      "3": "Corvus"
+      "optionThree": "Corvus"
     },
     {
       "category": "Fantastic Beasts",
@@ -438,7 +438,7 @@
       "optionZero": "With an insect",
       "optionOne": "With shiny items",
       "optionTwo": "With a dance",
-      "3": "By being unpredictable"
+      "optionThree": "By being unpredictable"
     },
     {
       "category": "Fantastic Beasts",
@@ -447,7 +447,7 @@
       "optionZero": "Six Months",
       "optionOne": "One year",
       "optionTwo": "Two Years",
-      "3": "Ten Years"
+      "optionThree": "Ten Years"
     },
     {
       "category": "Fantastic Beasts",
@@ -456,7 +456,7 @@
       "optionZero": "Cumulus",
       "optionOne": "Nebulus",
       "optionTwo": "Stratus",
-      "3": "Cirrus"
+      "optionThree": "Cirrus"
     },
     {
       "category": "Fantastic Beasts",
@@ -465,7 +465,7 @@
       "optionZero": "Niffler",
       "optionOne": "Kappa",
       "optionTwo": "Boggart",
-      "3": "Occamy"
+      "optionThree": "Occamy"
     },
     {
       "category": "Fantastic Beasts",
@@ -474,7 +474,7 @@
       "optionZero": "Dragon",
       "optionOne": "Phoenix",
       "optionTwo": "Serpent",
-      "3": "Raven"
+      "optionThree": "Raven"
     },
     {
       "category": "Fantastic Beasts",
@@ -483,7 +483,7 @@
       "optionZero": "Kelpie",
       "optionOne": "Grindylow",
       "optionTwo": "Nundu",
-      "3": "Demiguise"
+      "optionThree": "Demiguise"
     },
     {
       "category": "Fantastic Beasts",
@@ -492,7 +492,7 @@
       "optionZero": "The Quibbler",
       "optionOne": "Spellbound",
       "optionTwo": "Wizard's Voice",
-      "3": "Witch Weekly"
+      "optionThree": "Witch Weekly"
     },
     {
       "category": "Fantastic Beasts",
@@ -501,7 +501,7 @@
       "optionZero": "Twenty Galleons",
       "optionOne": "Thirty Galleons",
       "optionTwo": "Fifty Galleons",
-      "3": "One Hundred Galleons"
+      "optionThree": "One Hundred Galleons"
     },
     {
       "category": "Fantastic Beasts",
@@ -510,7 +510,7 @@
       "optionZero": "Newt",
       "optionOne": "Leta",
       "optionTwo": "Tina",
-      "3": "McClaggen"
+      "optionThree": "McClaggen"
     },
     {
       "category": "Fantastic Beasts",
@@ -519,7 +519,7 @@
       "optionZero": "Travers",
       "optionOne": "Abernathy",
       "optionTwo": "Theseus",
-      "3": "Graves"
+      "optionThree": "Graves"
     },
     {
       "category": "Fantastic Beasts",
@@ -528,7 +528,7 @@
       "optionZero": "Graves",
       "optionOne": "Theseus",
       "optionTwo": "Picquery",
-      "3": "Abernathy"
+      "optionThree": "Abernathy"
     },
     {
       "category": "Fantastic Beasts",
@@ -537,7 +537,7 @@
       "optionZero": "Dragon",
       "optionOne": "Occamy",
       "optionTwo": "Salamander",
-      "3": "Phoenix"
+      "optionThree": "Phoenix"
     },
     {
       "category": "Fantastic Beasts",
@@ -546,7 +546,7 @@
       "optionZero": "Murdered by Grindelwald",
       "optionOne": "A pox",
       "optionTwo": "A curse",
-      "3": "Drowned at sea"
+      "optionThree": "Drowned at sea"
     },
     {
       "category": "Fantastic Beasts",
@@ -555,7 +555,7 @@
       "optionZero": "They made a blood pact",
       "optionOne": "Ministry won't let him",
       "optionTwo": "Grindlewald is too strong",
-      "3": "They're friends"
+      "optionThree": "They're friends"
     },
     {
       "category": "Fantastic Beasts",
@@ -564,7 +564,7 @@
       "optionZero": "Murtlap",
       "optionOne": "Parasite",
       "optionTwo": "Occamy",
-      "3": "A spell"
+      "optionThree": "A spell"
     },
     {
       "category": "Fantastic Beasts",
@@ -573,7 +573,7 @@
       "optionZero": "Muggle Safe",
       "optionOne": "Muggle Ready",
       "optionTwo": "Muggle Worthy",
-      "3": "Muggle Proof"
+      "optionThree": "Muggle Proof"
     },
     {
       "category": "Fantastic Beasts",
@@ -582,7 +582,7 @@
       "optionZero": "Special mission",
       "optionOne": "To release Frank",
       "optionTwo": "To stop Grindelwald",
-      "3": "To buy a Puffskein"
+      "optionThree": "To buy a Puffskein"
     },
     {
       "category": "Fantastic Beasts",
@@ -591,7 +591,7 @@
       "optionZero": "Behind a photo",
       "optionOne": "Under the bed",
       "optionTwo": "In the sink",
-      "3": "In the oven"
+      "optionThree": "In the oven"
     },
     {
       "category": "Fantastic Beasts",
@@ -600,7 +600,7 @@
       "optionZero": "Morgan Shaw",
       "optionOne": "Langdon Shaw",
       "optionTwo": "Henry Shaw",
-      "3": "Ignotus Shaw"
+      "optionThree": "Ignotus Shaw"
     },
     {
       "category": "Fantastic Beasts",
@@ -609,7 +609,7 @@
       "optionZero": "Mr. Esposito",
       "optionOne": "Mr. Elizondo",
       "optionTwo": "Mrs. Esposito",
-      "3": "Mrs. Elizondo"
+      "optionThree": "Mrs. Elizondo"
     },
     {
       "category": "Fantastic Beasts",
@@ -618,7 +618,7 @@
       "optionZero": "Fighting Grindelwald",
       "optionOne": "Sinking ship",
       "optionTwo": "Explosion",
-      "3": "Dragon Pox"
+      "optionThree": "Dragon Pox"
     },
     {
       "category": "Fantastic Beasts",
@@ -627,7 +627,7 @@
       "optionZero": "Tom",
       "optionOne": "Frank",
       "optionTwo": "Pickett",
-      "3": "Yara"
+      "optionThree": "Yara"
     },
     {
       "category": "Fantastic Beasts",
@@ -636,16 +636,16 @@
       "optionZero": "Occamies",
       "optionOne": "Mooncalves",
       "optionTwo": "Kelpies",
-      "3": "Graphorns"
+      "optionThree": "Graphorns"
     },
     {
       "category": "Fantastic Beasts",
       "question": "On the corner of which street does Credence tell Mary Lou Barebone would be a good place for a meeting?",
       "answer": 2,
       "optionZero": "30th Street",
-      "optionOne": "30st Street",
+      "optionOne": "31st Street",
       "optionTwo": "32nd Street",
-      "3": "33rd Street"
+      "optionThree": "33rd Street"
     },
     {
       "category": "Fantastic Beasts",
@@ -654,7 +654,7 @@
       "optionZero": "Peruvian Vipertooth",
       "optionOne": "Romanian Longhorn",
       "optionTwo": "Swedish Short-Snout",
-      "3": "Ukrainian Ironbellies"
+      "optionThree": "Ukrainian Ironbellies"
     },
     {
       "category": "Fantastic Beasts",
@@ -663,7 +663,7 @@
       "optionZero": "Erumpet",
       "optionOne": "Occamy",
       "optionTwo": "Niffler",
-      "3": "Mooncalf"
+      "optionThree": "Mooncalf"
     },
     {
       "category": "Fantastic Beasts",
@@ -672,7 +672,7 @@
       "optionZero": "Northern",
       "optionOne": "Eastern",
       "optionTwo": "Western",
-      "3": "Southern"
+      "optionThree": "Southern"
     },
     {
       "category": "Fantastic Beasts",
@@ -681,7 +681,7 @@
       "optionZero": "Morgan Shaw",
       "optionOne": "Langdon Shaw",
       "optionTwo": "Henry Shaw Jr.",
-      "3": "Frank Shaw"
+      "optionThree": "Frank Shaw"
     },
     {
       "category": "Fantastic Beasts",
@@ -690,7 +690,7 @@
       "optionZero": "Five",
       "optionOne": "Six",
       "optionTwo": "Seven",
-      "3": "Eight"
+      "optionThree": "Eight"
     },
     {
       "category": "Fantastic Beasts",
@@ -699,7 +699,7 @@
       "optionZero": "Sam",
       "optionOne": "Mike",
       "optionTwo": "Bart",
-      "3": "Luke"
+      "optionThree": "Luke"
     },
     {
       "category": "Fantastic Beasts",
@@ -708,7 +708,7 @@
       "optionZero": "Tina",
       "optionOne": "Ruby",
       "optionTwo": "Sherry",
-      "3": "Opal"
+      "optionThree": "Opal"
     },
     {
       "category": "Fantastic Beasts",
@@ -717,7 +717,7 @@
       "optionZero": "Bewitching",
       "optionOne": "Intoxicating",
       "optionTwo": "Alluring",
-      "3": "Entrancing"
+      "optionThree": "Entrancing"
     },
     {
       "category": "Fantastic Beasts",
@@ -726,7 +726,7 @@
       "optionZero": "Giggle Water",
       "optionOne": "Daisyroot Draught",
       "optionTwo": "Firewhiskey",
-      "3": "Lobe-Blaster"
+      "optionThree": "Lobe-Blaster"
     },
     {
       "category": "Fantastic Beasts",
@@ -735,7 +735,7 @@
       "optionZero": "Porpentina",
       "optionOne": "Celestina",
       "optionTwo": "Christina",
-      "3": "Ernestina"
+      "optionThree": "Ernestina"
     },
     {
       "category": "Fantastic Beasts",
@@ -744,7 +744,7 @@
       "optionZero": "October",
       "optionOne": "November",
       "optionTwo": "December",
-      "3": "January"
+      "optionThree": "January"
     },
     {
       "category": "Fantastic Beasts",
@@ -753,7 +753,7 @@
       "optionZero": "Blonde",
       "optionOne": "Brunette",
       "optionTwo": "Red",
-      "3": "Black"
+      "optionThree": "Black"
     },
     {
       "category": "Fantastic Beasts",
@@ -762,7 +762,7 @@
       "optionZero": "Harold",
       "optionOne": "Harry",
       "optionTwo": "Herm",
-      "3": "Henry"
+      "optionThree": "Henry"
     },
     {
       "category": "Fantastic Beasts",
@@ -771,7 +771,7 @@
       "optionZero": "Pink",
       "optionOne": "Blue",
       "optionTwo": "Green",
-      "3": "Violet"
+      "optionThree": "Violet"
     },
     {
       "category": "Fantastic Beasts",
@@ -780,7 +780,7 @@
       "optionZero": "Winged Horses",
       "optionOne": "Thestrals",
       "optionTwo": "Thunderbirds",
-      "3": "Hippogriffs"
+      "optionThree": "Hippogriffs"
     },
     {
       "category": "Fantastic Beasts",
@@ -789,7 +789,7 @@
       "optionZero": "Finite",
       "optionOne": "Protego",
       "optionTwo": "Surgito",
-      "3": "Reducto"
+      "optionThree": "Reducto"
     },
     {
       "category": "Fantastic Beasts",
@@ -798,7 +798,7 @@
       "optionZero": "London",
       "optionOne": "New York",
       "optionTwo": "Madrid",
-      "3": "Paris"
+      "optionThree": "Paris"
     },
     {
       "category": "Fantastic Beasts",
@@ -807,7 +807,7 @@
       "optionZero": "The Kappa's",
       "optionOne": "The Occamy's",
       "optionTwo": "The Zouwu's",
-      "3": "Nagini's"
+      "optionThree": "Nagini's"
     },
     {
       "category": "Fantastic Beasts",
@@ -816,7 +816,7 @@
       "optionZero": "1897",
       "optionOne": "1898",
       "optionTwo": "1899",
-      "3": "1900"
+      "optionThree": "1900"
     },
     {
       "category": "Fantastic Beasts",
@@ -825,7 +825,7 @@
       "optionZero": "Krafft",
       "optionOne": "Nagel",
       "optionTwo": "Krall",
-      "3": "MacDuff"
+      "optionThree": "MacDuff"
     },
     {
       "category": "Fantastic Beasts",
@@ -834,7 +834,7 @@
       "optionZero": "Boat",
       "optionOne": "Apparation",
       "optionTwo": "Broomstick",
-      "3": "Portkey"
+      "optionThree": "Portkey"
     },
     {
       "category": "Fantastic Beasts",
@@ -843,7 +843,7 @@
       "optionZero": "Oscausi",
       "optionOne": "Petrificus Totalis",
       "optionTwo": "Stupify",
-      "3": "Incarcerous"
+      "optionThree": "Incarcerous"
     },
     {
       "category": "Fantastic Beasts",
@@ -852,7 +852,7 @@
       "optionZero": "Phoenix",
       "optionOne": "Raven",
       "optionTwo": "Owl",
-      "3": "Eagle"
+      "optionThree": "Eagle"
     },
     {
       "category": "Fantastic Beasts",
@@ -861,7 +861,7 @@
       "optionZero": "Death",
       "optionOne": "Being part of the Ministry",
       "optionTwo": "Having to work in an office",
-      "3": "Public speaking"
+      "optionThree": "Public speaking"
     },
     {
       "category": "Fantastic Beasts",
@@ -870,7 +870,7 @@
       "optionZero": "Lyanna",
       "optionOne": "Louella",
       "optionTwo": "Louisa",
-      "3": "Laurena"
+      "optionThree": "Laurena"
     },
     {
       "category": "Fantastic Beasts",
@@ -879,7 +879,7 @@
       "optionZero": "Finite",
       "optionOne": "Surgito",
       "optionTwo": "Protego",
-      "3": "Reducto"
+      "optionThree": "Reducto"
     },
     {
       "category": "Fantastic Beasts",
@@ -888,7 +888,7 @@
       "optionZero": "Tina",
       "optionOne": "Bunty",
       "optionTwo": "Jacob",
-      "3": "Queenie"
+      "optionThree": "Queenie"
     },
     {
       "category": "Fantastic Beasts",
@@ -897,7 +897,7 @@
       "optionZero": "Maggots",
       "optionOne": "Wood roaches",
       "optionTwo": "Wood lice",
-      "3": "Dung beetles"
+      "optionThree": "Dung beetles"
     },
     {
       "category": "Fantastic Beasts",
@@ -906,7 +906,7 @@
       "optionZero": "Mr. Gladstone",
       "optionOne": "Mr. Branson",
       "optionTwo": "Mr. Poe",
-      "3": "Mr. Bingley"
+      "optionThree": "Mr. Bingley"
     },
     {
       "category": "Fantastic Beasts",
@@ -915,7 +915,7 @@
       "optionZero": "Paczki",
       "optionOne": "Babka",
       "optionTwo": "Faworki",
-      "3": "Makowki"
+      "optionThree": "Makowki"
     },
     {
       "category": "Fantastic Beasts",
@@ -924,7 +924,7 @@
       "optionZero": "Gnarlak",
       "optionOne": "Red",
       "optionTwo": "Ragnok",
-      "3": "Blue"
+      "optionThree": "Blue"
     },
     {
       "category": "Fantastic Beasts",
@@ -933,7 +933,7 @@
       "optionZero": "1A",
       "optionOne": "2A",
       "optionTwo": "3A",
-      "3": "4A"
+      "optionThree": "4A"
     },
     {
       "category": "Fantastic Beasts",
@@ -942,7 +942,7 @@
       "optionZero": "Elizabeth",
       "optionOne": "Eleanor",
       "optionTwo": "Ellaria",
-      "3": "Esther"
+      "optionThree": "Esther"
     },
     {
       "category": "Fantastic Beasts",
@@ -951,7 +951,7 @@
       "optionZero": "Woolworth Building",
       "optionOne": "Chrysler Building",
       "optionTwo": "Victoria Tower",
-      "3": "The Empire State Building"
+      "optionThree": "The Empire State Building"
     },
     {
       "category": "Fantastic Beasts",
@@ -960,7 +960,7 @@
       "optionZero": "Law Enforcement",
       "optionOne": "Major Investigation",
       "optionTwo": "Penalty and Law Breaking",
-      "3": "Criminal Activity"
+      "optionThree": "Criminal Activity"
     },
     {
       "category": "Fantastic Beasts",
@@ -969,7 +969,7 @@
       "optionZero": "Bakery",
       "optionOne": "Bank",
       "optionTwo": "Canning Factory",
-      "3": "Automobile Factory"
+      "optionThree": "Automobile Factory"
     },
     {
       "category": "Fantastic Beasts",
@@ -978,7 +978,7 @@
       "optionZero": "Sucker",
       "optionOne": "Chocolate",
       "optionTwo": "Purse",
-      "3": "Apple"
+      "optionThree": "Apple"
     },
     {
       "category": "Fantastic Beasts",
@@ -987,7 +987,7 @@
       "optionZero": "Strudel",
       "optionOne": "Pie",
       "optionTwo": "Cake",
-      "3": "Streusel"
+      "optionThree": "Streusel"
     },
     {
       "category": "Fantastic Beasts",
