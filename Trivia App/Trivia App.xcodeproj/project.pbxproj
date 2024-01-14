@@ -132,6 +132,13 @@
 		D9566AC42B3BF79300FE356D /* HomeScreenButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9566AC32B3BF79300FE356D /* HomeScreenButton.swift */; };
 		D9566AC52B3BF81700FE356D /* background_music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D95277D22B2850470089B91D /* background_music.mp3 */; };
 		D9C161212B50FEC10030574E /* hagrid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D9C161202B50FEC10030574E /* hagrid.ttf */; };
+		D9C161292B53D8BA0030574E /* glitter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D9C161282B53D8BA0030574E /* glitter.mp4 */; };
+		D9C1612B2B53E8710030574E /* BlitzExplanationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C1612A2B53E8710030574E /* BlitzExplanationView.swift */; };
+		D9C1612C2B53E8710030574E /* BlitzExplanationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C1612A2B53E8710030574E /* BlitzExplanationView.swift */; };
+		D9C1612D2B53E8710030574E /* BlitzExplanationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C1612A2B53E8710030574E /* BlitzExplanationView.swift */; };
+		D9C1612E2B53E8710030574E /* BlitzExplanationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C1612A2B53E8710030574E /* BlitzExplanationView.swift */; };
+		D9C1612F2B53E8710030574E /* BlitzExplanationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C1612A2B53E8710030574E /* BlitzExplanationView.swift */; };
+		D9C161302B53E8710030574E /* BlitzExplanationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C1612A2B53E8710030574E /* BlitzExplanationView.swift */; };
 		D9E473922B3D295D00AAEBFF /* NumberOfQuestionsSelectVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E473912B3D295D00AAEBFF /* NumberOfQuestionsSelectVC.swift */; };
 		D9E473932B3D295D00AAEBFF /* NumberOfQuestionsSelectVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E473912B3D295D00AAEBFF /* NumberOfQuestionsSelectVC.swift */; };
 		D9E473942B3D295D00AAEBFF /* NumberOfQuestionsSelectVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E473912B3D295D00AAEBFF /* NumberOfQuestionsSelectVC.swift */; };
@@ -229,6 +236,8 @@
 		D9566AC12B3BF75B00FE356D /* GameButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameButton.swift; sourceTree = "<group>"; };
 		D9566AC32B3BF79300FE356D /* HomeScreenButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreenButton.swift; sourceTree = "<group>"; };
 		D9C161202B50FEC10030574E /* hagrid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = hagrid.ttf; sourceTree = "<group>"; };
+		D9C161282B53D8BA0030574E /* glitter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = glitter.mp4; sourceTree = "<group>"; };
+		D9C1612A2B53E8710030574E /* BlitzExplanationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlitzExplanationView.swift; sourceTree = "<group>"; };
 		D9E473912B3D295D00AAEBFF /* NumberOfQuestionsSelectVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfQuestionsSelectVC.swift; sourceTree = "<group>"; };
 		D9E473982B43525400AAEBFF /* ExitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExitView.swift; sourceTree = "<group>"; };
 		D9E4739F2B43E7C500AAEBFF /* ResultsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsVC.swift; sourceTree = "<group>"; };
@@ -298,6 +307,7 @@
 				D9566AA62B3959C300FE356D /* HelpButton.swift */,
 				D9E473982B43525400AAEBFF /* ExitView.swift */,
 				D9E473A62B43FDC500AAEBFF /* WrongAnswerView.swift */,
+				D9C1612A2B53E8710030574E /* BlitzExplanationView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -443,6 +453,7 @@
 				D95277CD2B28162F0089B91D /* smoke.mp4 */,
 				D95277CC2B28162F0089B91D /* smoke1.mp4 */,
 				D95277CA2B25C3920089B91D /* Assets.xcassets */,
+				D9C161282B53D8BA0030574E /* glitter.mp4 */,
 			);
 			path = "Supporting FIles";
 			sourceTree = "<group>";
@@ -676,6 +687,7 @@
 				D95277D42B28504D0089B91D /* background_music.mp3 in Resources */,
 				D9566AB92B39685D00FE356D /* Characters.json in Resources */,
 				D95277BD2B25C03D0089B91D /* README.md in Resources */,
+				D9C161292B53D8BA0030574E /* glitter.mp4 in Resources */,
 				D95277CB2B25C3920089B91D /* Assets.xcassets in Resources */,
 				D9566ABB2B39685D00FE356D /* Locations.json in Resources */,
 				D9566AB62B39685D00FE356D /* Potions.json in Resources */,
@@ -706,6 +718,7 @@
 				D952774A2B25AE4C0089B91D /* AppDelegate.swift in Sources */,
 				D93239A82B32B2BB009DB51E /* BackButton.swift in Sources */,
 				D9566AB02B39652400FE356D /* Question.swift in Sources */,
+				D9C1612B2B53E8710030574E /* BlitzExplanationView.swift in Sources */,
 				D93239D32B36E84A009DB51E /* SurvivalVC.swift in Sources */,
 				D952774C2B25AE4C0089B91D /* SceneDelegate.swift in Sources */,
 				D93239CC2B36E839009DB51E /* BlitzVC.swift in Sources */,
@@ -731,6 +744,7 @@
 				D95277C82B25C2870089B91D /* HomeVC.swift in Sources */,
 				D93239A92B32B2BB009DB51E /* BackButton.swift in Sources */,
 				D9566AB12B39652400FE356D /* Question.swift in Sources */,
+				D9C1612C2B53E8710030574E /* BlitzExplanationView.swift in Sources */,
 				D93239D42B36E84A009DB51E /* SurvivalVC.swift in Sources */,
 				D95277612B25AE4F0089B91D /* Trivia_AppTests.swift in Sources */,
 				D93239CD2B36E839009DB51E /* BlitzVC.swift in Sources */,
@@ -762,6 +776,7 @@
 				D93239B92B32CA0D009DB51E /* ModeSelectVC.swift in Sources */,
 				D952776B2B25AE4F0089B91D /* Trivia_AppUITests.swift in Sources */,
 				D93239C72B36E81F009DB51E /* ClassicVC.swift in Sources */,
+				D9C1612D2B53E8710030574E /* BlitzExplanationView.swift in Sources */,
 				D9566AA92B3959C300FE356D /* HelpButton.swift in Sources */,
 				D95277952B25B2410089B91D /* Extensions.swift in Sources */,
 				D93239DC2B36E85B009DB51E /* HangmanVC.swift in Sources */,
@@ -788,6 +803,7 @@
 				D93239BA2B32CA0D009DB51E /* ModeSelectVC.swift in Sources */,
 				D952777C2B25AE580089B91D /* AppDelegate.swift in Sources */,
 				D93239C82B36E81F009DB51E /* ClassicVC.swift in Sources */,
+				D9C1612E2B53E8710030574E /* BlitzExplanationView.swift in Sources */,
 				D9566AAA2B3959C300FE356D /* HelpButton.swift in Sources */,
 				D952777D2B25AE580089B91D /* SceneDelegate.swift in Sources */,
 				D93239DD2B36E85B009DB51E /* HangmanVC.swift in Sources */,
@@ -806,6 +822,7 @@
 				D9566AB42B39652400FE356D /* Question.swift in Sources */,
 				D9566AC42B3BF79300FE356D /* HomeScreenButton.swift in Sources */,
 				D9566AC22B3BF75B00FE356D /* GameButton.swift in Sources */,
+				D9C1612F2B53E8710030574E /* BlitzExplanationView.swift in Sources */,
 				D93239A42B32AEC6009DB51E /* SettingsVC.swift in Sources */,
 				D952779B2B25B3CE0089B91D /* Extensions.swift in Sources */,
 				D93239D02B36E839009DB51E /* BlitzVC.swift in Sources */,
@@ -834,6 +851,7 @@
 				D9566AAC2B3959C300FE356D /* HelpButton.swift in Sources */,
 				D93239D82B36E84A009DB51E /* SurvivalVC.swift in Sources */,
 				D93239D12B36E839009DB51E /* BlitzVC.swift in Sources */,
+				D9C161302B53E8710030574E /* BlitzExplanationView.swift in Sources */,
 				D9566AB52B39652400FE356D /* Question.swift in Sources */,
 				D95277B42B25C03D0089B91D /* Extensions.swift in Sources */,
 				D93239CA2B36E81F009DB51E /* ClassicVC.swift in Sources */,

@@ -20,7 +20,7 @@ struct AppConstants {
     static let gryffindorColor = UIColor.rgb(red: 125, green: 25, blue: 21, alpha: 1)
     static let labelColor      = UIColor.white
     static let backgroundImage = UIImage(named: "")
-    static let backgroundVideo = "smoke"
+    static let backgroundVideo = "glitter"
     static let backgroundMusic = "background_music.mp3"
     
     static let prodAdMobsKey = "ca-app-pub-6504174477930496/1611814353"

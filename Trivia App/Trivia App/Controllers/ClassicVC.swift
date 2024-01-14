@@ -24,7 +24,7 @@ class ClassicVC: UIViewController {
     
     fileprivate var gameButtons = [GameButton]()
     
-    fileprivate let exitView = ExitView(frame: CGRect(x: 0, y: 0, width: 300, height: 300))
+    fileprivate let exitView = ExitView()
     
     fileprivate let questionIndexLabel = {
         let label = UILabel()
@@ -67,7 +67,7 @@ class ClassicVC: UIViewController {
     }
     
     override func viewDidAppear(_ animated: Bool) {
-        playBackgroundVideo()
+        player?.play()
     }
     
     override func viewDidDisappear(_ animated: Bool) {
@@ -76,10 +76,11 @@ class ClassicVC: UIViewController {
     
     // MARK: - Setting Up UI
     fileprivate func setUpUI() {
+        playBackgroundVideo()
+        
         backButton.delegate = self
         gearButton.delegate = self
         exitView.delegate = self
-        wrongAnswerView.delegate = self
         
         exitView.alpha = 0
         
@@ -158,10 +159,7 @@ class ClassicVC: UIViewController {
             }
         }
     }
-    
-//    fileprivate func getQuestions(num: Int) {
-//        questions = QuestionModelData(json: AppConstants.classicTrivia, numberOfQuestions: num)
-//    }
+
     func increaseQuestionIndex() {
         if questionIndex + 1 == questions?.questions.count {
             let vc = ResultsVC()
@@ -172,7 +170,6 @@ class ClassicVC: UIViewController {
             self.updateUI()
         }
     }
-    
     
     // MARK: - Background Video
     func playBackgroundVideo() {
@@ -216,9 +213,7 @@ class ClassicVC: UIViewController {
             ])
             return
         }
-        
         increaseQuestionIndex()
-        
     }
 }
 
@@ -230,10 +225,10 @@ extension ClassicVC: BackButtonDelegate {
         
         view.addSubview(exitView)
         NSLayoutConstraint.activate([
-            exitView.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor, constant: 20),
-            exitView.leftAnchor.constraint(equalTo: view.leftAnchor, constant: 20),
-            exitView.rightAnchor.constraint(equalTo: view.rightAnchor, constant: -20),
-            exitView.bottomAnchor.constraint(equalTo: view.bottomAnchor, constant: -20),
+            exitView.topAnchor.constraint(equalTo: view.topAnchor, constant: 0),
+            exitView.leftAnchor.constraint(equalTo: view.leftAnchor, constant: 0),
+            exitView.rightAnchor.constraint(equalTo: view.rightAnchor, constant: 0),
+            exitView.bottomAnchor.constraint(equalTo: view.bottomAnchor, constant: 0),
         ])
     }
 }
